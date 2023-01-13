@@ -1,41 +1,93 @@
-{
+{   
+    "Author": "Sathish M",
     "description": "1. The direction along the stream is downstream.\n\n    The direction against the stream is upstream.\n\n2. If the speed of the boat in still water is b km/hr and the speed of the stream is s km/hr,\n\nDownstream speed = b+s\nUpstream speed = b-s\n\n3. If the downstream speed is d km/hr and the upstream speed is u km/hr, \n\nSpeed of the boat in still water = (d+u)/2\nSpeed of the stream = (d-u)/2\n",
     "questions": [
         {
             "id": 1,
             "answerIndex": 1,
             "options": [
-                "2.5 kmph",
-                "3.5 kmph",
-                "7 kmph",
-                "23.5 kmph"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2.5 kmph"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the speed of the stream be s kmph and the speed of the boat be b kmph.\nb+s = 27\n  b-s = 20 \nSolving the equations, s = 3.5 kmph",
+                "value": "3.5 kmph"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "7 kmph"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "23.5 kmph"
+                }
+                
             ],
-            "text": "A man can row upstream at a speed of 20 kmph and downstream at a speed of 27 kmph. Find the speed of the stream.",
-            "detail": "Let the speed of the stream be s kmph and the speed of the boat be b kmph.\nb+s = 27\n  b-s = 20 \nSolving the equations, s = 3.5 kmph"
+            "text": "A man can row upstream at a speed of 20 kmph and downstream at a speed of 27 kmph. Find the speed of the stream."
+            
         },
         {
             "id": 2,
             "answerIndex": 0,
             "options": [
-                "10.5 km",
-                "24.5 km",
-                "17.5 km",
-                "20 km"
+                {
+                    "correct": "true",
+                    "detail": "Upstream speed \n= Speed of the boat - Speed of the stream \n= 3 km/hr\nDistance travelled \n= Speed * time \n= 3*3.5 = 10.5 km",
+                    "value": "10.5 km"
+                    },
+                    {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "24.5 km"
+                    },
+                    {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "17.5 km"
+                    },
+                    {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "20 km"
+                    }
+               
             ],
-            "text": "The speed of a boat in still water is 5 km/hr. The speed of the stream is 2 km/hr. The distance travelled by a boat upstream in 3.5 hrs is",
-            "detail": "Upstream speed \n= Speed of the boat - Speed of the stream \n= 3 km/hr\nDistance travelled \n= Speed * time \n= 3*3.5 = 10.5 km"
+            "text": "The speed of a boat in still water is 5 km/hr. The speed of the stream is 2 km/hr. The distance travelled by a boat upstream in 3.5 hrs is"
+        
         },
         {
             "id": 3,
             "answerIndex": 1,
             "options": [
-                "2 kmph",
-                "3 kmph",
-                "4 kmph",
-                "5 kmph"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2 kmph"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the speed of the stream be x kmph.\nUpstream speed = (7-x) kmph\nDownstream speed = (7+x) kmph\nTime taken to travel upstream = (10/(7-x)) hrs\nTime taken to travel upstream = (5/(7+x)) hrs\n\n(10/(7-x)) + (5/(7+x)) = 3\n3x2+5x-42=0\nSolving this equation, x=3",
+                "value": "3 kmph"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4 kmph"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "5 kmph"
+                }
+               
             ],
-            "text": "A boat travels 10 km upstream and 5 km downstream in 3 hrs. If the speed of the boat in still water is 7 kmph, find the speed of the stream.",
-            "detail": "Let the speed of the stream be x kmph.\nUpstream speed = (7-x) kmph\nDownstream speed = (7+x) kmph\nTime taken to travel upstream = (10/(7-x)) hrs\nTime taken to travel upstream = (5/(7+x)) hrs\n\n(10/(7-x)) + (5/(7+x)) = 3\n3x2+5x-42=0\nSolving this equation, x=3"
+            "text": "A boat travels 10 km upstream and 5 km downstream in 3 hrs. If the speed of the boat in still water is 7 kmph, find the speed of the stream."
+             
         },
         {
             "id": 4,
