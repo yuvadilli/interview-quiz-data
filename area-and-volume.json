@@ -753,10 +753,27 @@
             "id": 31,
             "answerIndex": 3,
             "options": [
-                "45 feet",
-                "63 feet",
-                "275 feet",
-                "315 feet"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "45 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "63 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "275 feet"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the revolutions made by the front wheel be x and that of the back wheel be x-10\n\nx*7 = (x-10)*9\n\n7x = 9x-90\n\nx=45\n\nDistance = 45*7 = 315 feet",
+                "value": "315 feet"
+                }
+                
             ],
             "text": "Perimeter of the backwheel is 9 feet and that of the front wheel is 7 feet. On travelling a certain distance, the front wheel makes 10 revolutions more than the back wheel. What is the distance?",
             "detail": "Let the revolutions made by the front wheel be x and that of the back wheel be x-10\n\nx*7 = (x-10)*9\n\n7x = 9x-90\n\nx=45\n\nDistance = 45*7 = 315 feet"
