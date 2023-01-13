@@ -7,22 +7,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.5 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Let the speed of the stream be s kmph and the speed of the boat be b kmph.\nb+s = 27\n  b-s = 20 \nSolving the equations, s = 3.5 kmph",
                 "value": "3.5 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "7 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "23.5 kmph"
                 }
@@ -36,22 +36,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Upstream speed \n= Speed of the boat - Speed of the stream \n= 3 km/hr\nDistance travelled \n= Speed * time \n= 3*3.5 = 10.5 km",
                     "value": "10.5 km"
                     },
                     {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24.5 km"
                     },
                     {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "17.5 km"
                     },
                     {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20 km"
                     }
@@ -65,22 +65,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Let the speed of the stream be x kmph.\nUpstream speed = (7-x) kmph\nDownstream speed = (7+x) kmph\nTime taken to travel upstream = (10/(7-x)) hrs\nTime taken to travel upstream = (5/(7+x)) hrs\n\n(10/(7-x)) + (5/(7+x)) = 3\n3x2+5x-42=0\nSolving this equation, x=3",
                 "value": "3 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "5 kmph"
                 }
@@ -94,22 +94,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.5 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "The downstream speed should be twice the upstream speed. \n\n9+x = 2*(9-x) \nx=3",
                 "value": "3 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "Data Insufficient"
                 }
@@ -123,22 +123,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "12 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "9 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "(16/u) + (24/d) = 4\n(24/u) + (18/d) = 4.5\n\nSolving, u = 8, d = 12\n\nb = (u+d)/2 = 10 kmph",
                 "value": "10 kmph"
                 }
@@ -152,22 +152,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4 hours"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4.5 hours"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "5 hours"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Downstream speed \n= 72/4 = 18 kmph \ns = d-b = 3  \nu = b-s = 12 kmph\n\nTime taken to travel 72 km upstream \n= 72/12 = 6 hours",
                 "value": "6 hours"
                 }
@@ -181,22 +181,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = 10 kmph\nd = 15 kmph\n\ns = (d-u)/2 = 2.5 kmph         \nb = (d+u)/2 = 12.5 kmph\n\nb:s = 5:1\n",
                 "value": "5:1"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3:2"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4:1"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2:3"
                 }
@@ -210,22 +210,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "8 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "(16/d) + (12/u) = 5 \n\nd=2u\ns = (d-u)/2\n\nSolving, s = 2 kmph\n",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "6 kmph"
                 }
@@ -239,22 +239,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "15 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "10 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3 km"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = 15 kmph\nDistance = 15*20/60 = 5 km",
                 "value": "5 km"
                 }
@@ -268,22 +268,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "45 km"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Upstream and downstream travel took him 4 hours (leaving his 1 hour stay at B).\nu = 9 km/hr\nd = 15 km/hr\n(x/9) + (x/15) = 4\nDistance = 22.5 km",
                 "value": "22.5 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "36 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "27 km"
                 }
@@ -297,22 +297,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "9 m/s"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "5 m/s"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2 m/s"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "b = (u+d)/2 = 9 kmph\n\nThe options are given in m/s.\n\n9 kmph = (9*5/18) m/s = 2.5 m/s",
                 "value": "2.5 m/s"
                 }
@@ -326,22 +326,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "16 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Let the speed of the ship be x kmph.\n\nu = x-4\nd = x+4\n\n48/(x+4) = 32/(x-4)\n\n48x-192 = 32x+128\n\n16x = 320\n\nx = 20kmph",
                 "value": "20 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "18 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "24 kmph"
                 }
@@ -355,22 +355,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "20 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "25 km"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "Let the distance between A and B be x km.\n\nu = b-s = 8 kmph\nd = b+s = 12 kmph\n\n(x/u)+(x/d) = 5\n\n(x/8)+(x/12)=5\n\nSolving, x = 24km",
                 "value": "24 km"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "18 km"
                 }
@@ -384,22 +384,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "d=2u\n\nb+s = 2(b-s)\n\nb+s = 2b-2s\n\nb = 3s\n\nb:s=3:1",
                 "value": "3:1"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2:1"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "1:2"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3:2"
                 }
@@ -413,22 +413,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.5 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u=9kmph\nd=15kmph\n\ns=(d-u)/2 = 3kmph",
                 "value": "3 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4 kmph"
                 }
@@ -442,22 +442,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.1 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = b-s\nd = b+s\n\nAverage speed\n= 2ud/(u+d)\n\n(2*7*d)/(7+d) = 9.1\n\n14d = 9.1(7+d)\n\nSolving,\nd=13 kmph\n\ns = d-u/2 = 3 kmph\n\n",
                 "value": "3 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.9 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3.5 kmph"
                 }
@@ -471,22 +471,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = b-s = 6 kmph\nd = b+s = 10 kmph\n\nTime taken to travel upstream \n= 30/6\n= 5 hours\nTime taken to travel downstream\n= 30/10\n= 3 hours\nTime in the island\n= 2 hours\nTotal time\n= 10 hours\nTherefore, the boat should have started at 7 in the morning.",
                 "value": "7:00 am"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "8:00 am"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "9:30 am"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "6:15 am"
                 }
@@ -500,22 +500,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3.5 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3.25 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = 10.5 kmph\nd = 16.5 kmph\n\ns = (d-u)/2 = 3 kmph",
                 "value": "3 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "6.5 kmph"
                 }
@@ -529,22 +529,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3.5 hours"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "3.9 hours"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4.5 hours"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "u = 35/5 = 7 kmph\nd = 39/3 = 13 kmph\n\nThe man's speed\n= u+d/2\n= 10 kmph\nHe can cover a distance of 40 km in\n= 40/10\n= 4 hours",
                 "value": "4 hours"
                 }
@@ -558,22 +558,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "4 kmph"
                 },
                 {
-                "correct": "true",
+                "correct": true,
                 "detail": "b = 6 kmph\n\nUpstream travel time = 16/u\nDownstream travel time = 16/d\n\n16/u + 16/d = 6\n[16/(6-s)]+[16/(6+s)] = 6\n\nSolving,\n\n16(6+s)+16(6-s) = 6(36-s²)\n\n32*6 = 6(36-s²)\n\ns² = 36-32 = 4\ns = 2 kmph",
                 "value": "2 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "1 kmph"
                 },
                 {
-                "correct": "false",
+                "correct": false,
                 "detail": "",
                 "value": "2.5 kmph"
                 }
@@ -586,121 +586,291 @@
             "id": 21,
             "answerIndex": 3,
             "options": [
-                "4.5 hours",
-                "3 hours",
-                "259 minutes",
-                "2(7/9) hours"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.5 hours"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 hours"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "259 minutes"
+                },
+                {
+                "correct": true,
+                "detail": "s = 1.5 kmph\n\nTime taken to travel 4.5km downstream\n= time taken for 3km upstream\n\nSpeed is inversely proportional to time.\nHence,\n4.5*upstream speed = 3*downstream speed\n\n4.5u = 3d\n4.5(b-s) = 3(b+s)\n\n1.5b = 7.5s = 7.5*1.5\n\nb = 7.5kmph\nu = 6 kmph\nd = 9 kmph\n\nTime taken to travel 10 km upstream \n= 10/u\n= 5/3\nTime taken to travel 10 km downstream \n= 10/d\n= 10/9\nTotal time\n= 25/9 hours\n= 2(7/9) hours",
+                "value": "2(7/9) hours"
+                }
+                
             ],
-            "text": "The current of a stream runs at a rate of 1.5 kmph. A man rows 10 km to an island and returns back immediately. If he can row 4.5 km with the stream in the same time as 3 km against the stream, find the total time taken by him.",
-            "detail": "s = 1.5 kmph\n\nTime taken to travel 4.5km downstream\n= time taken for 3km upstream\n\nSpeed is inversely proportional to time.\nHence,\n4.5*upstream speed = 3*downstream speed\n\n4.5u = 3d\n4.5(b-s) = 3(b+s)\n\n1.5b = 7.5s = 7.5*1.5\n\nb = 7.5kmph\nu = 6 kmph\nd = 9 kmph\n\nTime taken to travel 10 km upstream \n= 10/u\n= 5/3\nTime taken to travel 10 km downstream \n= 10/d\n= 10/9\nTotal time\n= 25/9 hours\n= 2(7/9) hours"
+            "text": "The current of a stream runs at a rate of 1.5 kmph. A man rows 10 km to an island and returns back immediately. If he can row 4.5 km with the stream in the same time as 3 km against the stream, find the total time taken by him."
+           
         },
         {
             "id": 22,
             "answerIndex": 1,
             "options": [
-                "1 hour",
-                "1.5 hours",
-                "150 minutes",
-                "180 minutes"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1 hour"
+                },
+                {
+                "correct": true,
+                "detail": "Downstream speed\n= 6.8+3.2\n= 10 kmph\nTime taken\n= 15/10\n= 1.5 hours",
+                "value": "1.5 hours"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "150 minutes"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "180 minutes"
+                }
+              
             ],
-            "text": "John can row at a speed of 6.8 kmph in still water. If the speed of the stream is 3.2 kmph, find the time taken by him to row 15 km downstream.",
-            "detail": "Downstream speed\n= 6.8+3.2\n= 10 kmph\nTime taken\n= 15/10\n= 1.5 hours"
+            "text": "John can row at a speed of 6.8 kmph in still water. If the speed of the stream is 3.2 kmph, find the time taken by him to row 15 km downstream."
+        
         },
         {
             "id": 23,
             "answerIndex": 2,
             "options": [
-                "10.1 kmph",
-                "9.05 kmph",
-                "5.9 kmph",
-                "4.9 kmph"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10.1 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9.05 kmph"
+                },
+                {
+                "correct": true,
+                "detail": "Upstream speed\n=8-2.1\n=5.9 kmph",
+                "value": "5.9 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.9 kmph"
+                }
+               
             ],
-            "text": "A boat moves at 8 kmph in still water. If the speed of a stream is 2.1 kmph, find the effective speed with which the boat travels upstream.",
-            "detail": "Upstream speed\n=8-2.1\n=5.9 kmph"
+            "text": "A boat moves at 8 kmph in still water. If the speed of a stream is 2.1 kmph, find the effective speed with which the boat travels upstream."
+            
         },
         {
             "id": 24,
             "answerIndex": 3,
             "options": [
-                "16.5 km",
-                "9 km",
-                "6 km",
-                "1.5 km"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16.5 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6 km"
+                },
+                {
+                "correct": true,
+                "detail": "Downstream speed of the first boat\n= 15 kmph\nDownstream speed of the second boat\n= 18 kmph\nIn half an hour,\ndistance travelled by first boat\n= 7.5 km\ndistance travelled by second boat\n= 9 km\nDistance between them\n= 1.5 km",
+                "value": "1.5 km"
+                }
+                
             ],
-            "text": "Two boats travel downstream to the same destination. The speeds of the boats in still water are 12 kmph and 15 kmph. If they started at exactly the same time and the speed of the stream is 3 kmph, find the distance between them after half an hour.",
-            "detail": "Downstream speed of the first boat\n= 15 kmph\nDownstream speed of the second boat\n= 18 kmph\nIn half an hour,\ndistance travelled by first boat\n= 7.5 km\ndistance travelled by second boat\n= 9 km\nDistance between them\n= 1.5 km"
+            "text": "Two boats travel downstream to the same destination. The speeds of the boats in still water are 12 kmph and 15 kmph. If they started at exactly the same time and the speed of the stream is 3 kmph, find the distance between them after half an hour."
+        
         },
         {
             "id": 25,
             "answerIndex": 0,
             "options": [
-                "6 kmph",
-                "5 kmph",
-                "4.5 kmph",
-                "7.5 kmph"
+                {
+                "correct": true,
+                "detail": "Let swimmer's speed=x kmph\n\nTime taken to swim downstream\n= 5/(x-3)\nTime taken to swim upstream\n= 3/(x+3)\n\n[5/(x-3)]+[3/(x+3)] = 2\n5x+15+3x-9 = 2(x²-9)\n2x²-8x-24=0\nx²-4x-12=0\n(x-6)(x+2)=0\n\nx can't be -2\nHence, x=6 kmph",
+                "value": "6 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7.5 kmph"
+                }
+              
             ],
-            "text": "A swimmer swims 5 km upstream and 3 km downstream in 2 hour. If the speed of the stream is 3 kmph, find the swimmer's speed.",
-            "detail": "Let swimmer's speed=x kmph\n\nTime taken to swim downstream\n= 5/(x-3)\nTime taken to swim upstream\n= 3/(x+3)\n\n[5/(x-3)]+[3/(x+3)] = 2\n5x+15+3x-9 = 2(x²-9)\n2x²-8x-24=0\nx²-4x-12=0\n(x-6)(x+2)=0\n\nx can't be -2\nHence, x=6 kmph"
+            "text": "A swimmer swims 5 km upstream and 3 km downstream in 2 hour. If the speed of the stream is 3 kmph, find the swimmer's speed."
+           
         },
         {
             "id": 26,
             "answerIndex": 2,
             "options": [
-                "14 kmph",
-                "8 kmph",
-                "4 kmph",
-                "5 kmph"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8 kmph"
+                },
+                {
+                "correct": true,
+                "detail": "Speed of the current\n= (d-u)/2\n= (18-10)/2\n= 4 kmph",
+                "value": "4 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5 kmph"
+                }
+              
             ],
-            "text": "The effective speed of travel of a boat downstream is 18 kmph whereas it is 10 kmph upstream. What is the speed of the current?",
-            "detail": "Speed of the current\n= (d-u)/2\n= (18-10)/2\n= 4 kmph"
+            "text": "The effective speed of travel of a boat downstream is 18 kmph whereas it is 10 kmph upstream. What is the speed of the current?"
+           
         },
         {
             "id": 27,
             "answerIndex": 0,
             "options": [
-                "15 kmph",
-                "12 kmph",
-                "10 kmph",
-                "9 kmph"
+                {
+                "correct": true,
+                "detail": "Time taken to travel 18 km downstream\n= 18/(b+3)\nTime taken to travel 18 km upstream\n= 18/(b-3)\n[18/(b-3)]-[18/(b+3] = 30/60   ------ (I)\n18[(b+3)-(b-3)] = 1/2[b²-9]\n36[6] = b²-9\nb²-216-9 = 0\nb² = 225\nb = 15 kmph\n\n** To do quickly, we can substitute the options in eqn (I)",
+                "value": "15 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9 kmph"
+                }
+                
             ],
-            "text": "A boat takes 30 minutes less to travel 18 km downstream than to travel the same distance upstream. If the  speed of the stream is 3 kmph, find the speed of the boat.",
-            "detail": "Time taken to travel 18 km downstream\n= 18/(b+3)\nTime taken to travel 18 km upstream\n= 18/(b-3)\n[18/(b-3)]-[18/(b+3] = 30/60   ------ (I)\n18[(b+3)-(b-3)] = 1/2[b²-9]\n36[6] = b²-9\nb²-216-9 = 0\nb² = 225\nb = 15 kmph\n\n** To do quickly, we can substitute the options in eqn (I)"
+            "text": "A boat takes 30 minutes less to travel 18 km downstream than to travel the same distance upstream. If the  speed of the stream is 3 kmph, find the speed of the boat."
+            
         },
         {
             "id": 28,
             "answerIndex": 1,
             "options": [
-                "15 kmph",
-                "12.5 kmph",
-                "10 kmph",
-                "7.5 kmph"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "15 kmph"
+                },
+                {
+                "correct": true,
+                "detail": "Time taken to travel 10 km upstream\n= 10/(b-s)\nTime taken to travel 10 km downstream\n= 10/(b+s)\n[10/(b-2.5)]+[10/(b+2.5)] = 100/60\n\n(b+2.5)+(b-2.5) = (1/6)*(b²-6.25)\n\nb²-12b-6.25 = 0\n(b-12.5)(b+0.5) = 0\nb=12.5 kmph",
+                "value": "12.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7.5 kmph"
+                }
+              
             ],
-            "text": "The current of a stream runs at the rate of 2.5 km per hr. A motor boat goes 10 km upstream and back again to the starting point in 100 mins. Find the speed of the motor boat in still water?",
-            "detail": "Time taken to travel 10 km upstream\n= 10/(b-s)\nTime taken to travel 10 km downstream\n= 10/(b+s)\n[10/(b-2.5)]+[10/(b+2.5)] = 100/60\n\n(b+2.5)+(b-2.5) = (1/6)*(b²-6.25)\n\nb²-12b-6.25 = 0\n(b-12.5)(b+0.5) = 0\nb=12.5 kmph"
+            "text": "The current of a stream runs at the rate of 2.5 km per hr. A motor boat goes 10 km upstream and back again to the starting point in 100 mins. Find the speed of the motor boat in still water?"
+           
         },
         {
             "id": 29,
             "answerIndex": 1,
             "options": [
-                "3 kmph",
-                "1.5 kmph",
-                "4.5 kmph",
-                "8.5 kmph"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 kmph"
+                },
+                {
+                "correct": true,
+                "detail": "Let the swimmer's speed be x kmph and \nthe speed of the current be c kmph.\nTime taken to travel 28 km upstream\n= 28/u\n= 28/(x-c) = 4\nx-c = 28/4 = 7     ------ (I)\nTime taken to travel 40 km downstream\n= 40/(x+c) = 4\nx+c = 40/4 = 10  ------(II)\n\nSolving,\nc=1.5 kmph",
+                "value": "1.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8.5 kmph"
+                }
+                
             ],
-            "text": "A swimmer covers a distance of 28 km against the current and 40 km in the direction of the current. If in each case he takes 4 hours, then the speed of the current is",
-            "detail": "Let the swimmer's speed be x kmph and \nthe speed of the current be c kmph.\nTime taken to travel 28 km upstream\n= 28/u\n= 28/(x-c) = 4\nx-c = 28/4 = 7     ------ (I)\nTime taken to travel 40 km downstream\n= 40/(x+c) = 4\nx+c = 40/4 = 10  ------(II)\n\nSolving,\nc=1.5 kmph"
+            "text": "A swimmer covers a distance of 28 km against the current and 40 km in the direction of the current. If in each case he takes 4 hours, then the speed of the current is"
+        
         },
         {
             "id": 30,
             "answerIndex": 0,
             "options": [
-                "12.5 kmph",
-                "8 kmph",
-                "3.5 kmph",
-                "7.5 kmph"
-            ],
-            "text": "A man rows 20km upstream in 150 minutes. If the speed of the stream is 4.5 kmph, find his speed in still water.",
-            "detail": "150 mins=2.5 hrs\n\nUpstream speed\n= 20/2.5\n= 8 kmph\nSpeed in still water\n= 8+4.5\n= 12.5 kmph"
+                {
+                "correct": true,
+                "detail": "150 mins=2.5 hrs\n\nUpstream speed\n= 20/2.5\n= 8 kmph\nSpeed in still water\n= 8+4.5\n= 12.5 kmph",
+                "value": "12.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3.5 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7.5 kmph"
+                }
+             ]
+            ,
+            "text": "A man rows 20km upstream in 150 minutes. If the speed of the stream is 4.5 kmph, find his speed in still water."
+        
         },
         {
             "id": 31,
