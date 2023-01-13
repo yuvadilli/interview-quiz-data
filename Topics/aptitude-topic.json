@@ -1,0 +1,198 @@
+{
+    "id": "aptitude",
+    "img": "https://firebasestorage.googleapis.com/v0/b/interview-quiz-app.appspot.com/o/Subjects%2FAptitude.png?alt=media&token=95dd5e4e-85ae-4a04-b4de-89eefb1e55ba",
+    "isDisplay": true,
+    "quizzes": [
+        {
+            "description": "Problems On Trains",
+            "id": "aptitude-trains",
+            "title": "Trains"
+        },
+        {
+            "description": "Problems on Height and Distance",
+            "id": "aptitude-height-distance",
+            "title": "Height and Distance"
+        },
+        {
+            "description": "Simple Interest",
+            "id": "aptitude-simple-interest",
+            "title": "Height and Distance"
+        },
+        {
+            "description": "Profit and Loss",
+            "id": "aptitude-profit-and-loss",
+            "title": "Profit and Loss"
+        },
+        {
+            "description": "Percentage",
+            "id": "aptitude-percentage",
+            "title": "Percentage"
+        },
+        {
+            "description": "Calendar",
+            "id": "aptitude-calendar",
+            "title": "Calendar"
+        },
+        {
+            "description": "Average",
+            "id": "aptitude-average",
+            "title": "Average"
+        },
+        {
+            "description": "Volume and Surface Area",
+            "id": "aptitude-volume-and-surface-area",
+            "title": "Volume and Surface Area"
+        },
+        {
+            "description": "Numbers",
+            "id": "aptitude-numbers",
+            "title": "Numbers"
+        },
+        {
+            "description": "Problems on H.C.F and L.C.M",
+            "id": "aptitude-HCF-and-LCM",
+            "title": "H.C.F and L.C.M"
+        },
+        {
+            "description": "Simplification",
+            "id": "aptitude-simplification",
+            "title": "Simplification"
+        },
+        {
+            "description": "Surds and Indices",
+            "id": "aptitude-surds-and-indices",
+            "title": "Surds and Indices"
+        },
+        {
+            "description": "Chain Rule",
+            "id": "aptitude-chain-rule",
+            "title": "Chain Rule"
+        },
+        {
+            "description": "Boats and Streams",
+            "id": "aptitude-boats-and-streams",
+            "title": "Boats and Streams"
+        },
+        {
+            "description": "Logarithm",
+            "id": "aptitude-logarithm",
+            "title": "Logarithm"
+        },
+        {
+            "description": "Stocks and Shares",
+            "id": "aptitude-stocks-and-shares",
+            "title": "Stocks and Shares"
+        },
+        {
+            "description": "True Discount",
+            "id": "aptitude-true-discount",
+            "title": "True Discount"
+        },
+        {
+            "description": "Odd Man Out and Series",
+            "id": "aptitude-odd-man-out-and-series",
+            "title": "Odd Man Out and Series"
+        },
+        {
+            "description": "Time and Distance",
+            "id": "aptitude-time-and-distance",
+            "title": "Time and Distance"
+        },
+        {
+            "description": "Time and Work",
+            "id": "aptitude-time-and-work",
+            "title": "Time and Work"
+        },
+        {
+            "description": "Compound Interest",
+            "id": "aptitude-compound-interest",
+            "title": "Compound Interest"
+        },
+        {
+            "description": "Partnership",
+            "id": "aptitude-partnership",
+            "title": "Partnership"
+        },
+        {
+            "description": "Problems on Ages",
+            "id": "aptitude-problems-on-ages",
+            "title": "Problems on Ages"
+        },
+        {
+            "description": "Clock",
+            "id": "aptitude-clock",
+            "title": "Clock"
+        },
+        {
+            "description": "Area",
+            "id": "aptitude-area",
+            "title": "Area"
+        },
+        {
+            "description": "Permutation and Combination",
+            "id": "aptitude-permutation-and-combination",
+            "title": "Permutation and Combination"
+        },
+        {
+            "description": "Problems on Numbers",
+            "id": "aptitude-problems-on-numbers",
+            "title": "Problems on Numbers"
+        },
+        {
+            "description": "Problems on Numbers",
+            "id": "aptitude-problems-on-numbers",
+            "title": "Problems on Numbers"
+        },
+        {
+            "description": "Decimal Fraction",
+            "id": "aptitude-decimal-fraction",
+            "title": "Decimal Fraction"
+        },
+        {
+            "description": "Square Root and Cube Root",
+            "id": "aptitude-square-root-and-cube-root",
+            "title": "Square Root and Cube Root"
+        },
+        {
+            "description": "Square Root and Cube Root",
+            "id": "aptitude-square-root-and-cube-root",
+            "title": "Square Root and Cube Root"
+        },
+        {
+            "description": "Ratio and Proportion",
+            "id": "aptitude-ratio-and-proportion",
+            "title": "Ratio and Proportion"
+        },
+        {
+            "description": "Ratio and Proportion",
+            "id": "aptitude-ratio-and-proportion",
+            "title": "Ratio and Proportion"
+        },
+        {
+            "description": "Pipes and Cistern",
+            "id": "aptitude-pipes-and-cistern",
+            "title": "Pipes and Cistern"
+        },
+        {
+            "description": "Alligation or Mixture",
+            "id": "aptitude-alligation-or-mixture",
+            "title": "Alligation or Mixture"
+        },
+        {
+            "description": "Races and Games",
+            "id": "aptitude-races-and-games",
+            "title": "Races and Games"
+        },
+        {
+            "description": "Probability",
+            "id": "aptitude-probability",
+            "title": "Probability"
+        },
+        {
+            "description": "Banker's Discount",
+            "id": "aptitude-bankers-discount",
+            "title": "Banker's Discount"
+        }
+    ],
+    "title": "Aptitude"
+}
