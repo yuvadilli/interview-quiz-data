@@ -12,3 +12,27 @@ Question
 	* detail -> correct ans detail
  	* value -> Option Text
 
+
+Template
+=======
+
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "18"
+                },
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "19"
+                },
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "15"
+                },
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "21"
+                }

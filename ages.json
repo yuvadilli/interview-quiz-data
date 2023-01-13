@@ -496,13 +496,28 @@
             "id": 19,
             "answerIndex": 2,
             "options": [
-                "18",
-                "19",
-                "15",
-                "21"
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "18"
+                },
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "19"
+                },
+                {
+                    "correct": "true",
+                    "detail": "Let the ages of the three brothers be x,y and z.\n\n(x+y)/2 = 21\nx+y=42\n\n(x+y+z)/3=19\n\nx+y+z=57\n\n42+z=57\n\nz=15",
+                    "value": "15"
+                },
+                {
+                    "correct": "false",
+                    "detail": "",
+                    "value": "21"
+                }
             ],
-            "text": "The average age of two brothers in a family is 21. The average drops to 19 when the age of the third brother is also included. Find the age of the third brother.",
-            "detail": "Let the ages of the three brothers be x,y and z.\n\n(x+y)/2 = 21\nx+y=42\n\n(x+y+z)/3=19\n\nx+y+z=57\n\n42+z=57\n\nz=15"
+            "text": "The average age of two brothers in a family is 21. The average drops to 19 when the age of the third brother is also included. Find the age of the third brother."
         },
         {
             "id": 20,

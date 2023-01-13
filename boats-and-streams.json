@@ -1,6 +1,6 @@
 {
-    "formula": "1. The direction along the stream is downstream.\n\n    The direction against the stream is upstream.\n\n2. If the speed of the boat in still water is b km/hr and the speed of the stream is s km/hr,\n\nDownstream speed = b+s\nUpstream speed = b-s\n\n3. If the downstream speed is d km/hr and the upstream speed is u km/hr, \n\nSpeed of the boat in still water = (d+u)/2\nSpeed of the stream = (d-u)/2\n",
-    "problems": [
+    "description": "1. The direction along the stream is downstream.\n\n    The direction against the stream is upstream.\n\n2. If the speed of the boat in still water is b km/hr and the speed of the stream is s km/hr,\n\nDownstream speed = b+s\nUpstream speed = b-s\n\n3. If the downstream speed is d km/hr and the upstream speed is u km/hr, \n\nSpeed of the boat in still water = (d+u)/2\nSpeed of the stream = (d-u)/2\n",
+    "questions": [
         {
             "id": 1,
             "answerIndex": 1,

@@ -1,6 +1,6 @@
 {
-  "formula": "Let \nP be the principal, \nT be the time in years, \nR the rate of interest\n\nSIMPLE INTEREST:\nSimple Interest(S.I) = PTR/100\nAmount(A) = P+I\n\nLet \nP be the principal, \nn be the time in years, \nR the rate of interest per annum\n\nCOMPOUND INTEREST:\nWhen interest is compounded annually,\nA = P[1+(R/100)]^n\n\nWhen interest is compounded half-yearly,\nA = P[1+(R/200)]^2n\n\nWhen interest is compounded quarterly,\nA = P[1+(R/400)]^4n\n",
-  "problems": [
+  "description": "Let \nP be the principal, \nT be the time in years, \nR the rate of interest\n\nSIMPLE INTEREST:\nSimple Interest(S.I) = PTR/100\nAmount(A) = P+I\n\nLet \nP be the principal, \nn be the time in years, \nR the rate of interest per annum\n\nCOMPOUND INTEREST:\nWhen interest is compounded annually,\nA = P[1+(R/100)]^n\n\nWhen interest is compounded half-yearly,\nA = P[1+(R/200)]^2n\n\nWhen interest is compounded quarterly,\nA = P[1+(R/400)]^4n\n",
+  "questions": [
     {
       "id": 1,
       "answerIndex": 2,

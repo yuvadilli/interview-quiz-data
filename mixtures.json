@@ -1,6 +1,6 @@
 {
-    "formula": "When two ingredients are mixed together in different ratios to form a mixture, the ratio of the quantities of the two constituents is given by \nQc:Qd = (d-m):(m-c)\n\nQc = Cheaper Quantity\nQd = Dearer Quantity\nc = C.P of unit quantity of cheaper\nd = C.P of unit quantity of dearer\nm = C.P of unit quantity of mixture\n\nFrom a container containing x litres of milk, y litres are withdrawn and replaced with water. \n\nIf this operation is performed n times, \nAmount of milk in the container after n operations = x*(1-y/x)^n",
-    "problems": [
+    "description": "When two ingredients are mixed together in different ratios to form a mixture, the ratio of the quantities of the two constituents is given by \nQc:Qd = (d-m):(m-c)\n\nQc = Cheaper Quantity\nQd = Dearer Quantity\nc = C.P of unit quantity of cheaper\nd = C.P of unit quantity of dearer\nm = C.P of unit quantity of mixture\n\nFrom a container containing x litres of milk, y litres are withdrawn and replaced with water. \n\nIf this operation is performed n times, \nAmount of milk in the container after n operations = x*(1-y/x)^n",
+    "questions": [
         {
             "id": 1,
             "answerIndex": 0,

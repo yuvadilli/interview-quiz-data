@@ -1,6 +1,6 @@
 {
-    "formula": "Fractions are written in the form x/y, where y≠0.\n\nx is called the numerator and\ny is called the denominator.\n\nTypes of fractions:\n\n(i) Proper fractions:\nNumerator<Denominator\nEg:2/3, 6/11\n(ii) Improper Fractions:\nNumerator>Denominator\nEg:3/2, 11/6\n(iii) Mixed Fractions:\nThey have two parts, a whole number and a fraction.\nEg.1(2/3), 5(3/14)\n(iv) Decimal Fractions\nThey have powers of 10 as denominators.\nEg:7/10, 9/100, 13/1000\n\nThere are many more types of fractions.\n\nA fraction is converted into percentage by multiplying by 100.\n\nEg: To convert 2/5 into percentage,\n(2/5)*100 = 40%",
-    "problems": [
+    "description": "Fractions are written in the form x/y, where y≠0.\n\nx is called the numerator and\ny is called the denominator.\n\nTypes of fractions:\n\n(i) Proper fractions:\nNumerator<Denominator\nEg:2/3, 6/11\n(ii) Improper Fractions:\nNumerator>Denominator\nEg:3/2, 11/6\n(iii) Mixed Fractions:\nThey have two parts, a whole number and a fraction.\nEg.1(2/3), 5(3/14)\n(iv) Decimal Fractions\nThey have powers of 10 as denominators.\nEg:7/10, 9/100, 13/1000\n\nThere are many more types of fractions.\n\nA fraction is converted into percentage by multiplying by 100.\n\nEg: To convert 2/5 into percentage,\n(2/5)*100 = 40%",
+    "questions": [
         {
             "id": 1,
             "answerIndex": 2,
