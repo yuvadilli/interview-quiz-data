@@ -1,0 +1,14 @@
+Description -> Formulas and Theory
+id -> (small & no Space) ->aptitude-ages
+title -> (Space & 1st Letter Caps) -> Aptitude Ages
+topic -> Actual Sub Topic -> Ages
+
+Question
+========
+ id -> Question No
+ answerIndex -> Correct Ans Index
+ options -> 
+	* correct -> bool ->true/fales
+	* detail -> correct ans detail
+ 	* value -> Option Text
+
