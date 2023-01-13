@@ -35,3 +35,28 @@ Template
                     "detail": "",
                     "value": "πa²"
                 }
+
+
+snippets
+=======
+
+			"{",
+			"\"correct\": \"false\",",
+			"\"detail\": \"\",",
+			"\"value\": \"$1\"",
+			"},",
+			"{",
+			"\"correct\": \"false\",",
+			"\"detail\": \"\",",
+			"\"value\": \"$2\"",
+			"},",
+			"{",
+			"\"correct\": \"false\",",
+			"\"detail\": \"\",",
+			"\"value\": \"$3\"",
+			"},",
+			"{",
+			"\"correct\": \"false\",",
+			"\"detail\": \"\",",
+			"\"value\": \"$4\"",
+			"}"
