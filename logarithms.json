@@ -1,0 +1,245 @@
+{
+  "formula": "If aⁿ = x, where a is a real number > 1, it can be written as\n\nn = logₐx\n\nThe value of log x to the base a equals n.\n\nExample:\n2³ = 8 can also be written as log₂ 8 = 3\n\nPROPERTIES:\n\n(i)logₐ (xy) = logₐ x + logₐ y\n(ii)logₐ (x/y) = logₐ x - logₐ y\n(iii)logₐ a = 1\n(iv)logₐ 1 = 0\n(v)logₐ xⁿ = n logₐ x\n(vi)logₐ x = 1/logₓ a\n(vii)logₐ x = log x/log a\n\nLogarithms with base 10 are known as Common Logarithms or Decimal Logarithms.\n\nEvey logarithm has two parts, Characteristic and Mantissa.\nThe whole number part of a logarithm is called the Characteristic.\nThe decimal part of a logarithm is called the Mantissa.\n\nExample:\nlog₁₀ 2 = 0.3010\n\nIn this, 0 is the Characteristic and 0.3010 is the Mantissa.",
+  "problems": [
+    {
+      "id": 1,
+      "answerIndex": 1,
+      "options": [
+        "2",
+        "1/2",
+        "1/6",
+        "1/√6"
+      ],
+      "text": "log √6 : log 6 = ?",
+      "detail": "log √6 : log 6\n= log 6^(1/2) : log 6\n= (1/2) log 6 / log 6\n= 1/2"
+    },
+    {
+      "id": 2,
+      "answerIndex": 0,
+      "options": [
+        "0.954",
+        "0.944",
+        "0.934",
+        "0.964"
+      ],
+      "text": "If log 27 = 1.431, then the value of log 9 is",
+      "detail": "log 27 = 1.431\n\nlog 3³ = 1.431\n\n3 log 3 = 1.431\n\nlog 3 = 0.477\n\nlog 9 = log 3² = 2 log 3 = 0.954"
+    },
+    {
+      "id": 3,
+      "answerIndex": 0,
+      "options": [
+        "2",
+        "1/2",
+        "√2",
+        "4"
+      ],
+      "text": "log₈ (64) = ?",
+      "detail": "log₈ (64)\n= log₈ (8^2)\n= 2 * log₈ 8\n= 2*1\n= 2"
+    },
+    {
+      "id": 4,
+      "answerIndex": 2,
+      "options": [
+        "2.870",
+        "2.967",
+        "3.876",
+        "3.912"
+      ],
+      "text": "If log 2 = 0.3010 and log 3 = 0.4771, the value of log₅ 512 is",
+      "detail": "log ₅512\n= log 512/log 5\n= log 2⁹ / log (10/2)\n= 9 log 2/(log 10 - log 2)\n= (9*0.3010)/(1-0.3010)\n= 2.709/.699\n= 3.876"
+    },
+    {
+      "id": 5,
+      "answerIndex": 0,
+      "options": [
+        "-(1+a)",
+        "1/(1+a)",
+        "a/10",
+        "1/10a"
+      ],
+      "text": "If log₁₀ 7 = a, then log₁₀ (1/70) =",
+      "detail": "log₁₀ (1/70)\n= log₁₀ 1 - log₁₀ 70\n= 0 - log₁₀ (7*10)\n= - (log₁₀ 7 + log₁₀ 10)\n= - (a+1)"
+    },
+    {
+      "id": 6,
+      "answerIndex": 0,
+      "options": [
+        "a+b = 1",
+        "a-b = 1",
+        "a = b",
+        "a² - b² = 1"
+      ],
+      "text": "If log (a/b)+log (b/a) = log (a + b), then",
+      "detail": "log (a/b)+log (b/a) = log (a + b)\n\nlog [(a/b)*(b/a)] = log (a+b)\n\nlog 1 = log (a+b)\n\na+b = 1"
+    },
+    {
+      "id": 7,
+      "answerIndex": 2,
+      "options": [
+        "3¹⁰",
+        "3¹⁰⁰",
+        "3¹⁰⁰⁰",
+        "3¹⁰⁰⁰⁰"
+      ],
+      "text": "If logₐ b = 100 and log₃ a = 10, then the value of b is",
+      "detail": "log₃ a = 10\n\na = 3¹°\n\nlogₐ b = 100\n\nb = a¹°° = (3¹°)¹°° = 3¹°°°"
+    },
+    {
+      "id": 8,
+      "answerIndex": 1,
+      "options": [
+        "3",
+        "6",
+        "8",
+        "9"
+      ],
+      "text": "The value of log₃ 729 is",
+      "detail": "log₃ 729\n= log₃ 3⁶\n= 6 log₃ 3\n= 6*1\n= 6"
+    },
+    {
+      "id": 9,
+      "answerIndex": 3,
+      "options": [
+        "log (x/y) = m/n",
+        "log x / log y = m/n",
+        "log (y/x) = m/n",
+        "log y / log x = m/n"
+      ],
+      "text": "If x^m = y^n, then",
+      "detail": "x^m = y^n\n\nlog x^m = log y^n\n\nm log x = n log y\n\nlog x/log y = n/m\n\nlog y / log x = m/n"
+    },
+    {
+      "id": 10,
+      "answerIndex": 2,
+      "options": [
+        "-2/5",
+        "-5/2",
+        "625/16",
+        "16/625"
+      ],
+      "text": "If logₓ (4/25) = -1/2, then x = ",
+      "detail": "logₓ (4/25) = -1/2\n\nx^(-1/2) = 4/25\n\n1/x^(1/2) = 4/25\n\n1/√x = 4/25\n\n1/x = 16/625\n\nx = 625/16"
+    },
+    {
+      "id": 11,
+      "answerIndex": 2,
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "text": "If log 2 = 0.30103, the number of digits in 2⁶⁴ is",
+      "detail": "log 2⁶⁴\n= 64 log 2\n= 64*0.30103\n= 19.26592\n\nThe characteristic is 19 and the mantissa is 0.26592\n\nThe number of digits is one more than the characteristic.\n\nHence, the number of digits in 2⁶⁴ is 19+1 = 20."
+    },
+    {
+      "id": 12,
+      "answerIndex": 1,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "text": "Find the value of log₂3 * log₃4.",
+      "detail": "log₂3 * log₃4\n= (log 3/log 2)*(log 4/log 3)\n= log 4 / log 2\n= log₂4\n= log₂2²\n= 2 log ₂2\n= 2*1\n= 2"
+    },
+    {
+      "id": 13,
+      "answerIndex": 1,
+      "options": [
+        "1.602",
+        "1.903",
+        "3.903",
+        "2.204"
+      ],
+      "text": "If log₁₀ 2 = 0.3010, the value of log₁₀ 80 is",
+      "detail": " log₁₀ 80\n=  log₁₀ (8*10)\n=  log₁₀ 8 +  log₁₀ 10\n=  log₁₀ 2³ + 1\n= 3 log₁₀ 2 + 1\n= 3*(0.3010)+1\n= 1.903"
+    },
+    {
+      "id": 14,
+      "answerIndex": 3,
+      "options": [
+        "12",
+        "20",
+        "24",
+        "16"
+      ],
+      "text": "If log₁₀ (3x+2) + log₁₀ 4 = log₁₀ (x+4) + 1, then x is equal to",
+      "detail": "log₁₀ (3x+2) + log₁₀ 4 = log₁₀ (x+4) + 1\n\nlog₁₀ [(3x+2)*4] = log₁₀ (x+4) + log₁₀ 10\n\nlog₁₀ [(3x+2)*4] = log₁₀ [(x+4)*10]\n\n4(3x+2) = 10(x+4)\n\n6x+4 = 5x+20\n\nx = 16"
+    },
+    {
+      "id": 15,
+      "answerIndex": 2,
+      "options": [
+        "-2",
+        "1/2",
+        "-1/2",
+        "1"
+      ],
+      "text": "If log₂ (2a+3) + log₂ 6 = log₂ (a+2) + 3, then find the value of a.",
+      "detail": "log₂ (2a+3) + log₂ 6 = log₂ (a+2) + 3\n\nlog₂ [(2a+3)*6] = log₂ (a+2) + log₂ 2³\n\nlog₂ [(2a+3)*6] = log₂ [8*(a+2)]\n\n6*(2a+3) = 8*(a+2)\n\na = -1/2\n"
+    },
+    {
+      "id": 16,
+      "answerIndex": 3,
+      "options": [
+        "∛5",
+        "15",
+        "125",
+        "625"
+      ],
+      "text": "If logₓ 5 = 1/3, then x is equal to",
+      "detail": "logₓ 5 = 1/3\n\nx^(1/3) = 5\n\nx = 5³ = 125"
+    },
+    {
+      "id": 17,
+      "answerIndex": 2,
+      "options": [
+        "3",
+        "6/7",
+        "1",
+        "7/6"
+      ],
+      "text": "The value of log₂₁₆ 6 * log₇ 343 is",
+      "detail": "log₂₁₆ 6 * log₇ 343\n= [log₂₁₆ (216)^1/3] * log₇ 7³\n= (1/3)*3\n= 1"
+    },
+    {
+      "id": 18,
+      "answerIndex": 3,
+      "options": [
+        "25.6",
+        "12.8",
+        "10",
+        "16"
+      ],
+      "text": "If log₃₂ x= 0.8, then x is equal to",
+      "detail": "log₃₂ x= 0.8\n\nx = 32^0.8\n   = (2µ)^0.8\n   = 2^(5*0.8)\n   = 2⁴\n   = 16"
+    },
+    {
+      "id": 19,
+      "answerIndex": 3,
+      "options": [
+        "1/3",
+        "3",
+        "2",
+        "1/2"
+      ],
+      "text": "Find the value of log₉8*log₈7*log₇6*log₆5*log₅4*log₄3.",
+      "detail": "log₉8*log₈7*log₇6*log₆5*log₅4*log₄3\n= (log 8/log 9)*(log 7/log 8)*(log 6/log 7)*(log 5/log 6)*(log 4/log 5)*(log 3/log 4)\n= log 3/log 9\n= log₉ 3\n= log₉ 9^(1/2)\n= 1/2"
+    },
+    {
+      "id": 20,
+      "answerIndex": 0,
+      "options": [
+        "2",
+        "1/2",
+        "5",
+        "1/5"
+      ],
+      "text": "The value of log₂(log₅ 625) is",
+      "detail": "log₂(log₅ 625)\n= log₂(log₅ 5⁴)\n= log₂ 4\n= log₂ 2²\n= 2"
+    }
+  ]
+}
