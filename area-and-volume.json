@@ -324,12 +324,12 @@
                 },
                 {
                     "correct": "false",
-                    "detail": "Diagonal of the square = Diameter of the circle\n\n√2 a = 2r = 10cm\n\na² = 50 cm²",
+                    "detail": "",
                     "value": "25 cm²"
                 },
                 {
                     "correct": "true",
-                    "detail": "",
+                    "detail": "Diagonal of the square = Diameter of the circle\n\n√2 a = 2r = 10cm\n\na² = 50 cm²",
                     "value": "50 cm²"
                 },
                 {
@@ -422,7 +422,7 @@
                     "value": "36 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": "true",
                     "detail": "2x=b\n\n3x=l\n\n2b+2l=30\n\nx=3\n\nA=b*l\n\nA=54cm²",
                     "value": "54 cm²"
                 },
@@ -645,637 +645,1542 @@
             "id": 22,
             "answerIndex": 0,
             "options": [
-                "2πx units",
-                "2πr units",
-                "2π(r+x) units",
-                "2π units"
+                {
+                "correct": "true",
+                "detail": "New radius \n= (r+x) units\nNew circumference\n= 2π(r+x) units\nOriginal circumference\n= 2πr units\nThe circumference increases by 2πx units.",
+                "value": "2πx units"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2πr units"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2π(r+x) units"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2π units"
+                }       
+                
             ],
-            "text": "If the radius of a circle increases by x units, its circumference increases by",
-            "detail": "New radius \n= (r+x) units\nNew circumference\n= 2π(r+x) units\nOriginal circumference\n= 2πr units\nThe circumference increases by 2πx units."
+            "text": "If the radius of a circle increases by x units, its circumference increases by"
+            
         },
         {
             "id": 23,
             "answerIndex": 2,
             "options": [
-                "2",
-                "6",
-                "12",
-                "24"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": "true",
+                "detail": "The cow can graze the circular area in the middle of the field with radius equal to the length of the rope.\n\nArea which can be grazed by the cow\n= πr²\n= 616 sq.ft\nArea grazed in a day\n= 50 sq.ft\nTime taken to graze 616 sq.ft\n= 616/50\n= 12.13 days",
+                "value": "12"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "24"
+                }
+                
             ],
-            "text": "A cow is tethered in the middle of a field with a 14 feet long rope. If the cow grazes 50 sq. ft. per day, then find the approximate number of days taken by the cow to graze the whole field.",
-            "detail": "The cow can graze the circular area in the middle of the field with radius equal to the length of the rope.\n\nArea which can be grazed by the cow\n= πr²\n= 616 sq.ft\nArea grazed in a day\n= 50 sq.ft\nTime taken to graze 616 sq.ft\n= 616/50\n= 12.13 days"
+            "text": "A cow is tethered in the middle of a field with a 14 feet long rope. If the cow grazes 50 sq. ft. per day, then find the approximate number of days taken by the cow to graze the whole field."
+            
         },
         {
             "id": 24,
             "answerIndex": 1,
             "options": [
-                "6.25%",
-                "12.5%",
-                "25%",
-                "22%"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "6.25%"
+                },
+                {
+                "correct": "true"   ,
+                "detail": "Volume of the metal block\n= lbh cubic units\n= 2*4*5.5\n= 44 cm³\nVolume of the cylinder\n= πr²h cubic units\n= (22/7)*(4*4)*7 cm³\n= 352 cm³\n% of space occupied by the block\n= (44/352)*100\n= 12.5%",
+                "value": "12.5%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "25%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "22%"
+                }
+                
             ],
-            "text": "If a metal block 2cm*4cm*5.5cm is placed inside a right circular cylinder with a radius of 4cm and a height of 7cm, what percentage of the space inside the cylinder is taken up by the block?",
-            "detail": "Volume of the metal block\n= lbh cubic units\n= 2*4*5.5\n= 44 cm³\nVolume of the cylinder\n= πr²h cubic units\n= (22/7)*(4*4)*7 cm³\n= 352 cm³\n% of space occupied by the block\n= (44/352)*100\n= 12.5%"
+            "text": "If a metal block 2cm*4cm*5.5cm is placed inside a right circular cylinder with a radius of 4cm and a height of 7cm, what percentage of the space inside the cylinder is taken up by the block?"
+           
         },
         {
             "id": 25,
             "answerIndex": 2,
             "options": [
-                "lb+x(l+b)+x²",
-                "lb+x(l+b)",
-                " x(l+b)+x²",
-                "4x"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "lb+x(l+b)+x²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "lb+x(l+b)"
+                },
+                {
+                "correct": "true",
+                "detail": "Area of the rectangle\n= (l+x)(b+x)\n= lb+x(l+b)+x²\nIncrease in area\n= x(l+b)+x²",
+                "value": "x(l+b)+x²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4x"
+                }
+                
             ],
-            "text": "If each of the sides of a rectangle are increased by x units. Find the increase in the area.",
-            "detail": "Area of the rectangle\n= (l+x)(b+x)\n= lb+x(l+b)+x²\nIncrease in area\n= x(l+b)+x²"
+            "text": "If each of the sides of a rectangle are increased by x units. Find the increase in the area."
+        
         },
         {
             "id": 26,
             "answerIndex": 3,
             "options": [
-                "74 cm³",
-                "218 cm³",
-                "400 cm³",
-                "468 cm³"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "74 cm³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "218 cm³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "400 cm³"
+                },
+                {
+                "correct": "true",
+                "detail": "Volume of the first cube\n= 5³\n= 125 cm³\nVolume of the second  cube\n= 7³\n= 343 cm³\nVolume of the new cube\n= 125+343\n= 468 cm³",
+                "value": "468 cm³"
+                }
+               
             ],
-            "text": "Two cubes of sides 5 cm and 7 cm are melted together to form a new cube. Find the volume of the new cube.",
-            "detail": "Volume of the first cube\n= 5³\n= 125 cm³\nVolume of the second  cube\n= 7³\n= 343 cm³\nVolume of the new cube\n= 125+343\n= 468 cm³"
+            "text": "Two cubes of sides 5 cm and 7 cm are melted together to form a new cube. Find the volume of the new cube."
+           
         },
         {
             "id": 27,
             "answerIndex": 3,
             "options": [
-                "150%",
-                "600%",
-                "500%",
-                "400%"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "150%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "600%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "500%"
+                },
+                {
+                "correct": "true",
+                "detail": "Surface area of a 5 cm cube\n= 6*5²\n= 150 cm²\nSurface area of a 1 cm cube\n= 6*1²\n= 6 cm²\nNo. of smaller cubes formed\n= Volume of larger cube/Volume of smaller cube\n= 5³/1³\n= 125\nSum of surface areas of smaller cubes\n= 125*6\n= 750 m²\nIncrease in surface area\n= 600 m²\n% increase\n= (600/150)*100\n= 400%",
+                "value": "400%"
+                }
+               
             ],
-            "text": "A 5 cm cube is cut into 1 cm cubes. Find the % increase in surface area after such cutting.",
-            "detail": "Surface area of a 5 cm cube\n= 6*5²\n= 150 cm²\nSurface area of a 1 cm cube\n= 6*1²\n= 6 cm²\nNo. of smaller cubes formed\n= Volume of larger cube/Volume of smaller cube\n= 5³/1³\n= 125\nSum of surface areas of smaller cubes\n= 125*6\n= 750 m²\nIncrease in surface area\n= 600 m²\n% increase\n= (600/150)*100\n= 400%"
+            "text": "A 5 cm cube is cut into 1 cm cubes. Find the % increase in surface area after such cutting."
+            
         },
         {
             "id": 28,
             "answerIndex": 2,
             "options": [
-                "13m",
-                "5m",
-                "12m",
-                "10m"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "13m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "5m"
+                },
+                {
+                "correct": "true",
+                "detail": "Diagonal of the rectangle\n= √(l²+b²) = 13\nl²+b² = 169\nlb = 60\n\n(60/b)²+b² = 169\n\n(b^4)-169(b^2)+3600 = 0\n\nb² = 144 or 25\nb = 12 or 5\n\nBreadth is the shortest side, hence b = 5m\n\nLength = 12m ",
+                "value": "12m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10m"
+                }
+               
+            
             ],
-            "text": " If the diagonal and the area of a rectangle are 13 m and 60 m², what is the length of the rectangle? ",
-            "detail": "Diagonal of the rectangle\n= √(l²+b²) = 13\nl²+b² = 169\nlb = 60\n\n(60/b)²+b² = 169\n\n(b^4)-169(b^2)+3600 = 0\n\nb² = 144 or 25\nb = 12 or 5\n\nBreadth is the shortest side, hence b = 5m\n\nLength = 12m "
+            "text": " If the diagonal and the area of a rectangle are 13 m and 60 m², what is the length of the rectangle? "
+
         },
         {
             "id": 29,
             "answerIndex": 0,
             "options": [
-                "1:π",
-                "2:π",
-                "π:1",
-                "π:2"
+                {
+                "correct": "true",
+                "detail": "Height of the cylinder = Length of the paper\nCircumference of its base = Breadth of the paper\n2πr = b\n\nDiameter \nd = 2r = b/π\nd:b = 1:π",
+                "value": "1:π"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2:π"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "π:1"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "π:2"
+                }
+                
             ],
-            "text": "A rectangular sheet of paper is converted into a cylinder by rolling it along its length. What is the ratio of the diameter of the base to the breadth of the paper?",
-            "detail": "Height of the cylinder = Length of the paper\nCircumference of its base = Breadth of the paper\n2πr = b\n\nDiameter \nd = 2r = b/π\nd:b = 1:π"
+            "text": "A rectangular sheet of paper is converted into a cylinder by rolling it along its length. What is the ratio of the diameter of the base to the breadth of the paper?"
+           
         },
         {
             "id": 30,
             "answerIndex": 2,
             "options": [
-                "450 m x 300 m",
-                "150 m x 100 m",
-                "480 m x 320 m",
-                "100 m x 100 m"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "450 m x 300 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "150 m x 100 m"
+                },
+                {
+                "correct": "true",
+                "detail": "Raj's speed = 24 kmph\n\nIn 60 mins, he covers 24 km.\nIn 4 mins, he covers\n24000/15 = 1600 m\nPerimeter of the park\n= 1600 m\nl:b = 3:2\n\n2(l+b)=1600\n2*(3x+2x)=1600\nx=160\n\nl=480m, b=320m",
+                "value": "480 m x 320 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "100 m x 100 m"
+                }
+               
             ],
-            "text": "Raj drives slowly along the perimeter of a rectangular park at 24 kmph and completes one full round in 4 min. If the ratio of the length to breadth of the park is 3 : 2, what are the dimensions?",
-            "detail": "Raj's speed = 24 kmph\n\nIn 60 mins, he covers 24 km.\nIn 4 mins, he covers\n24000/15 = 1600 m\nPerimeter of the park\n= 1600 m\nl:b = 3:2\n\n2(l+b)=1600\n2*(3x+2x)=1600\nx=160\n\nl=480m, b=320m"
+            "text": "Raj drives slowly along the perimeter of a rectangular park at 24 kmph and completes one full round in 4 min. If the ratio of the length to breadth of the park is 3 : 2, what are the dimensions?"
+            
         },
         {
             "id": 31,
             "answerIndex": 3,
             "options": [
-                "45 feet",
-                "63 feet",
-                "275 feet",
-                "315 feet"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "45 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "63 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "275 feet"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the revolutions made by the front wheel be x and that of the back wheel be x-10\n\nx*7 = (x-10)*9\n\n7x = 9x-90\n\nx=45\n\nDistance = 45*7 = 315 feet",
+                "value": "315 feet"
+                }
+                
             ],
-            "text": "Perimeter of the backwheel is 9 feet and that of the front wheel is 7 feet. On travelling a certain distance, the front wheel makes 10 revolutions more than the back wheel. What is the distance?",
-            "detail": "Let the revolutions made by the front wheel be x and that of the back wheel be x-10\n\nx*7 = (x-10)*9\n\n7x = 9x-90\n\nx=45\n\nDistance = 45*7 = 315 feet"
+            "text": "Perimeter of the backwheel is 9 feet and that of the front wheel is 7 feet. On travelling a certain distance, the front wheel makes 10 revolutions more than the back wheel. What is the distance?"
         },
         {
             "id": 32,
             "answerIndex": 2,
             "options": [
-                "24 feet",
-                "22 feet",
-                "20 feet",
-                "14 feet"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "24 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "22 feet"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the radius of the pool be r feet.\n\nArea of the pool\n= πr²\nArea of the concrete wall\n= π(r+4)² - πr²\n= 8πr+16π\n\n(8πr+16π) = (11/25)*πr²\n\n200r+400=11r²\n\n11r²-200r-400=0\n\nSolving,\nr=20",
+                "value": "20 feet"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "14 feet"
+                }
+                
             ],
-            "text": "A circular swimming pool is surrounded all around by a concrete wall 4 feet thick. If the area of the wall is 11/25 of the area of the pool, then the radius of the pool in feet is",
-            "detail": "Let the radius of the pool be r feet.\n\nArea of the pool\n= πr²\nArea of the concrete wall\n= π(r+4)² - πr²\n= 8πr+16π\n\n(8πr+16π) = (11/25)*πr²\n\n200r+400=11r²\n\n11r²-200r-400=0\n\nSolving,\nr=20"
+            "text": "A circular swimming pool is surrounded all around by a concrete wall 4 feet thick. If the area of the wall is 11/25 of the area of the pool, then the radius of the pool in feet is"
+           
         },
         {
             "id": 33,
             "answerIndex": 0,
             "options": [
-                "30%",
-                "18.75%",
-                "15%",
-                "13.6%"
+                {
+                "correct": "true",
+                "detail": "Let the length, breadth and height be 3x, 2x and x.\n\nArea of the 4 walls\n= 2h(l+b)\n= 2x*5x\n= 10x²\n\nNew length, breadth and height\n= 6x, x, (x/2)\n\nNew area\n= 2*(x/2)*(7x)\n= 7x²\n\nDecrease in area\n= 3x²\n% decrease\n= (3x²/10x²)*100\n= 30%",
+                "value": "30%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "18.75"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "15%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "13.6%"
+                }
+                
             ],
-            "text": "The length, breadth and height of a room are in the ratio 3:2:1. The breadth and height are halved, while the length is doubled. Then the total area of the 4 walls of the room will be decreased by",
-            "detail": "Let the length, breadth and height be 3x, 2x and x.\n\nArea of the 4 walls\n= 2h(l+b)\n= 2x*5x\n= 10x²\n\nNew length, breadth and height\n= 6x, x, (x/2)\n\nNew area\n= 2*(x/2)*(7x)\n= 7x²\n\nDecrease in area\n= 3x²\n% decrease\n= (3x²/10x²)*100\n= 30%"
+            "text": "The length, breadth and height of a room are in the ratio 3:2:1. The breadth and height are halved, while the length is doubled. Then the total area of the 4 walls of the room will be decreased by"
+            
         },
         {
             "id": 34,
             "answerIndex": 1,
             "options": [
-                "5.5",
-                "4.5",
-                "7.5",
-                "6.5"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "5.5"
+                },
+                {
+                "correct": "true",
+                "detail": "Volume of the bar\n= lbh\n= 60 cm³\nIf the volume is reduced by 19%,\nnew volume\n= 81% of 60\n= 48.6\nLet the length and breadth be reduced to x%.\n\n((x/100*6)*(x/100)*5)*2 = 48.6\n\n6x² = 48600\nx² = 8100\nx = 90\n\nNew width = 90% of 5 = 4.5",
+                "value": "4.5"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "7.5"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "6.5"
+                }
+                
             ],
-            "text": "Nirmal makes a popular brand of ice cream in a rectangular shaped bar 6cm long, 5cm wide and 2cm thick. To cut costs, the company had decided to reduce the volume of the bar by 19%. The thickness will remain same, but the length and width will be decreased by some percentage. The new width will be",
-            "detail": "Volume of the bar\n= lbh\n= 60 cm³\nIf the volume is reduced by 19%,\nnew volume\n= 81% of 60\n= 48.6\nLet the length and breadth be reduced to x%.\n\n((x/100*6)*(x/100)*5)*2 = 48.6\n\n6x² = 48600\nx² = 8100\nx = 90\n\nNew width = 90% of 5 = 4.5"
+            "text": "Nirmal makes a popular brand of ice cream in a rectangular shaped bar 6cm long, 5cm wide and 2cm thick. To cut costs, the company had decided to reduce the volume of the bar by 19%. The thickness will remain same, but the length and width will be decreased by some percentage. The new width will be"
+            
         },
         {
             "id": 35,
             "answerIndex": 3,
             "options": [
-                "6K",
-                "8K",
-                "12K",
-                "7K"
+            {
+            "correct": "false",
+            "detail": "",
+            "value": "6K"
+            },
+            {
+            "correct": "false",
+            "detail": "",
+            "value": "8K"
+            },
+            {
+            "correct": "false",
+            "detail": "",
+            "value": "12K"
+            },
+            {
+            "correct": "true",
+            "detail": "lw = K\n\n2l*4w = 8lw\n\n8lw-lw = 7lw = 7K\n\n",
+            "value": "7K"
+            }
+
+               
             ],
-            "text": "A farmer has two rectangular fields. The larger field has twice the length and 4 times the width of the smaller field. If the smaller field has area K, then the area of the larger field is greater than the area of the smaller field by what amount?",
-            "detail": "lw = K\n\n2l*4w = 8lw\n\n8lw-lw = 7lw = 7K\n\n"
+            "text": "A farmer has two rectangular fields. The larger field has twice the length and 4 times the width of the smaller field. If the smaller field has area K, then the area of the larger field is greater than the area of the smaller field by what amount?"
+           
         },
         {
             "id": 36,
             "answerIndex": 1,
             "options": [
-                "3",
-                "4",
-                "5",
-                "6"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3"
+                },
+                {
+                "correct":"true",
+                "detail": " Perimeter of the square\n= 4x+8\nPerimeter of the triangle\n= 6x\n\n4x+8=6x\nx=4",
+                "value": "4"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "5"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "6"
+                }
+               
             ],
-            "text": "The length of the side of a square is represented by x+2. The length of the side of an equilateral triangle is 2x. If the square and the equilateral triangle have equal perimeter, then the value of x is",
-            "detail": "Perimeter of the square\n= 4x+8\nPerimeter of the triangle\n= 6x\n\n4x+8=6x\nx=4"
+            "text": "The length of the side of a square is represented by x+2. The length of the side of an equilateral triangle is 2x. If the square and the equilateral triangle have equal perimeter, then the value of x is"
+           
         },
         {
             "id": 37,
             "answerIndex": 2,
             "options": [
-                "16%",
-                "44%",
-                "36%",
-                "40%"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "16%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "44%"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the radius of the circle be r units and the area be πr² square units.\n\nNew radius = 0.8r\n\nNew area\n= 0.64 πr²\n\nDecrease in area\n= 0.36 πr²\n36% decrease.",
+                "value": "36%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "40%"
+                }
+               
             ],
-            "text": "If the radius of a circle is decreased by 20 percent, the area of the circle decreases by",
-            "detail": "Let the radius of the circle be r units and the area be πr² square units.\n\nNew radius = 0.8r\n\nNew area\n= 0.64 πr²\n\nDecrease in area\n= 0.36 πr²\n36% decrease."
+            "text": "If the radius of a circle is decreased by 20 percent, the area of the circle decreases by"
+            
         },
         {
             "id": 38,
             "answerIndex": 1,
             "options": [
-                "x²/9",
-                "x²/8",
-                "x²/4",
-                "x²"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "x²/9"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the two sides of the rectangular yard be l feet and b feet.\n\nx feet of fencing covers three sides.\n\nx = 2l + b\nb = x-2l\n\nArea of the yard\n= lb square feet\n= l(x-2l)\n= lx - 2l²\nTo get the maximum possible value for the area,\nd(area)/dl = 0\nx - 4l = 0\nl = x/4\nThe maximum value for area occurs when l = x/4\n\nb = x-2l = x/2\n\nArea\n= (x/4)(x/2)\n= x²/8",
+                "value": "x²/8"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "x²/4"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "x²"
+                }
+                
+                
             ],
-            "text": "A total of x feet of fencing is to form three sides of a level rectangular yard. What is the maximum possible area of the yard, in terms of x?",
-            "detail": "Let the two sides of the rectangular yard be l feet and b feet.\n\nx feet of fencing covers three sides.\n\nx = 2l + b\nb = x-2l\n\nArea of the yard\n= lb square feet\n= l(x-2l)\n= lx - 2l²\nTo get the maximum possible value for the area,\nd(area)/dl = 0\nx - 4l = 0\nl = x/4\nThe maximum value for area occurs when l = x/4\n\nb = x-2l = x/2\n\nArea\n= (x/4)(x/2)\n= x²/8"
+            "text": "A total of x feet of fencing is to form three sides of a level rectangular yard. What is the maximum possible area of the yard, in terms of x?"
+            
         },
         {
             "id": 39,
             "answerIndex": 3,
             "options": [
-                "24",
-                "120",
-                "240",
-                "450"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "120"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "240"
+                },
+                {
+                "correct": "true",
+                "detail": "No. of cubes needed\n= 10*9*5\n= 450",
+                "value": "450"
+                }
+                
             ],
-            "text": "How many unit cubes are needed to make a block whose dimensions are 10, 9 and 5?",
-            "detail": "No. of cubes needed\n= 10*9*5\n= 450"
+            "text": "How many unit cubes are needed to make a block whose dimensions are 10, 9 and 5?"
+            
         },
         {
             "id": 40,
             "answerIndex": 3,
             "options": [
-                "100%",
-                "200%",
-                "700%",
-                "800%"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "100%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "200%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "700%"
+                },
+                {
+                "correct": "true",
+                "detail": "v = (4/3) πr³\n\nR = 2r\n\nV = 8*(4/3)πr³\n\nThe volume increses by 800%.",
+                "value": "800%"
+                }
+                
             ],
-            "text": "If the radius of a sphere is doubled, then its volume is increased by",
-            "detail": "v = (4/3) πr³\n\nR = 2r\n\nV = 8*(4/3)πr³\n\nThe volume increses by 800%."
+            "text": "If the radius of a sphere is doubled, then its volume is increased by"
+            
         },
         {
             "id": 41,
             "answerIndex": 0,
             "options": [
-                "100%",
-                "150%",
-                "300%",
-                "120%"
+                {
+                "correct": "true",
+                "detail": "The area gets doubled since the two triangles are identical.\n\nHence, the area is increased by 100%.",
+                "value": "100%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "150%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "300%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "120%"
+                }
+                
             ],
-            "text": "What is the percentage increase in area when a triangle is cloned (so that we have two triangles in total) and the resulting two triangles are joined on their bases to form a parallelogram?",
-            "detail": "The area gets doubled since the two triangles are identical.\n\nHence, the area is increased by 100%."
+            "text": "What is the percentage increase in area when a triangle is cloned (so that we have two triangles in total) and the resulting two triangles are joined on their bases to form a parallelogram?"
+           
         },
         {
             "id": 42,
             "answerIndex": 2,
             "options": [
-                "2424 cm²",
-                "2446 cm²",
-                "2464 cm²",
-                "2484 cm²"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2424 cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2446 cm²"
+                },
+                {
+                "correct": "true",
+                "detail": "V = (4/3)πr³ = (88/21)*14³\n\nr = 14\n\nCSA of a sphere\n= 4πr²\n= 2464 cm²",
+                "value": "2464 cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2484 cm²"
+                }
+                
             ],
-            "text": "The volume of a sphere is 88/21 * 14³ cm³. The curved surface of the sphere is",
-            "detail": "V = (4/3)πr³ = (88/21)*14³\n\nr = 14\n\nCSA of a sphere\n= 4πr²\n= 2464 cm²"
+            "text": "The volume of a sphere is 88/21 * 14³ cm³. The curved surface of the sphere is"
+            
         },
         {
             "id": 43,
             "answerIndex": 0,
             "options": [
-                "100%",
-                "200%",
-                "300%",
-                "400%"
+                {
+                "correct": "true",
+                "detail": "V = (1/3)πr²h\n\nIf the height is doubled, the volume is also doubled. Hence, the volume increases by 100%.",
+                "value": "100%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "200%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "300%"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "400%"
+                }
+               
             ],
-            "text": "If the height of a cone is doubled, then its volume is increased by",
-            "detail": "V = (1/3)πr²h\n\nIf the height is doubled, the volume is also doubled. Hence, the volume increases by 100%."
+            "text": "If the height of a cone is doubled, then its volume is increased by"
+            
         },
         {
             "id": 44,
             "answerIndex": 2,
             "options": [
-                "Rs.1050",
-                "Rs.1400",
-                "Rs.3150",
-                "Rs.4200"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "Rs.1050"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "Rs.1400"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the length, breadth and height of the room be l, b and h units.\n\nArea of the 4 walls\n= 2h(l+b)\nIf the length, breadth and height are 3l, 3b and 3h,\n\nArea of the 4 walls\n= 18h(l+b)\n\nCost = 350*9 = Rs.3150",
+                "value": "Rs.3150"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "Rs.4200"
+                }
+
+
             ],
-            "text": "The cost of painting the four walls of a room is Rs.350. The cost of painting a room three times in length, breadth and height will be",
-            "detail": "Let the length, breadth and height of the room be l, b and h units.\n\nArea of the 4 walls\n= 2h(l+b)\nIf the length, breadth and height are 3l, 3b and 3h,\n\nArea of the 4 walls\n= 18h(l+b)\n\nCost = 350*9 = Rs.3150"
+            "text": "The cost of painting the four walls of a room is Rs.350. The cost of painting a room three times in length, breadth and height will be"
+            
         },
         {
             "id": 45,
             "answerIndex": 0,
             "options": [
-                "(154×√5) cm²",
-                "11 cm²",
-                "(154×√7) cm²",
-                "5324 cm²"
+                {
+                "correct": "true",
+                "detail": "πr² = 154\nr = 7\nh = 14\n\nl = √(r²+h²) = 7√5\n\nCSA = πrl = 154√5 cm²",
+                "value": "(154×√5) cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "11 cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "(154×√7) cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "5324 cm²"
+                }
+                
             ],
-            "text": "The area of the base of a right circular cone is 154 cm² and its height is 14 cm. The curved surface of the cone is",
-            "detail": "πr² = 154\nr = 7\nh = 14\n\nl = √(r²+h²) = 7√5\n\nCSA = πrl = 154√5 cm²"
+            "text": "The area of the base of a right circular cone is 154 cm² and its height is 14 cm. The curved surface of the cone is"
+           
         },
         {
             "id": 46,
             "answerIndex": 1,
             "options": [
-                "10 cm",
-                "15 cm",
-                "18 cm",
-                "24 cm"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "1/3 πr²h = πr²H\n\nh = 3H = 15 cm",
+                "value": "15 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "18 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "24 cm"
+                }
+                
             ],
-            "text": "The material of a cone is converted into the shape of a cylinder of equal radius. If the height of the cylinder is 5 cm, the height of the cone is",
-            "detail": "1/3 πr²h = πr²H\n\nh = 3H = 15 cm"
+            "text": "The material of a cone is converted into the shape of a cylinder of equal radius. If the height of the cylinder is 5 cm, the height of the cone is"
+
         },
         {
             "id": 47,
             "answerIndex": 1,
             "options": [
-                "20 cm",
-                "25 cm",
-                "35 cm",
-                "50 cm"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "20 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "Total displacement of water\n= 50*4\n= 200\n\n40*20*h = 200\nh = 1/4 m = 25 cm",
+                "value": "25 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "35 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "50 cm"
+                }
+                
             ],
-            "text": "50 men took a dip in water tank 40 m long and 20 m broad on a religious day. If the average displacements of water by a man is 4 m³, then the rise in the water level in the tank will be",
-            "detail": "Total displacement of water\n= 50*4\n= 200\n\n40*20*h = 200\nh = 1/4 m = 25 cm"
+            "text": "50 men took a dip in water tank 40 m long and 20 m broad on a religious day. If the average displacements of water by a man is 4 m³, then the rise in the water level in the tank will be"
+           
         },
         {
             "id": 48,
             "answerIndex": 2,
             "options": [
-                "2 h",
-                "4 h",
-                "2h/3",
-                "h"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2 h"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4 h"
+                },
+                {
+                "correct": "true",
+                "detail": "Let the height of the cylinder be H.\n\n1/3 πr²h + πr²H = 3*(1/3 πr²h)\n\nh/3 + H = h\n\nH = 2h/3",
+                "value": "2h/3"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "h"
+                }
+                
             ],
-            "text": "A solid consists of a circular cylinder with an exact fitting right circular cone placed on the top. The height of the cone is h. If the total volume of the solid is three times the volume of the cone, then the height of the cylinder is",
-            "detail": "Let the height of the cylinder be H.\n\n1/3 πr²h + πr²H = 3*(1/3 πr²h)\n\nh/3 + H = h\n\nH = 2h/3"
+            "text": "A solid consists of a circular cylinder with an exact fitting right circular cone placed on the top. The height of the cone is h. If the total volume of the solid is three times the volume of the cone, then the height of the cylinder is"
+           
         },
         {
             "id": 49,
             "answerIndex": 1,
             "options": [
-                "1 : 5",
-                "1 : 25",
-                "1 : 125",
-                "1 : 625"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 5"
+                },
+                {
+                "correct": "true",
+                "detail": "Ratio\n=(6*1*1 / 6*5*5)\n= 1:25",
+                "value": "1 : 25"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 125"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 625"
+                }
+                
             ],
-            "text": "A cube of edge 5 cm is cut into cubes of each edge 1 cm. The ratio of the total surface area of one of the small cubes to that of the large cube is equal to",
-            "detail": "Ratio\n=(6*1*1 / 6*5*5)\n= 1:25"
+            "text": "A cube of edge 5 cm is cut into cubes of each edge 1 cm. The ratio of the total surface area of one of the small cubes to that of the large cube is equal to"
+            
         },
         {
             "id": 50,
             "answerIndex": 1,
             "options": [
-                "84",
-                "0.84",
-                "8.4",
-                "0.084"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "84"
+                },
+                {
+                "correct": "true",
+                "detail": "Volume needed\n= 2*3.5*0.12\n= 0.84",
+                "value": "0.84"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "8.4"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "0.084"
+                }
+                
             ],
-            "text": "A rectangular box is 2 m long and 3.5 m wide. How many cubic metres of sand are needed to fill the box upto a depth of 12 cm?",
-            "detail": "Volume needed\n= 2*3.5*0.12\n= 0.84"
+            "text": "A rectangular box is 2 m long and 3.5 m wide. How many cubic metres of sand are needed to fill the box upto a depth of 12 cm?"
+            
         },
         {
             "id": 51,
             "answerIndex": 2,
             "options": [
-                "196 cm²",
-                "784 cm²",
-                "1176 cm²",
-                "588 cm²"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "196 cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "784 cm²"
+                },
+                {
+                "correct": "true",
+                "detail": "a³ = 2744\n\na = 14\n\n6² = 1176 cm²",
+                "value": "1176 cm²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "588 cm²"
+                }
+                
             ],
-            "text": "The volume of a cube is 2744 cu.cm. Its surface area is",
-            "detail": "a³ = 2744\n\na = 14\n\n6² = 1176 cm²"
+            "text": "The volume of a cube is 2744 cu.cm. Its surface area is"
+            
         },
         {
             "id": 52,
             "answerIndex": 1,
             "options": [
-                "9800000",
-                "1000000",
-                "7500000",
-                "1200000"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "9800000"
+                },
+                {
+                "correct": "true",
+                "detail": "No. of boxes\n= (800*700*600)/(8*7*6)\n= 1000000",
+                "value": "1000000"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "7500000"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1200000"
+                }
+                
             ],
-            "text": "A wooden box of dimensions 8 m x 7 m x 6 m is used to carry rectangular boxes of dimensions 8 cm x 7 cm x 6 cm. The maximum number of boxes that can be carried in the wooden box, is",
-            "detail": "No. of boxes\n= (800*700*600)/(8*7*6)\n= 1000000"
+            "text": "A wooden box of dimensions 8 m x 7 m x 6 m is used to carry rectangular boxes of dimensions 8 cm x 7 cm x 6 cm. The maximum number of boxes that can be carried in the wooden box, is"
+            
         },
         {
             "id": 53,
             "answerIndex": 1,
             "options": [
-                "10/√3 cm",
-                "10√3 cm",
-                "10/√2 cm",
-                "10√2 cm"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10/√3 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "6a² = 600\na = 10\n\nd = √3 a = 10√3 cm",
+                "value": "10√3 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10/√2 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10√2 cm"
+                }
+               
             ],
-            "text": "The surface area of a cube is 600 cm². The length of its diagonal is",
-            "detail": "6a² = 600\na = 10\n\nd = √3 a = 10√3 cm"
+            "text": "The surface area of a cube is 600 cm². The length of its diagonal is"
+            
         },
         {
             "id": 54,
             "answerIndex": 2,
             "options": [
-                "720",
-                "900",
-                "1200",
-                "1800"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "720"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "900"
+                },
+                {
+                "correct": "true",
+                "detail": "2lb = 2h(l+b)\n\n15*12 = h*27\n\nh = 20/3\n\nlbh = 1200",
+                "value": "1200"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1800"
+                }
+                
             ],
-            "text": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is",
-            "detail": "2lb = 2h(l+b)\n\n15*12 = h*27\n\nh = 20/3\n\nlbh = 1200"
+            "text": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is"
+           
         },
         {
             "id": 55,
             "answerIndex": 1,
             "options": [
-                "36",
-                "216",
-                "218",
-                "432"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "36"
+                },
+                {
+                "correct": "true",
+                "detail": "No. of cubes\n= 18³/3³\n= 216",
+                "value": "216"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "218"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "432"
+                }
+               
             ],
-            "text": "How many cubes of 3 cm edge can be cut from a cube of 18 cm edge?",
-            "detail": "No. of cubes\n= 18³/3³\n= 216"
+            "text": "How many cubes of 3 cm edge can be cut from a cube of 18 cm edge?"
+           
         },
         {
             "id": 56,
             "answerIndex": 1,
             "options": [
-                "56 kg",
-                "36 kg",
-                "48 kg",
-                "27 kg"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "56 kg"
+                },
+                {
+                "correct": "true",
+                "detail": "Weight of the beam\n= 9*0.4*0.2*50\n= 36",
+                "value": "36 kg"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "48 kg"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "27 kg"
+                }
+               
             ],
-            "text": "A beam 9 m long, 40 cm wide and 20 cm high is made up of iron which weighs 50 kg per cubic metre. The weight of the beam is",
-            "detail": "Weight of the beam\n= 9*0.4*0.2*50\n= 36"
+            "text": "A beam 9 m long, 40 cm wide and 20 cm high is made up of iron which weighs 50 kg per cubic metre. The weight of the beam is"
+            
         },
         {
             "id": 57,
             "answerIndex": 3,
             "options": [
-                "32 m³",
-                "36 m³",
-                "40 m³",
-                "44 m³"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "32 m³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "36 m³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "40 m³"
+                },
+                {
+                "correct": "true",
+                "detail": "r = d/2 = 1\n\nVolume of earth\n= πr²h\n= 44 m³",
+                "value": "44 m³"
+                }
+                
             ],
-            "text": "A circular well with a diameter of 2 metres , is dug to a depth of 14 metres. What is the volume of the earth dug out?",
-            "detail": "r = d/2 = 1\n\nVolume of earth\n= πr²h\n= 44 m³"
+            "text": "A circular well with a diameter of 2 metres , is dug to a depth of 14 metres. What is the volume of the earth dug out?"
+            
         },
         {
             "id": 58,
             "answerIndex": 3,
             "options": [
-                "1 : 4",
-                "1 : 16",
-                "4 : 1",
-                "16 : 1"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 4"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 16"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4 : 1"
+                },
+                {
+                "correct": "true",
+                "detail": "r1:r2 = 4:1\n\nSurface area is proportional to the square of the radius.\n\nA1: A2 = 16:1",
+                "value": "16 : 1"
+                }
+               
             ],
-            "text": "Spheres A and B have their radii 40 cm and 10 cm respectively. The ratio of the surface area of A to the surface area of B is",
-            "detail": "r1:r2 = 4:1\n\nSurface area is proportional to the square of the radius.\n\nA1: A2 = 16:1"
+            "text": "Spheres A and B have their radii 40 cm and 10 cm respectively. The ratio of the surface area of A to the surface area of B is"
+            
         },
         {
             "id": 59,
             "answerIndex": 1,
             "options": [
-                "4:π",
-                "6:π",
-                "4:3π",
-                "2:π"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4:π"
+                },
+                {
+                "correct": "true",
+                "detail": "Side of the cube = Diameter of the sphere\n\na = 2r\n\na³ : (4/3)πr³\n= 8r³ : (4/3)πr³\n= 6:π",
+                "value": "6:π"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4:3π"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2:π"
+                }
+                
             ],
-            "text": "The ratio of the volume of a cube to that of a sphere which will fit inside the cube is",
-            "detail": "Side of the cube = Diameter of the sphere\n\na = 2r\n\na³ : (4/3)πr³\n= 8r³ : (4/3)πr³\n= 6:π"
+            "text": "The ratio of the volume of a cube to that of a sphere which will fit inside the cube is"
+            
         },
         {
             "id": 60,
             "answerIndex": 1,
             "options": [
-                "2√2 cm",
-                "2√26 cm",
-                "2√14 cm",
-                "10√2 cm"
+
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2√2 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "Diagonal of the box\n= √(l²+b²+h²)\n= √104\n= 2√26 cm",
+                "value": "2√26 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2√14 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "10√2 cm"
+                }
+                
             ],
-            "text": "The maximum length of a pencil that can be kept in a rectangular box of dimensions 8 cm x 6 cm x 2 cm, is",
-            "detail": "Diagonal of the box\n= √(l²+b²+h²)\n= √104\n= 2√26 cm"
+            "text": "The maximum length of a pencil that can be kept in a rectangular box of dimensions 8 cm x 6 cm x 2 cm, is"
+            
         },
         {
             "id": 61,
             "answerIndex": 1,
             "options": [
-                "1 : 2",
-                "1 : 4",
-                "1 :√2",
-                "3 : 8"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 : 2"
+                },
+                {
+                "correct": "true",
+                "detail": "Surface area of a sphere is proportional to the square of its radius.\n\nRatio of surface areas\n= 1:4",
+                "value": "1 : 4"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 :√2"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3 : 8"
+                }
+                
             ],
-            "text": "The radii of two spheres are in the ratio 1:2. The ratio of their surface areas is",
-            "detail": "Surface area of a sphere is proportional to the square of its radius.\n\nRatio of surface areas\n= 1:4"
+            "text": "The radii of two spheres are in the ratio 1:2. The ratio of their surface areas is"
+            
         },
         {
             "id": 62,
             "answerIndex": 1,
             "options": [
-                "2 metres",
-                "3 metres",
-                "4 metres",
-                "3√3metres"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "2 metres"
+                },
+                {
+                "correct": "true",
+                "detail": "vDiagonal of the cube\n= √3 a\n= 3 m",
+                "value": "3 metres"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4 metres"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3√3metres"
+                }
+                
             ],
-            "text": "The length of an edge of a hollow cube open at one face is √3 metres. What is the length of the largest pole that it can accommodate?",
-            "detail": "Diagonal of the cube\n= √3 a\n= 3 m"
+            "text": "The length of an edge of a hollow cube open at one face is √3 metres. What is the length of the largest pole that it can accommodate?"
+            
         },
         {
             "id": 63,
             "answerIndex": 3,
             "options": [
-                "1 time",
-                "3 times",
-                "6 times",
-                "9 times"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1 time"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3 times"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "6 times"
+                },
+                {
+                "correct": "true",
+                "detail": "πr²h = π(1/3r)²H\n\nH = 9h",
+                "value": "9 times"
+                }
+               
             ],
-            "text": "The radius of a wire is decreased to one-third. If volume remains the same, length will increase",
-            "detail": "πr²h = π(1/3r)²H\n\nH = 9h"
+            "text": "The radius of a wire is decreased to one-third. If volume remains the same, length will increase"
+           
         },
         {
             "id": 64,
             "answerIndex": 1,
             "options": [
-                "1300 m³",
-                "1331 m³",
-                "1452 m³",
-                "1542 m³"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1300 m³"
+                },
+                {
+                "correct": "true",
+                "detail": "6a² = 726\n\na = 11\n\nVolume = a³ = 1331",
+                "value": "1331 m³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1452 m³"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1542 m³"
+                }
+            
             ],
-            "text": "The surface area of a cube is 726 m². Its volume is",
-            "detail": "6a² = 726\n\na = 11\n\nVolume = a³ = 1331"
+            "text": "The surface area of a cube is 726 m². Its volume is"
+            
         },
         {
             "id": 65,
             "answerIndex": 3,
             "options": [
-                "is doubled",
-                "increases 6 times",
-                "increases 4 times",
-                "increases 8 times"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "is doubled"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "increases 6 times"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "increases 4 times"
+                },
+                {
+                "correct": "true",
+                "detail": "V = a³\n\nIf the edge is doubled, volume becomes 8 times.",
+                "value": "increases 8 times"
+                }
+                
             ],
-            "text": "If each edge of a cube is doubled, then its volume",
-            "detail": "V = a³\n\nIf the edge is doubled, volume becomes 8 times."
+            "text": "If each edge of a cube is doubled, then its volume"
+            
         },
         {
             "id": 66,
             "answerIndex": 3,
             "options": [
-                "120 litres",
-                "12000 litres",
-                "1200 litres",
-                "120000 litres"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "120 litres"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "12000 litres"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "1200 litres"
+                },
+                {
+                "correct": "true",
+                "detail": "8*6*2.5\n= 120 m³\n= 120000 liters",
+                "value": "120000 litres"
+                }
+                
             ],
-            "text": "The capacity of a tank of dimensions (8 m x 6 m x 2.5 m), is",
-            "detail": "8*6*2.5\n= 120 m³\n= 120000 liters"
+            "text": "The capacity of a tank of dimensions (8 m x 6 m x 2.5 m), is"
+           
         },
         {
             "id": 67,
             "answerIndex": 1,
             "options": [
-                "30 m",
-                "30√2 m",
-                "15√2 m",
-                "60 m"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "30 m"
+                },
+                {
+                "correct": "true",
+                "detail": "Dialonal of the room\n= √(l²+b²+h²)\n= √1800\n= 30√2 m",
+                "value": "30√2 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "15√2 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "60 m"
+                }
+                
             ],
-            "text": "The length of the longest rod that can be placed in a room 30 m long, 24 m broad and 18 m high, is",
-            "detail": "Dialonal of the room\n= √(l²+b²+h²)\n= √1800\n= 30√2 m"
+            "text": "The length of the longest rod that can be placed in a room 30 m long, 24 m broad and 18 m high, is"
+            
         },
         {
             "id": 68,
             "answerIndex": 2,
             "options": [
-                "3 cm",
-                "4 cm",
-                "6 cm",
-                "8 cm"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "4πR² = 2π6*12\n\nR = 6 cm",
+                "value": "6 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "8 cm"
+                }
+                
             ],
-            "text": "The surface area of a sphere is same as the curved surface area of a right circular cylinder whose height and diameter are 12 cm each. The radius of the sphere is",
-            "detail": "4πR² = 2π6*12\n\nR = 6 cm"
+            "text": "The surface area of a sphere is same as the curved surface area of a right circular cylinder whose height and diameter are 12 cm each. The radius of the sphere is"
+           
         },
         {
             "id": 69,
             "answerIndex": 0,
             "options": [
-                "4:25",
-                "4:15",
-                "3:25",
-                "3:15"
+                {
+                "correct": "true",
+                "detail": "Area is proportional to the square of the diagonals.\n\nRatio = 4:25",
+                "value": "4:25"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "4:15"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3:25"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "3:15"
+                }
+                
             ],
-            "text": "The diagonals of two squares are in the ratio of 2:5. Find the ratio of their areas.",
-            "detail": "Area is proportional to the square of the diagonals.\n\nRatio = 4:25"
+            "text": "The diagonals of two squares are in the ratio of 2:5. Find the ratio of their areas."
+            
         },
         {
             "id": 70,
             "answerIndex": 1,
             "options": [
-                "22 cm",
-                "24 cm",
-                "26 cm",
-                "28 cm"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "22 cm"
+                },
+                {
+                "correct": "true",
+                "detail": "4a1 = 40\n4a2 = 32\n\na1 = 10\na2 = 8\n\na² = a1² - a2² = 36\na = 6\n\n4a = 24",
+                "value": "24 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "26 cm"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "28 cm"
+                }
+                
             ],
-            "text": "The perimeters of two squares are 40 cm and 32 cm. Find the perimeter of a third square whose area is equal to the difference of the areas of the two squares.",
-            "detail": "4a1 = 40\n4a2 = 32\n\na1 = 10\na2 = 8\n\na² = a1² - a2² = 36\na = 6\n\n4a = 24"
+            "text": "The perimeters of two squares are 40 cm and 32 cm. Find the perimeter of a third square whose area is equal to the difference of the areas of the two squares."
+           
         },
         {
             "id": 71,
             "answerIndex": 1,
             "options": [
-                "18 m",
-                "20 m",
-                "22 m",
-                "25 m"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "18 m"
+                },
+                {
+                "correct": "true",
+                "detail": "l = 1.15 b\n\nlb = 460\n1.15 b² = 460\nb² = 400\nb = 20",
+                "value": "20 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "22 m"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "25 m"
+                }
+                
             ],
-            "text": "The area of a rectangle is 460 square metres. If the length is 15% more than the breadth, what is the breadth of the rectangular field?",
-            "detail": "l = 1.15 b\n\nlb = 460\n1.15 b² = 460\nb² = 400\nb = 20"
+            "text": "The area of a rectangle is 460 square metres. If the length is 15% more than the breadth, what is the breadth of the rectangular field?"
+            
         },
         {
             "id": 72,
             "answerIndex": 2,
             "options": [
-                "152600 m²",
-                "153500 m²",
-                "153600 m²",
-                "153800 m²"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "152600 m²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "153500 m²"
+                },
+                {
+                "correct": "true",
+                "detail": "Perimeter of the park\n= Distance covered by the man in 8 minutes\n= 8*12000/60\n= 1600\n2(l+b) = 1600\nl+b = 800\nl:b = 3:2\n\nSolving,\nl = 480\nb = 320\n\nArea = lb = 153600",
+                "value": "153600 m²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "153800 m²"
+                }
+                
             ],
-            "text": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is",
-            "detail": "Perimeter of the park\n= Distance covered by the man in 8 minutes\n= 8*12000/60\n= 1600\n2(l+b) = 1600\nl+b = 800\nl:b = 3:2\n\nSolving,\nl = 480\nb = 320\n\nArea = lb = 153600"
+            "text": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is"
+            
         },
         {
             "id": 73,
             "answerIndex": 1,
             "options": [
-                "42 m²",
-                "49 m²",
-                "52 m²",
-                "64 m²"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "42 m²"
+                },
+                {
+                "correct": "true",
+                "detail": "Area of the wet surface\n= 2h(l+b) + lb\n= 2*1.25(4+6)+6*4\n= 49 m²",
+                "value": "49 m²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "52 m²"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "64 m²"
+                }
+               
             ],
-            "text": "A cistern 6 m long and 4 m wide contains water up to a height of 1 m 25 cm. Find the total area of the wet surface.",
-            "detail": "Area of the wet surface\n= 2h(l+b) + lb\n= 2*1.25(4+6)+6*4\n= 49 m²"
+            "text": "A cistern 6 m long and 4 m wide contains water up to a height of 1 m 25 cm. Find the total area of the wet surface."
+            
         },
         {
             "id": 74,
             "answerIndex": 3,
             "options": [
-                "800",
-                "125",
-                "400",
-                "8000"
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "800"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "125"
+                },
+                {
+                "correct": "false",
+                "detail": "",
+                "value": "400"
+                },
+                {
+                "correct": "true",
+                "detail": "No. of balls\n= (100*100*100)/(5*5*5)\n= 8000",
+                "value": "8000"
+                }
+                
             ],
-            "text": "A spherical lead ball of radius 10 cm is melted and small lead balls of radius 5 mm are made. The total number of possible small lead balls is",
-            "detail": "No. of balls\n= (100*100*100)/(5*5*5)\n= 8000"
+            "text": "A spherical lead ball of radius 10 cm is melted and small lead balls of radius 5 mm are made. The total number of possible small lead balls is"
+            
         }
     ]
 }
