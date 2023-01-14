@@ -14,49 +14,49 @@ Question
 
 
 Template
-=======
-
+=======         
                 {
                     "correct": "false",
                     "detail": "",
-                    "value": "18"
+                    "value": "πa²/4"
                 },
                 {
                     "correct": "false",
                     "detail": "",
-                    "value": "19"
+                    "value": "πa²/2"
                 },
                 {
                     "correct": "false",
                     "detail": "",
-                    "value": "15"
+                    "value": "πa²/8"
                 },
                 {
                     "correct": "false",
                     "detail": "",
-                    "value": "21"
+                    "value": "πa²"
                 }
 
-Snippet
-========
 
-"{",
-			"\"correct\": \"false\",",
+snippets
+=======
+
+			"{",
+			"\"correct\": false,",
 			"\"detail\": \"\",",
 			"\"value\": \"$1\"",
 			"},",
 			"{",
-			"\"correct\": \"false\",",
+			"\"correct\": false,",
 			"\"detail\": \"\",",
 			"\"value\": \"$2\"",
 			"},",
 			"{",
-			"\"correct\": \"false\",",
+			"\"correct\": false,",
 			"\"detail\": \"\",",
 			"\"value\": \"$3\"",
 			"},",
 			"{",
-			"\"correct\": \"false\",",
+			"\"correct\": false,",
 			"\"detail\": \"\",",
 			"\"value\": \"$4\"",
 			"}"
