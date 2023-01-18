@@ -1,797 +1,1924 @@
-{
+{    
+    "Author": "Gokul G",
     "description": "1. The number of days more than the complete weeks during a given period is the number of odd days during that period. \n\n2. An ordinary year has 365 days i.e 52 weeks and 1 day.\nThe number of odd days in an ordinary year is 1.\n\n3. A leap year has 366 days i.e. 52 weeks and 2 days.\nThe number of odd days in a leap year is 2.\n\n4. Number of odd days in\nJan - 3\nFeb  - 0/1 (1 in leap year)\nMar - 3\nApr  - 2\nMay - 3\nJun   - 2\nJul    - 3 \nAug - 3\nSep  - 2\nOct  - 3\nNov - 2\nDec  - 3\n\n4. All years divisible by 4, except centuries, are leap years.\n    Every fourth century is a leap year.\n400,800,1200,1600 are leap years.\n100,200 are ordinary years    \n\n5. A calendar repeats after every 400 years.\n\n6. Number of odd days in a century = 5\n    Number of odd day in a leap century = 6\n\n7. In an ordinary year, the following pairs of months begin on the same day\nJan, Oct\nFeb, Mar, Nov\nApr, Jul\nSep, Dec\n\n8. In a leap year, the following pairs of months begin on the same day.\nJan, Apr, Jul\nFeb, Aug\nMar, Nov\nSep, Dec",
+    "id": "aptitude-calender",
+    "title": "Aptitude Calender",
+    "topic": "Calender",
     "questions": [
         {
             "id": 1,
             "answerIndex": 2,
             "options": [
-                "Sunday",
-                "Monday",
-                "Tuesday",
-                "Wednesday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": true,
+                "detail": "Number of odd days from 2009 to 2012 = 1+1+1+2 = 5\n5 days before Sunday is Tuesday",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                }
+                
             ],
-            "text": "July 15th of 2012 is Sunday. What day was July 15th of 2008?",
-            "detail": "Number of odd days from 2009 to 2012 = 1+1+1+2 = 5\n5 days before Sunday is Tuesday"
+            "text": "July 15th of 2012 is Sunday. What day was July 15th of 2008?"
+           
         },
         {
             "id": 2,
             "answerIndex": 1,
             "options": [
-                "16",
-                "17",
-                "18",
-                "19"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                "detail": "Leap years between 1943 and 2011\n44,48,52,56,60,......,2004,2008\n17 leap years.",
+                "value": "17"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "18"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "19"
+                }
+               
             ],
-            "text": "Find the number of leap years between 1943 and 2011.",
-            "detail": "Leap years between 1943 and 2011\n44,48,52,56,60,......,2004,2008\n17 leap years."
+            "text": "Find the number of leap years between 1943 and 2011."
+            
         },
         {
             "id": 3,
             "answerIndex": 0,
             "options": [
-                "131",
-                "132",
-                "133",
-                "134"
+                {
+                "correct": true,
+                "detail": "21 days in March [11th - 31st]\n30 days in April\n31 days in May\n30 days in June\n19 days in July [1st - 19th]\nTotal = 131 days\n",
+                "value": "131"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "132"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "133"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "134"
+                }
+                
+                
             ],
-            "text": "How many days are there between 10th March, 2011 and 20th July, 2011 (excluding both the days)?",
-            "detail": "21 days in March [11th - 31st]\n30 days in April\n31 days in May\n30 days in June\n19 days in July [1st - 19th]\nTotal = 131 days\n"
+            "text": "How many days are there between 10th March, 2011 and 20th July, 2011 (excluding both the days)?"
+            
         },
         {
             "id": 4,
             "answerIndex": 2,
             "options": [
-                "17",
-                "18",
-                "19",
-                "20"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "17"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "18"
+                },
+                {
+                "correct": true,
+                "detail": "In a year, 7 months have 31 days.\n\nFrom Jun '90 to Feb '93\n(4 in '90)+(7 in '91)+(7 in '92)+(1 in '93) = 19",
+                "value": "19"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "20"
+                }
+               
             ],
-            "text": "Between June 1990 and February 1993, how many months have 31 days?",
-            "detail": "In a year, 7 months have 31 days.\n\nFrom Jun '90 to Feb '93\n(4 in '90)+(7 in '91)+(7 in '92)+(1 in '93) = 19"
+            "text": "Between June 1990 and February 1993, how many months have 31 days?"
+           
         },
         {
             "id": 5,
             "answerIndex": 2,
             "options": [
-                "Wednesday",
-                "Friday",
-                "Monday",
-                "Tueday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": true,
+                "detail": "10 days after Friday is a Monday.\n\nNumber of odd days in a 10 day period = 3",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                }
+               
             ],
-            "text": "5 days before April 13th 2011 was a Friday. What day was 5 days after April 13th?",
-            "detail": "10 days after Friday is a Monday.\n\nNumber of odd days in a 10 day period = 3"
+            "text": "5 days before April 13th 2011 was a Friday. What day was 5 days after April 13th?"
+           
         },
         {
             "id": 6,
             "answerIndex": 0,
             "options": [
-                "185",
-                "186",
-                "184",
-                "187"
+                {
+                "correct": true,
+                "detail": "No. of days between 20th March and 22nd September\n= 11+30+31+30+31+31+21\n= 185",
+                "value": "185"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "186"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "184"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "187"
+                }
+                
             ],
-            "text": "An equinox occurs twice a year, on 20th March and 22nd September. Find the number of days between the equinoxes (excluding both the days).",
-            "detail": "No. of days between 20th March and 22nd September\n= 11+30+31+30+31+31+21\n= 185"
-        },
+            "text": "An equinox occurs twice a year, on 20th March and 22nd September. Find the number of days between the equinoxes (excluding both the days)."
+            
+        },  
         {
             "id": 7,
             "answerIndex": 3,
             "options": [
-                "2016",
-                "2017",
-                "2020",
-                "2022"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2016"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2017"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2020"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days from 2011 to 2022\n= 1+2+1+1+1+2+1+1+1+2+1\n= 14\nHence, 2022 will have a calendar similar to 2011.\n\nThe number of odd days increases from 6 to 8 since 2016 is a leap year. Hence 14 odd days are calculated.",
+                "value": "2022"
+                }
+                
             ],
-            "text": "Which of the following years will have a calendar similar to the year 2011?",
-            "detail": "No. of odd days from 2011 to 2022\n= 1+2+1+1+1+2+1+1+1+2+1\n= 14\nHence, 2022 will have a calendar similar to 2011.\n\nThe number of odd days increases from 6 to 8 since 2016 is a leap year. Hence 14 odd days are calculated."
+            "text": "Which of the following years will have a calendar similar to the year 2011?"
+           
         },
         {
             "id": 8,
             "answerIndex": 2,
             "options": [
-                "2000,2005",
-                "2005,2011",
-                "2014,2019",
-                "2012,2017"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2000,2005"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2005,2011"
+                },
+                {
+                "correct": true,
+                "detail": "Calculate the number of odd days between these years.\n\nBetween 2014 and 2019, \nNo. of odd days = 6\nHence they have a different calendar.",
+                "value": "2014,2019"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2012,2017"
+                }
+                
             ],
-            "text": "Which of the following pairs of years will not have the same calendar?",
-            "detail": "Calculate the number of odd days between these years.\n\nBetween 2014 and 2019, \nNo. of odd days = 6\nHence they have a different calendar."
+            "text": "Which of the following pairs of years will not have the same calendar?"
+           
         },
         {
             "id": 9,
             "answerIndex": 2,
             "options": [
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": true,
+                "detail": "Today is Tuesday.\nDay after tomorrow will be Thursday.",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+                
             ],
-            "text": "Day before yesterday was Sunday. What day is day after tomorrow?",
-            "detail": "Today is Tuesday.\nDay after tomorrow will be Thursday."
+            "text": "Day before yesterday was Sunday. What day is day after tomorrow?"
+            
         },
         {
             "id": 10,
             "answerIndex": 1,
             "options": [
-                "Friday",
-                "Saturday",
-                "Sunday",
-                "Monday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": true,
+                "detail": "100 = (14*7) + 2\nNo. of odd days in a 100 day period = 2\n100 days after today(Thurday) will be Saturday.",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                }
+               
             ],
-            "text": "Yesterday was Wednesday. What day will 100 days after today be?",
-            "detail": "100 = (14*7) + 2\nNo. of odd days in a 100 day period = 2\n100 days after today(Thurday) will be Saturday."
+            "text": "Yesterday was Wednesday. What day will 100 days after today be?"
+            
         },
         {
             "id": 11,
             "answerIndex": 1,
-            "options": [
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday"
+            "options": [    
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "November 4, 2004 - Thursday\nNovember 3, 2004 - Wednesday",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+                
             ],
-            "text": "November 4, 2005 was Friday. What day was November 3, 2004?",
-            "detail": "November 4, 2004 - Thursday\nNovember 3, 2004 - Wednesday"
+            "text": "November 4, 2005 was Friday. What day was November 3, 2004?"
+            
         },
         {
             "id": 12,
             "answerIndex": 3,
             "options": [
-                "Monday",
-                "Thursday",
-                "Tuesday",
-                "Wednesday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days in 2008 = 2\nJan 15, 2008 was Tuesday\nJan 16 - Wednesday",
+                "value": "Wednesday"
+                }
+               
             ],
-            "text": "January 15, 2009 was Thursday. What day was January 16, 2008?",
-            "detail": "No. of odd days in 2008 = 2\nJan 15, 2008 was Tuesday\nJan 16 - Wednesday"
+            "text": "January 15, 2009 was Thursday. What day was January 16, 2008?"
+           
         },
         {
             "id": 13,
             "answerIndex": 0,
             "options": [
-                "45",
-                "44",
-                "16",
-                "15"
+                {
+                "correct": true,
+                "detail": "Number of years between 1952 and 2013\n= 60\nNumber of leap years between 1952 and 2013\n= 15\nNumber of ordinary years = 60-16 = 45\n\n",
+                "value": "45"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "44"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "15"
+                }
+               
             ],
-            "text": "Find the number of ordinary years between 1952 and 2013(excluding both the years).",
-            "detail": "Number of years between 1952 and 2013\n= 60\nNumber of leap years between 1952 and 2013\n= 15\nNumber of ordinary years = 60-16 = 45\n\n"
+            "text": "Find the number of ordinary years between 1952 and 2013(excluding both the years)."
+           
         },
         {
             "id": 14,
             "answerIndex": 1,
             "options": [
-                "1",
-                "2",
-                "3",
-                "4"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1"
+                },
+                {
+                "correct": true,
+                "detail": "The number of days more than the complete weeks during a given period is the number of odd days during that period. A leap year contains 366 days i.e. 52 weeks and 2 days.\n\nThe number of odd days in a leap year is 2.",
+                "value": "2"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                }
+               
             ],
-            "text": "What is the number of odd days in a leap year?",
-            "detail": "The number of days more than the complete weeks during a given period is the number of odd days during that period. A leap year contains 366 days i.e. 52 weeks and 2 days.\n\nThe number of odd days in a leap year is 2."
+            "text": "What is the number of odd days in a leap year?"
+            
         },
         {
             "id": 15,
             "answerIndex": 3,
             "options": [
-                "23",
-                "22",
-                "24",
-                "25"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "23"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "22"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": true,
+                "detail": "Sep 1 - Friday\nSep 30 - Saturday\n\nThere are 4 Sundays in September\n\nThere are 25 working days in September.",
+                "value": "25"
+                }
+               
             ],
-            "text": "In a given year, the first day of September is Friday. If every last Saturday and every Sunday is a holiday, then how many working days are there in September?",
-            "detail": "Sep 1 - Friday\nSep 30 - Saturday\n\nThere are 4 Sundays in September\n\nThere are 25 working days in September."
+            "text": "In a given year, the first day of September is Friday. If every last Saturday and every Sunday is a holiday, then how many working days are there in September?"
+            
         },
         {
             "id": 16,
             "answerIndex": 2,
             "options": [
-                "Today",
-                "Two days after today",
-                "2 days after tomorrow",
-                "Day after tomorrow"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Today"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Two days after today"
+                },
+                {
+                "correct": true,
+                "detail": "Since day before yesterday was Tuesday, today is Thursday.\n\nHence, Sunday will be two days after tomorrow.",
+                "value": "2 days after tomorrow"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Day after tomorrow"
+                }
+              
             ],
-            "text": "If the day before yesterday was Tueday, when will Sunday be?",
-            "detail": "Since day before yesterday was Tuesday, today is Thursday.\n\nHence, Sunday will be two days after tomorrow."
+            "text": "If the day before yesterday was Tueday, when will Sunday be?"
+           
         },
         {
             "id": 17,
             "answerIndex": 0,
             "options": [
-                "Monday",
-                "Sunday",
-                "Tuesday",
-                "Saturday"
+                {
+                "correct": true,
+                "detail": "Three days earlier than Wednesday is Sunday.\n\n5th of the month is Sunday.\n\nHence, twentieth of that month will be Monday. (1 odd day from 5 to 20)",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                }
+                
             ],
-            "text": "If the fifth of a month is three days earlier than Wednesday, what day will it be on the twentieth of that month?",
-            "detail": "Three days earlier than Wednesday is Sunday.\n\n5th of the month is Sunday.\n\nHence, twentieth of that month will be Monday. (1 odd day from 5 to 20)"
+            "text": "If the fifth of a month is three days earlier than Wednesday, what day will it be on the twentieth of that month?"
+            
         },
         {
             "id": 18,
             "answerIndex": 3,
             "options": [
-                "July 3",
-                "July 7",
-                "July 1",
-                "July 4"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "July 3"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "July 7"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "July 1"
+                },
+                {
+                "correct": true,
+                "detail": "July 4, 2001 was a Wedneday.\n\nFind using odd days concept.",
+                "value": "July 4"
+                }
+               
             ],
-            "text": "Naveen joined college in the first week on July 2001. He remembers it was a Wednesday. On which date did he join?",
-            "detail": "July 4, 2001 was a Wedneday.\n\nFind using odd days concept."
+            "text": "Naveen joined college in the first week on July 2001. He remembers it was a Wednesday. On which date did he join?"
+           
         },
         {
             "id": 19,
             "answerIndex": 1,
             "options": [
-                "Wednesday",
-                "Monday",
-                "Friday",
-                "Sunday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": true,
+                "detail": "20th March, 2012 was a Tuesday.\n\nNo. of odd days from March '00 to Mar '12\n= 15\n\nSo, 20th March, 2000 was a Monday.",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                }
+               
             ],
-            "text": "What was the day of the week on 20th March, 2000?",
-            "detail": "20th March, 2012 was a Tuesday.\n\nNo. of odd days from March '00 to Mar '12\n= 15\n\nSo, 20th March, 2000 was a Monday."
+            "text": "What was the day of the week on 20th March, 2000?"
+           
         },
         {
             "id": 20,
             "answerIndex": 2,
             "options": [
-                "Sunday",
-                "Saturday",
-                "Friday",
-                "Thursday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": true,
+                "detail": "Day before yesterday was 25th Dec. Today is 27th Dec.\n\nToday is Sunday (27th Dec).\n\nNew Year falls on Friday.\n\nThe difference between Christmas and New Year is 7 days(0 odd days). Hence, they fall on the same day.\n",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                }
+               
             ],
-            "text": "Day before yesterday was Christmas. What will be the day on New Year if tomorrow is Monday?",
-            "detail": "Day before yesterday was 25th Dec. Today is 27th Dec.\n\nToday is Sunday (27th Dec).\n\nNew Year falls on Friday.\n\nThe difference between Christmas and New Year is 7 days(0 odd days). Hence, they fall on the same day.\n"
+            "text": "Day before yesterday was Christmas. What will be the day on New Year if tomorrow is Monday?"
+            
         },
         {
             "id": 21,
             "answerIndex": 2,
             "options": [
-                "0",
-                "2",
-                "5",
-                "6"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                },
+                {
+                "correct": true,
+                "detail": "100 years contain 76 ordinary years and 24 leap years.\n\nNo. of odd days\n= (76*1)+(24*2)\n= 124\n= (17*7)+5\n= 5 odd days",
+                "value": "5"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                }
+                
             ],
-            "text": "Find the number of odd days in 100 years.",
-            "detail": "100 years contain 76 ordinary years and 24 leap years.\n\nNo. of odd days\n= (76*1)+(24*2)\n= 124\n= (17*7)+5\n= 5 odd days"
+            "text": "Find the number of odd days in 100 years."
+            
         },
         {
             "id": 22,
             "answerIndex": 1,
             "options": [
-                "Nov 25, 2011",
-                "Dec 5, 2011",
-                "Jan 5,2012",
-                "Dec 10,2011"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Nov 25, 2011"
+                },
+                {
+                "correct": true,
+                "detail": "Jan 25, 2011 - 10 years old\n\nNov 25,2011 - 10 years, 10 months\n\nDec 5,2011    - 10 years, 10 months, 10 days",
+                "value": "Dec 5, 2011"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Jan 5,2012"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value":"Apr 25, 2012"
+                }
+
             ],
-            "text": "Nitin was born on January 25, 2001. On what day of the week was he 10 years, 10 months and 10 days of age?",
-            "detail": "Jan 25, 2011 - 10 years old\n\nNov 25,2011 - 10 years, 10 months\n\nDec 5,2011    - 10 years, 10 months, 10 days"
+            "text": "Nitin was born on January 25, 2001. On what day of the week was he 10 years, 10 months and 10 days of age?"
+            
         },
         {
             "id": 23,
             "answerIndex": 3,
             "options": [
-                "Sunday",
-                "Friday",
-                "Monday",
-                "Thursday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days in 100 years = 5\nLast day of first century is Friday.\n\n200 years \n(5*2) 10 odd days = 3 odd days\nLast day of second century is Wednesday.\n\n300 years\n(5*3) 15 odd days = 1 odd day\nLast day of third century is Monday.\n\n400 years\n(5*4)+1 = 21 odd days = 0 odd days\n1 is added since 400 is a leap year while 100,200,300 are not.\nLast day of fourth century is Sunday.\n\nThe cycle starts repeating again. Last day of 5th century-Friday and so on.\n\nThe last day of a century cannot be a Tuesday, Thursday or a Saturday",
+                "value": "Thursday"
+                }
+                
             ],
-            "text": "The last day of a century cannot be a ",
-            "detail": "No. of odd days in 100 years = 5\nLast day of first century is Friday.\n\n200 years \n(5*2) 10 odd days = 3 odd days\nLast day of second century is Wednesday.\n\n300 years\n(5*3) 15 odd days = 1 odd day\nLast day of third century is Monday.\n\n400 years\n(5*4)+1 = 21 odd days = 0 odd days\n1 is added since 400 is a leap year while 100,200,300 are not.\nLast day of fourth century is Sunday.\n\nThe cycle starts repeating again. Last day of 5th century-Friday and so on.\n\nThe last day of a century cannot be a Tuesday, Thursday or a Saturday"
+            "text": "The last day of a century cannot be a "
+
         },
         {
             "id": 24,
             "answerIndex": 0,
             "options": [
-                "25th November",
-                "25th July",
-                "25th October",
-                "25th August"
+                {
+                "correct": true,
+                "detail": "No. of odd days in \nMarch - 3\nApril - 2\nMay - 3\nJune - 2\nJuly - 3\nAugust - 3\nSeptember - 2\nOctober - 3\nThe no. of odd days from March to October is 21(zero odd days).\n\nHence, 25th November falls on the same day as 25th March.",
+                "value": "25th November"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25th July"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25th October"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25th August"
+                }
+                
             ],
-            "text": "Which of the following dates has the same day as 25th March in the same year?",
-            "detail": "No. of odd days in \nMarch - 3\nApril - 2\nMay - 3\nJune - 2\nJuly - 3\nAugust - 3\nSeptember - 2\nOctober - 3\nThe no. of odd days from March to October is 21(zero odd days).\n\nHence, 25th November falls on the same day as 25th March."
+            "text": "Which of the following dates has the same day as 25th March in the same year?"
+            
         },
         {
             "id": 25,
             "answerIndex": 2,
             "options": [
-                "Mar, Sep",
-                "Feb, Nov",
-                "Jan, Apr",
-                "Aug, Dec"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Mar, Sep"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Feb, Nov"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days from Jan to March\n= 3+1+3\n= 7\nJan and April begin on the same day.",
+                "value": "Jan, Apr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Aug, Dec"
+                }
+               
             ],
-            "text": "In a leap year, which of the following pairs of months begin on the same day?",
-            "detail": "No. of odd days from Jan to March\n= 3+1+3\n= 7\nJan and April begin on the same day."
+            "text": "In a leap year, which of the following pairs of months begin on the same day?"
+           
         },
         {
             "id": 26,
             "answerIndex": 2,
             "options": [
-                "Friday",
-                "Monday",
-                "Saturday",
-                "Sunday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": true,
+                "detail": "From 2013 to 2023, there are\n2 leap years\n8 ordinary years\nNo. of odd days\n= (2*2)+8\n= 12\n5 odd days\n\nThis date will fall on Saturday.",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                }
+               
             ],
-            "text": "It is the year 2013 and today is a Monday, find the day of this date after 10 years.",
-            "detail": "From 2013 to 2023, there are\n2 leap years\n8 ordinary years\nNo. of odd days\n= (2*2)+8\n= 12\n5 odd days\n\nThis date will fall on Saturday."
+            "text": "It is the year 2013 and today is a Monday, find the day of this date after 10 years."
+            
         },
         {
             "id": 27,
             "answerIndex": 3,
             "options": [
-                "1,8,15,22,29",
-                "3,10,17,24,31",
-                "5,12,19,26",
-                "7,14,21,28"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1,8,15,22,29"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3,10,17,24,31"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5,12,19,26"
+                },
+                {
+                "correct": true,
+                "detail": "August 1,2012 was a Wednesday.\n\nNo. of odd days from Aug 2005 to Aug 2012\n= 9\n2 odd days\n\nAugust 1, 2005 was a Monday.\n\n7,14,21,28 were Sundays.",
+                "value": "7,14,21,28"
+                }
+               
             ],
-            "text": "In the year 2005, which of the following dates of August were Sundays?",
-            "detail": "August 1,2012 was a Wednesday.\n\nNo. of odd days from Aug 2005 to Aug 2012\n= 9\n2 odd days\n\nAugust 1, 2005 was a Monday.\n\n7,14,21,28 were Sundays."
+            "text": "In the year 2005, which of the following dates of August were Sundays?"
         },
         {
             "id": 28,
             "answerIndex": 1,
             "options": [
-                "76",
-                "75",
-                "65",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "76"
+                },
+                {
+                "correct": true,
+                "detail": "Every fourth century is a leap year.\n\nSo, there are 75 ordinary years in the 20th century.",
+                "value": "75"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "65"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
+                
             ],
-            "text": "Find the number of ordinary years in the 20th century.",
-            "detail": "Every fourth century is a leap year.\n\nSo, there are 75 ordinary years in the 20th century."
+            "text": "Find the number of ordinary years in the 20th century."
+           
         },
         {
             "id": 29,
             "answerIndex": 1,
             "options": [
-                "25",
-                "24",
-                "75",
-                "74"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25"
+                },
+                {
+                "correct": true,
+                "detail": "There are 24 leap years in a century.",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "75"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "74"
+                }
+                
+               
             ],
-            "text": "Find the number of leap years in the 15th century.",
-            "detail": "There are 24 leap years in a century."
+            "text": "Find the number of leap years in the 15th century."
+           
         },
         {
             "id": 30,
             "answerIndex": 0,
             "options": [
-                "Tuesday",
-                "Wednesday",
-                "Monday",
-                "Thursday"
+                {
+                "correct": true,
+                "detail": "No. of odd days in 2008 = 2\n\nSo, December 31,2007 was a Monday.\n\nHence Jan 1, 2008 was a Tuesday.",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                }
+                
             ],
-            "text": "December 31, 2008 was a Wednesday. What day of the week was January 1, 2008?",
-            "detail": "No. of odd days in 2008 = 2\n\nSo, December 31,2007 was a Monday.\n\nHence Jan 1, 2008 was a Tuesday."
+            "text": "December 31, 2008 was a Wednesday. What day of the week was January 1, 2008?"
+           
         },
         {
             "id": 31,
             "answerIndex": 3,
             "options": [
-                "1975",
-                "1976",
-                "1977",
-                "1981"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1975"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1976"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1977"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days should be a multiple of 7.\n\nNo. of odd days from 1970-1975\n1+2+1+1+1 = 6\n1970-1976\n8\n1970-1977\n9\n1970-1981\n1+2+1+1+1+2+1+1+1+2+1 = 14\n\nHer birthday falls on Sunday in the year 1981.",
+                "value": "1981"
+                }
+                
             ],
-            "text": "A girl was born on September 6, 1970, which happened to be a Sunday. Her birthday again fell on Sunday in the year",
-            "detail": "No. of odd days should be a multiple of 7.\n\nNo. of odd days from 1970-1975\n1+2+1+1+1 = 6\n1970-1976\n8\n1970-1977\n9\n1970-1981\n1+2+1+1+1+2+1+1+1+2+1 = 14\n\nHer birthday falls on Sunday in the year 1981."
+            "text": "A girl was born on September 6, 1970, which happened to be a Sunday. Her birthday again fell on Sunday in the year"
+           
         },
         {
             "id": 32,
             "answerIndex": 1,
             "options": [
-                "Tuesday",
-                "Wednesday",
-                "Saturday",
-                "Monday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "It was recieved on Wednesday.",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                }
+               
             ],
-            "text": "An application was received by inward clerk in the afternoon of a weekday. Next day he forwarded it to the table of the senior clerk, who was on leave that day. The next day evening, the senior clerk put up the application to the desk officer. Desk officer studied the application and disposed off the matter on the same day, i.e., Friday. Which day the application was received by the inward clerk?",
-            "detail": "It was recieved on Wednesday."
+            "text": "An application was received by inward clerk in the afternoon of a weekday. Next day he forwarded it to the table of the senior clerk, who was on leave that day. The next day evening, the senior clerk put up the application to the desk officer. Desk officer studied the application and disposed off the matter on the same day, i.e., Friday. Which day the application was received by the inward clerk?"
+            
         },
         {
             "id": 33,
             "answerIndex": 1,
             "options": [
-                "110",
-                "111",
-                "112",
-                "113"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "110"
+                },
+                {
+                "correct": true,
+                "detail": "No. of days\n= 6+29+31+30+15\n= 111",
+                "value": "111"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "112"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "113"
+                }
+               
             ],
-            "text": "Find the number of days from 26-1-1996 to 15-5-1996 (both days inclusive).",
-            "detail": "No. of days\n= 6+29+31+30+15\n= 111"
+            "text": "Find the number of days from 26-1-1996 to 15-5-1996 (both days inclusive)."
+
         },
         {
             "id": 34,
             "answerIndex": 0,
             "options": [
-                "Thursday",
-                "Tuesday",
-                "Wednesday",
-                "Friday"
+                {
+                "correct": true,
+                "detail": "No. of odd days from 1990-98\n= 1+1+2+1+1+1+2+1\n= 10\n\n1st Jan, 1998 was a Thursday.",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+               
             ],
-            "text": "If the first day of the year 1990 was a Monday, what day of the week was the 1st January 1998?",
-            "detail": "No. of odd days from 1990-98\n= 1+1+2+1+1+1+2+1\n= 10\n\n1st Jan, 1998 was a Thursday."
+            "text": "If the first day of the year 1990 was a Monday, what day of the week was the 1st January 1998?"
+           
         },
         {
             "id": 35,
             "answerIndex": 1,
             "options": [
-                "14",
-                "15",
-                "14 or 15",
-                "15 or 16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14"
+                },
+                {
+                "correct": true,
+                "detail": "Between 13 and 16\n14 or 15\nAfter 14th\nSo, 15 should be the answer.",
+                "value": "15"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14 or 15"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "15 or 16"
+                }
+              
             ],
-            "text": "Rajan remembers that his elder brother was born between 13th and 16th April while his mother remembers that he was born after 14th April and before 17th April. If the statements of both are considered correct then on which date of April he was born?",
-            "detail": "Between 13 and 16\n14 or 15\nAfter 14th\nSo, 15 should be the answer."
+            "text": "Rajan remembers that his elder brother was born between 13th and 16th April while his mother remembers that he was born after 14th April and before 17th April. If the statements of both are considered correct then on which date of April he was born?"
+           
         },
         {
             "id": 36,
             "answerIndex": 0,
             "options": [
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday"
+                {
+                "correct": true,
+                "detail": "January has 31 days. If it started on Sunday, then it would have 5 Sundays, Mondays and Tuesdays.\n\nBut there are only 4 Sundays.\n\nHence, it started on a Monday. There would be 5 Mondays, Tuesdays and Wednesdays.\n\nIf it started on any other day, then the number of either Thursdays or Sundays would be 5.",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                }
+                
             ],
-            "text": "In a particular year, the month of January had exactly 4 thursdays and 4 sundays.On which day of the week did January 1st occur in the year?",
-            "detail": "January has 31 days. If it started on Sunday, then it would have 5 Sundays, Mondays and Tuesdays.\n\nBut there are only 4 Sundays.\n\nHence, it started on a Monday. There would be 5 Mondays, Tuesdays and Wednesdays.\n\nIf it started on any other day, then the number of either Thursdays or Sundays would be 5."
+            "text": "In a particular year, the month of January had exactly 4 thursdays and 4 sundays.On which day of the week did January 1st occur in the year?"
+            
         },
         {
             "id": 37,
             "answerIndex": 0,
             "options": [
-                "69",
-                "70",
-                "71",
-                "72"
+                {
+                "correct": true,
+                "detail": "He lived for 35+34=69 years.",
+                "value": "69"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "70"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "71"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "72"
+                }
+               
             ],
-            "text": "A Roman was born the first day of the 35th year before Christ and died the first day of the 35th year after Christ. How many years did he live?",
-            "detail": "He lived for 35+34=69 years."
+            "text": "A Roman was born the first day of the 35th year before Christ and died the first day of the 35th year after Christ. How many years did he live?"
+           
         },
         {
             "id": 38,
             "answerIndex": 1,
             "options": [
-                "8",
-                "7",
-                "6",
-                "5"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": true,
+                "detail": "January, March, May, July, August, October, December",
+                "value": "7"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5"
+                }
+              
             ],
-            "text": "How many months have 31 days?",
-            "detail": "January, March, May, July, August, October, December"
+            "text": "How many months have 31 days?"
+            
         },
         {
             "id": 39,
             "answerIndex": 1,
             "options": [
-                "Thursday",
-                "Friday",
-                "Saturday",
-                "Wednesday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days in\n2011 = 1\n2012 = 2\n2013 = 1\nHence, October 10, 2013 falls on a Thursday.\n\nOctober 11, 2013 - Friday\n\n",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                }
+                
             ],
-            "text": "October 10, 2010 was a Sunday. What day of the week was October 11, 2013?",
-            "detail": "No. of odd days in\n2011 = 1\n2012 = 2\n2013 = 1\nHence, October 10, 2013 falls on a Thursday.\n\nOctober 11, 2013 - Friday\n\n"
+            "text": "October 10, 2010 was a Sunday. What day of the week was October 11, 2013?"
+           
         },
         {
             "id": 40,
             "answerIndex": 2,
             "options": [
-                "Wednesday",
-                "Thursday",
-                "Monday",
-                "Sunday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": true,
+                "detail": "Each day of the week is repeated after 7 days.\n\nAfter 63 days, it will be Tuesday.\nAfter 62 days, it will be Monday.",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                }
+                
             ],
-            "text": "Today is Tuesday. After 62 days it will be",
-            "detail": "Each day of the week is repeated after 7 days.\n\nAfter 63 days, it will be Tuesday.\nAfter 62 days, it will be Monday."
+            "text": "Today is Tuesday. After 62 days it will be"
+           
         },
         {
             "id": 41,
             "answerIndex": 1,
             "options": [
-                "Wedneday",
-                "Tuesday",
-                "Thursday",
-                "None of these"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": true,
+                "detail": "1994 being an ordinary year, has 1 odd day.\n\n8th Feb, 1995 was Wednesday.\n8th Feb, 1994 was Tuesday.",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "None of these"
+                }
+               
             ],
-            "text": "On 8th Feb, 1995, it was Wednesday. The day of the week on 8th Feb, 1994 was",
-            "detail": "1994 being an ordinary year, has 1 odd day.\n\n8th Feb, 1995 was Wednesday.\n8th Feb, 1994 was Tuesday."
+            "text": "On 8th Feb, 1995, it was Wednesday. The day of the week on 8th Feb, 1994 was"
+           
         },
         {
             "id": 42,
             "answerIndex": 1,
             "options": [
-                "Friday",
-                "Monday",
-                "Tuesday",
-                "Wednesday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": true,
+                "detail": "2000 years contain 0 odd day\n1st Jan, 2001 has one odd day\nTotal number of odd days up to 1st Jan, 2001 = 0+1\nThe day will be Monday.",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                }
+              
             ],
-            "text": "What will be the day of the week on 1st Jan 2001?",
-            "detail": "2000 years contain 0 odd day\n1st Jan, 2001 has one odd day\nTotal number of odd days up to 1st Jan, 2001 = 0+1\nThe day will be Monday."
+            "text": "What will be the day of the week on 1st Jan 2001?"
+           
         },
         {
             "id": 43,
             "answerIndex": 1,
             "options": [
-                "71",
-                "73",
-                "72",
-                "74"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "71"
+                },
+                {
+                "correct": true,
+                "detail": "30 +28 + 15 = 73 days.",
+                "value": "73"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "72"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "74"
+                }
+               
             ],
-            "text": "How many days are there from 2nd January, 1995 to 15th March, 1995 (including both the days)?",
-            "detail": "30 +28 + 15 = 73 days."
+            "text": "How many days are there from 2nd January, 1995 to 15th March, 1995 (including both the days)?"
+           
         },
         {
             "id": 44,
             "answerIndex": 0,
             "options": [
-                "Thursday",
-                "Tuesday",
-                "Sunday",
-                "Saturday"
+                {
+                "correct": true,
+                "detail": "No. of days between 3 Nov, 1994 to 20 Mar, 1995\n= 27+ 31 + 31+ 28 + 20\n= 137days\n=19weeks + 4days .\n\nNumber of odd days = 4. \n\n4 days before Monday is Thursday.",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                }
+                
+                
             ],
-            "text": "20th March, 1995 falls on a Monday. What was the day on 3rd November, 1994?",
-            "detail": "No. of days between 3 Nov, 1994 to 20 Mar, 1995\n= 27+ 31 + 31+ 28 + 20\n= 137days\n=19weeks + 4days .\n\nNumber of odd days = 4. \n\n4 days before Monday is Thursday."
+            "text": "20th March, 1995 falls on a Monday. What was the day on 3rd November, 1994?"
+            
         },
         {
             "id": 45,
             "answerIndex": 1,
             "options": [
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Sunday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": true,
+                "detail": "2007 is an ordinary year. So, it has 1 odd day.\n\n1 day after Monday is Tuesday.",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                }
+               
             ],
-            "text": "January 1, 2007 was Monday. What was the day of the week Jan 1, 2008?",
-            "detail": "2007 is an ordinary year. So, it has 1 odd day.\n\n1 day after Monday is Tuesday."
+            "text": "January 1, 2007 was Monday. What was the day of the week Jan 1, 2008?"
+            
         },
         {
             "id": 46,
             "answerIndex": 2,
             "options": [
-                "Monday",
-                "Wednesday",
-                "Thursday",
-                "Sunday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": true,
+                "detail": "2008 is a leap year. So, it has 2 odd days.\n\n2 days after Tuesday is Wednesday.",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": ""
+                }
+                
             ],
-            "text": "January 1, 2008 is Tuesday. What was the day of the week on Jan 1, 2009?",
-            "detail": "2008 is a leap year. So, it has 2 odd days.\n\n2 days after Tuesday is Wednesday."
+            "text": "January 1, 2008 is Tuesday. What was the day of the week on Jan 1, 2009?"
+           
         },
         {
             "id": 47,
             "answerIndex": 0,
             "options": [
-                "700",
-                "800",
-                "1200",
-                "2000"
+                {
+                "correct": true,
+                "detail": "Centuries divisible by 400 are leap years.\n\nThe year 700 is not a leap year.",
+                "value": "700"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "800"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1200"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2000"
+                }
+               
             ],
-            "text": "Which of the following is not a leap year?",
-            "detail": "Centuries divisible by 400 are leap years.\n\nThe year 700 is not a leap year."
+            "text": "Which of the following is not a leap year?"
+            
         },
         {
             "id": 48,
             "answerIndex": 3,
             "options": [
-                "Sunday",
-                "Thursday",
-                "Tuesday",
-                "Friday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "2007 is an ordinary year. So, it has 1 odd day.\n\n1 day before Saturday is Friday.",
+                "value": "Friday"
+                }
+               
             ],
-            "text": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
-            "detail": "2007 is an ordinary year. So, it has 1 odd day.\n\n1 day before Saturday is Friday."
+            "text": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?"
+            
         },
         {
             "id": 49,
             "answerIndex": 3,
             "options": [
-                "2014",
-                "2016",
-                "2017",
-                "2018"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2014"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2016"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2017"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days from 2007-2014\n= 1+2+1+1+1+2+1\n= 9\nNo. of odd days from 2007-2016\n= 9+1+1\n= 11\nNo. of odd days from 2007-2017\n= 11+2\n= 13\nNo. of odd days from 2007-2018\n= 13+1\n= 14\n\n2018 and 2007 have the same calendar.\nSo, the calendar for 2017",
+                "value": "2018"
+                }
+               
             ],
-            "text": "The calendar for the year 2007 will be the same as the year",
-            "detail": "No. of odd days from 2007-2014\n= 1+2+1+1+1+2+1\n= 9\nNo. of odd days from 2007-2016\n= 9+1+1\n= 11\nNo. of odd days from 2007-2017\n= 11+2\n= 13\nNo. of odd days from 2007-2018\n= 13+1\n= 14\n\n2018 and 2007 have the same calendar.\nSo, the calendar for 2017 "
+            "text": "The calendar for the year 2007 will be the same as the year"
+            
         },
         {
             "id": 50,
             "answerIndex": 1,
             "options": [
-                "Monday",
-                "Thursday",
-                "Tuesday",
-                "Friday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": true,
+                "detail":  "26th Jan, 2015 was a Monday.\n\nNo. of odd days from 1950-2015\n= (64*5)+1\n= 321 odd days\n= 6 odd days\n\n6 days before Monday is Tuesday.",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+               
             ],
-            "text": "The first republic day of India was celebrated on 26th January, 1950. It was a",
-            "detail": "26th Jan, 2015 was a Monday.\n\nNo. of odd days from 1950-2015\n= (64*5)+1\n= 321 odd days\n= 6 odd days\n\n6 days before Monday is Tuesday."
+            "text": "The first republic day of India was celebrated on 26th January, 1950. It was a"
+            
         },
         {
             "id": 51,
             "answerIndex": 3,
             "options": [
-                "Monday",
-                "Wednesday",
-                "Tuesday",
-                "Thursday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "No. of odd days from 1991 to 1998\n= 1 + 2 + 1 + 1 + 1 + 2 + 1\n= 9 odd days \n= 2 odd days \n\n2 days after Tuesday is Thursday.",
+                "value": "Thursday"
+                }
+                
             ],
-            "text": "If the first day of the year 1991 was Tuesday, what day of the week must have been on 1st January, 1998?",
-            "detail": "No. of odd days from 1991 to 1998\n= 1 + 2 + 1 + 1 + 1 + 2 + 1\n= 9 odd days \n= 2 odd days \n\n2 days after Tuesday is Thursday."
+            "text": "If the first day of the year 1991 was Tuesday, what day of the week must have been on 1st January, 1998?"
+           
         },
         {
             "id": 52,
             "answerIndex": 1,
             "options": [
-                "5th Aug.",
-                "5th Nov.",
-                "5th Oct.",
-                "5th Dec."
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5th Aug."
+                },
+                {
+                "correct": true,
+                "detail": "Since any date in March is the same day of the week as the corresponding date in November of that year, so the same day falls on 5th November.",
+                "value": "5th Nov."
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5th Oct."
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5th Dec."
+                }
+               
             ],
-            "text": "The day on 5th March of a year is the same day on what date of thesame year?",
-            "detail": "Since any date in March is the same day of the week as the corresponding date in November of that year, so the same day falls on 5th November."
+            "text": "The day on 5th March of a year is the same day on what date of thesame year?" 
         },
         {
             "id": 53,
             "answerIndex": 1,
             "options": [
-                "Tuesday",
-                "Friday",
-                "Thursday",
-                "Monday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": true,
+                "detail": "Since 1992 is a leap year, it has 2 odd days.\n\n2 days after Wednesday is Friday.",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                }
+               
             ],
-            "text": "January 1, 1992 was Wednesday. What day of the week was on January 1,1993?",
-            "detail": "Since 1992 is a leap year, it has 2 odd days.\n\n2 days after Wednesday is Friday."
+            "text": "January 1, 1992 was Wednesday. What day of the week was on January 1,1993?"
+            
         },
         {
             "id": 54,
             "answerIndex": 1,
             "options": [
-                "Saturday",
-                "Wednesday",
-                "Tuesday",
-                "Friday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": true,
+                "detail": "Since 1993 is an ordinary year, it has 1 odd day.\n\nOne day before Thursday is Wednesday.",
+                "value": "Wednesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+                
             ],
-            "text": "May 6, 1993 was Thursday. What day of the week was on May 6, 1992?",
-            "detail": "Since 1993 is an ordinary year, it has 1 odd day.\n\nOne day before Thursday is Wednesday."
+            "text": "May 6, 1993 was Thursday. What day of the week was on May 6, 1992?"
+           
         },
         {
             "id": 55,
             "answerIndex": 2,
             "options": [
-                "Sunday",
-                "Saturday",
-                "Monday",
-                "None of these"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": true,
+                "detail": "Since 1995 is an ordinary year, it has 1 odd day.\n\nOne day after Sunday is Monday.",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "None of these"
+                }
+               
             ],
-            "text": "January 1, 1995 was a Sunday. What day of the week lies on January 1, 1996?",
-            "detail": "Since 1995 is an ordinary year, it has 1 odd day.\n\nOne day after Sunday is Monday."
+            "text": "January 1, 1995 was a Sunday. What day of the week lies on January 1, 1996?"
+           
         },
         {
             "id": 56,
             "answerIndex": 0,
             "options": [
-                "Sunday",
-                "Saturday",
-                "Tuesday",
-                "Wednesday"
+                {
+                "correct": true,
+                "detail": "2005 is an ordinary year. So it has one odd day.\n\nOne day before Monday is Sunday.",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                }
+                
             ],
-            "text": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-            "detail": "2005 is an ordinary year. So it has one odd day.\n\nOne day before Monday is Sunday."
+            "text": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?"
+            
         },
         {
             "id": 57,
             "answerIndex": 2,
             "options": [
-                "1, 8, 15, 22, 29",
-                "2, 9, 16, 23, 30",
-                "3, 10, 17, 24",
-                "4, 11, 18, 25"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1, 8, 15, 22, 29"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2, 9, 16, 23, 30"
+                },
+                {
+                "correct": true,
+                "detail": "In 2015, April 1 is a Wednesday.\n\nNo. of odd days from April 2002 to April 2015\n= 16\n2 odd days\n\nSo, April 1, 2002 was a Monday.\n\nHence, 3,10,17,24 of April '02 are Wednesdays.",
+                "value": "3, 10, 17, 24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4, 11, 18, 25"
+                }
+               
             ],
-            "text": "On what dates of April, 2002 did Wednesday fall?",
-            "detail": "In 2015, April 1 is a Wednesday.\n\nNo. of odd days from April 2002 to April 2015\n= 16\n2 odd days\n\nSo, April 1, 2002 was a Monday.\n\nHence, 3,10,17,24 of April '02 are Wednesdays."
+            "text": "On what dates of April, 2002 did Wednesday fall?"
+            
         },
         {
             "id": 58,
             "answerIndex": 1,
             "options": [
-                "7x2",
-                "8x",
-                "14x",
-                "7"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7x2"
+                },
+                {
+                "correct": true,
+                "detail": "x weeks x days\n= (7x + x) days\n= 8x days.",
+                "value": "8x"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14x"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7"
+                }
+
             ],
-            "text": "How many days are there in x weeks x days?",
-            "detail": "x weeks x days\n= (7x + x) days\n= 8x days."
+            "text": "How many days are there in x weeks x days?"
+
         },
         {
             "id": 59,
             "answerIndex": 1,
             "options": [
-                "Wednesday",
-                "Saturday",
-                "Tuesday",
-                "Thursday"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Wednesday"
+                },
+                {
+                "correct": true,
+                "detail": "There are 5 odd days in 54 days.\n\n5 days after Monday is Saturday.",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Thursday"
+                }
+
             ],
-            "text": "Today is Monday. After 54 days, it will be",
-            "detail": "There are 5 odd days in 54 days.\n\n5 days after Monday is Saturday."
+            "text": "Today is Monday. After 54 days, it will be"
+            
         },
         {
             "id": 60,
             "answerIndex": 0,
             "options": [
-                "Sunday",
-                "Monday",
-                "Tuesday",
-                "Friday"
+                {
+                "correct": true,
+                "detail": "15 Aug, 2015 is a Saturday.\n\nOdd days from Aug '10 to Aug '15\n= 6\n\n6 days before Saturday is Sunday.",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Monday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                }
+
             ],
-            "text": "What will be the day of the week on 15th August, 2010?",
-            "detail": "15 Aug, 2015 is a Saturday.\n\nOdd days from Aug '10 to Aug '15\n= 6\n\n6 days before Saturday is Sunday."
+            "text": "What will be the day of the week on 15th August, 2010?"
+
         },
         {
             "id": 61,
             "answerIndex": 0,
             "options": [
-                "Saturday",
-                "Friday",
-                "Sunday",
-                "Tuesday"
+                {
+                "correct": true,
+                "detail": "Since this is a leap year, the next three years will be ordinary years.\n\n3 odd days.\n\n3 days after Wednesday will be Saturday.",
+                "value": "Saturday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Friday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Sunday"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Tuesday"
+                }
+                
             ],
-            "text": "Today is 1st May. The day of the week is Wednesday. This is a leap year. The day of the week on this day after 3 years will be",
-            "detail": "Since this is a leap year, the next three years will be ordinary years.\n\n3 odd days.\n\n3 days after Wednesday will be Saturday."
+            "text": "Today is 1st May. The day of the week is Wednesday. This is a leap year. The day of the week on this day after 3 years will be"
+           
         },
         {
             "id": 62,
             "answerIndex": 1,
             "options": [
-                "2, 9, 16, 23, 30",
-                "4, 11, 18, 25",
-                "3, 10, 17, 24",
-                "1, 8, 15, 22, 29"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2, 9, 16, 23, 30"
+                },
+                {
+                "correct": true,
+                "detail": "Jan 1, 2015 was a Thursday.\n\n4,11,18,25 were Sundays.",
+                "value": "4, 11, 18, 25"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3, 10, 17, 24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1, 8, 15, 22, 29"
+                }
+                
             ],
-            "text": "On what dates of January, 2015 did Sunday fall?",
-            "detail": "Jan 1, 2015 was a Thursday.\n\n4,11,18,25 were Sundays."
+            "text": "On what dates of January, 2015 did Sunday fall?"
+           
         },
         {
             "id": 63,
             "answerIndex": 1,
             "options": [
-                "2003",
-                "2001",
-                "2002",
-                "2004"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2003"
+                },
+                {
+                "correct":true,
+                "detail": "YearOdd days\n19962\n19971\n19981\n19991\n2000 2\n\n2+1+1+1+2 = 7\n\nCalendar for 2001 will be the same as that of 1995.",
+                "value": "2001"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2002"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2004"
+                }
+
             ],
-            "text": "The year next to 1996 having the same calender as that of 1996 is",
-            "detail": "YearOdd days\n19962\n19971\n19981\n19991\n2000 2\n\n2+1+1+1+2 = 7\n\nCalendar for 2001 will be the same as that of 1995."
+            "text": "The year next to 1996 having the same calender as that of 1996 is"
+           
         },
         {
             "id": 64,
             "answerIndex": 3,
             "options": [
-                "1997",
-                "2000",
-                "1994",
-                "1996"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1997"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2000"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1994"
+                },
+                {
+                "correct": true,
+                "detail": "YearOdd days \n19901\n19911\n19922\n19931\n19941\n1995 1\n\n7 odd days from 1990-1996.\n\nCalendar for 1990 is the same as for the year 1996",
+                "value": "1996"
+                }
+
             ],
-            "text": "The calendar for 1990 is the same as for",
-            "detail": "YearOdd days \n19901\n19911\n19922\n19931\n19941\n1995 1\n\n7 odd days from 1990-1996.\n\nCalendar for 1990 is the same as for the year 1996"
+            "text": "The calendar for 1990 is the same as for"
+           
         },
         {
             "id": 65,
             "answerIndex": 0,
             "options": [
-                "2005",
-                "2006",
-                "2008",
-                "2007"
+                {
+                "correct": true,
+                "detail": "YearOdd days\n20002\n20011\n20021\n20031\n20042\n\nThe calendar for 2005 will be the same as 2000.",
+                "value": "2005"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2006"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2008"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2007"
+                }
+
             ],
-            "text": "The calendar for 2000 is the same as for",
-            "detail": "YearOdd days\n20002\n20011\n20021\n20031\n20042\n\nThe calendar for 2005 will be the same as 2000."
+            "text": "The calendar for 2000 is the same as for"
+
         },
         {
             "id": 66,
             "answerIndex": 0,
             "options": [
-                "2 days ago",
-                "3 days ago",
-                "4 days ago",
-                "5 days ago"
+                {
+                "correct": true,
+                "detail": "5 days ago,\nThursday was yesterday\nFriday was today.\n\nHence,\nToday is Wednesday.\n\n3 days after Sunday is Wednesday\nDay after tomorrow should be wednesday.\nToday should be Monday.\n\nMonday is 2 days before Wednesday",
+                "value": "2 days ago"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 days ago"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4 days ago"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5 days ago"
+                }
+                
             ],
-            "text": "If Thursday was the day after the day before yesterday five days ago, what is the least number of days ago when Sunday was three days before the day after tomorrow?",
-            "detail": "5 days ago,\nThursday was yesterday\nFriday was today.\n\nHence,\nToday is Wednesday.\n\n3 days after Sunday is Wednesday\nDay after tomorrow should be wednesday.\nToday should be Monday.\n\nMonday is 2 days before Wednesday"
+            "text": "If Thursday was the day after the day before yesterday five days ago, what is the least number of days ago when Sunday was three days before the day after tomorrow?"
+            
         }
     ]
 }
