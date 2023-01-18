@@ -1,4 +1,8 @@
 {
+  "Author": "",
+  "id": "aptitude-ratio-and-proportion",
+  "title": "Ratio and Proportion",
+  "topic": "Ratio and Proportion",
   "description": "SQUARE ROOT:\n\nIf a² = b, then b is the square of a and a is the square root of b.\na = √b\n\nExample:\n5² = 25\n√25 = 5\n\nCUBE ROOT:\n\nIf a³ = b, b is the cube of a and a is the cube root of b.\na = b\n\nExample:\n4³ = 64\nCube root of 64 = 4\n\n(i)√xy = √x * √y\n(ii)√(x/y) = √x / √y",
   "questions": [
     {

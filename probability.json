@@ -1,4 +1,8 @@
 {
+  "Author": "",
+  "id": "aptitude-probability",
+  "title": "Aptitude Probability",
+  "topic": "Aptitude Probability",
   "description": "RANDOM EXPERIMENT:\nA random experiment is an experiment or a process in which all possible outcomes are known but the exact outcome cannot be predicted earlier.\n\nSAMPLE SPACE:\nThe set of all possible outcomes of a random experiment is called sample space.\n\nEXAMPLES:\n\n1. Tossing a coin\nS = {Head, Tail}\nIf n coins are tossed, n(S) = 2^n\n\n2. Throwing an unbiased die\nS = {1, 2, 3, 4, 5, 6}\nIf n dice are thrown, n(S) = 6^n\n\n3. Drawing a card from a pack of well-shuffled cards.\n(i) There are 52 cards in a pack. \n(ii) There are four suits, Hearts, Diamonds, Spades and Clubs each containing 13 cards. \n(iii) They consist of an Ace, a Jack, a Queen, a King and numbers from 2 to 10. \n(iv) Hearts and Diamonds are red. Spades and Clubs are black.\n\nProbability of occurrence of an event P(E) = n(E) / n(S)\n\n       (i) P(S) = 1\n       (ii) 0≤P(E)≤1",
   "questions": [
     {
