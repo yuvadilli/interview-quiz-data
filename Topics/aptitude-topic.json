@@ -6,182 +6,218 @@
         {
             "description": "Problems On Trains",
             "id": "aptitude-trains",
-            "title": "Trains"
+            "title": "Trains",
+            "totalQuestions": 56
         },
         {
             "description": "Problems on Height and Distance",
             "id": "aptitude-height-distance",
-            "title": "Height and Distance"
+            "title": "Height and Distance",
+            "totalQuestions": 0
         },
         {
             "description": "Simple Interest",
             "id": "aptitude-simple-interest",
-            "title": "Height and Distance"
+            "title": "Height and Distance",
+            "totalQuestions": 0
         },
         {
             "description": "Profit and Loss",
             "id": "aptitude-profit-and-loss",
-            "title": "Profit and Loss"
+            "title": "Profit and Loss",
+            "totalQuestions": 40
         },
         {
             "description": "Percentage",
             "id": "aptitude-percentage",
-            "title": "Percentage"
+            "title": "Percentage",
+            "totalQuestions": 45
         },
         {
             "description": "Calendar",
             "id": "aptitude-calendar",
-            "title": "Calendar"
+            "title": "Calendar",
+            "totalQuestions": 66
         },
         {
             "description": "Average",
             "id": "aptitude-average",
-            "title": "Average"
+            "title": "Average",
+            "totalQuestions": 75
         },
         {
             "description": "Volume and Surface Area",
             "id": "aptitude-volume-and-surface-area",
-            "title": "Volume and Surface Area"
+            "title": "Volume and Surface Area",
+            "totalQuestions": 0
         },
         {
             "description": "Numbers",
             "id": "aptitude-numbers",
-            "title": "Numbers"
+            "title": "Numbers",
+            "totalQuestions": 0
         },
         {
             "description": "Problems on H.C.F and L.C.M",
             "id": "aptitude-HCF-and-LCM",
-            "title": "H.C.F and L.C.M"
+            "title": "H.C.F and L.C.M",
+            "totalQuestions": 69
         },
         {
             "description": "Simplification",
             "id": "aptitude-simplification",
-            "title": "Simplification"
+            "title": "Simplification",
+            "totalQuestions": 0
         },
         {
             "description": "Surds and Indices",
             "id": "aptitude-surds-and-indices",
-            "title": "Surds and Indices"
+            "title": "Surds and Indices",
+            "totalQuestions": 0
         },
         {
             "description": "Chain Rule",
             "id": "aptitude-chain-rule",
-            "title": "Chain Rule"
+            "title": "Chain Rule",
+            "totalQuestions": 0
         },
         {
             "description": "Boats and Streams",
             "id": "aptitude-boats-and-streams",
-            "title": "Boats and Streams"
+            "title": "Boats and Streams",
+            "totalQuestions": 70
         },
         {
             "description": "Logarithm",
             "id": "aptitude-logarithm",
-            "title": "Logarithm"
+            "title": "Logarithm",
+            "totalQuestions": 20
         },
         {
             "description": "Stocks and Shares",
             "id": "aptitude-stocks-and-shares",
-            "title": "Stocks and Shares"
+            "title": "Stocks and Shares",
+            "totalQuestions": 0
         },
         {
             "description": "True Discount",
             "id": "aptitude-true-discount",
-            "title": "True Discount"
+            "title": "True Discount",
+            "totalQuestions": 0
         },
         {
             "description": "Odd Man Out and Series",
             "id": "aptitude-odd-man-out-and-series",
-            "title": "Odd Man Out and Series"
+            "title": "Odd Man Out and Series",
+            "totalQuestions": 0
         },
         {
             "description": "Time and Distance",
             "id": "aptitude-time-and-distance",
-            "title": "Time and Distance"
+            "title": "Time and Distance",
+            "totalQuestions": 55
         },
         {
             "description": "Time and Work",
             "id": "aptitude-time-and-work",
-            "title": "Time and Work"
+            "title": "Time and Work",
+            "totalQuestions": 76
         },
         {
             "description": "Compound Interest",
             "id": "aptitude-compound-interest",
-            "title": "Compound Interest"
+            "title": "Compound Interest",
+            "totalQuestions": 0
         },
         {
             "description": "Partnership",
             "id": "aptitude-partnership",
-            "title": "Partnership"
+            "title": "Partnership",
+            "totalQuestions": 30
         },
         {
             "description": "Problems on Ages",
             "id": "aptitude-problems-on-ages",
-            "title": "Problems on Ages"
+            "title": "Problems on Ages",
+            "totalQuestions": 63
         },
         {
             "description": "Clock",
             "id": "aptitude-clock",
-            "title": "Clock"
+            "title": "Clock",
+            "totalQuestions": 36
         },
         {
             "description": "Area",
             "id": "aptitude-area",
-            "title": "Area"
+            "title": "Area",
+            "totalQuestions": 0
         },
         {
             "description": "Permutation and Combination",
             "id": "aptitude-permutation-and-combination",
-            "title": "Permutation and Combination"
+            "title": "Permutation and Combination",
+            "totalQuestions": 72
         },
         {
             "description": "Problems on Numbers",
             "id": "aptitude-problems-on-numbers",
-            "title": "Problems on Numbers"
+            "title": "Problems on Numbers",
+            "totalQuestions": 0
         },
         {
             "description": "Problems on Numbers",
             "id": "aptitude-problems-on-numbers",
-            "title": "Problems on Numbers"
+            "title": "Problems on Numbers",
+            "totalQuestions": 0
         },
         {
             "description": "Decimal Fraction",
             "id": "aptitude-decimal-fraction",
-            "title": "Decimal Fraction"
+            "title": "Decimal Fraction",
+            "totalQuestions": 0
         },
         {
             "description": "Square Root and Cube Root",
             "id": "aptitude-square-root-and-cube-root",
-            "title": "Square Root and Cube Root"
+            "title": "Square Root and Cube Root",
+            "totalQuestions": 0
         },
         {
             "description": "Square Root and Cube Root",
             "id": "aptitude-square-root-and-cube-root",
-            "title": "Square Root and Cube Root"
+            "title": "Square Root and Cube Root",
+            "totalQuestions": 0
         },
         {
             "description": "Ratio and Proportion",
             "id": "aptitude-ratio-and-proportion",
-            "title": "Ratio and Proportion"
+            "title": "Ratio and Proportion",
+            "totalQuestions": 64
         },
         {
             "description": "Pipes and Cistern",
             "id": "aptitude-pipes-and-cistern",
-            "title": "Pipes and Cistern"
+            "title": "Pipes and Cistern",
+            "totalQuestions": 69
         },
         {
             "description": "Alligation or Mixture",
             "id": "aptitude-alligation-or-mixture",
-            "title": "Alligation or Mixture"
+            "title": "Alligation or Mixture",
+            "totalQuestions": 0
         },
         {
             "description": "Races and Games",
             "id": "aptitude-races-and-games",
-            "title": "Races and Games"
+            "title": "Races and Games",
+            "totalQuestions": 36
         },
         {
             "description": "Probability",
             "id": "aptitude-probability",
-            "title": "Probability"
+            "title": "Probability",
+            "totalQuestions": 85
         },
         {
             "description": "Banker's Discount",
