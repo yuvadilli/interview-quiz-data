@@ -876,121 +876,291 @@
             "id": 31,
             "answerIndex": 2,
             "options": [
-                "2 hours",
-                "3 hours",
-                "4 hours",
-                "5 hours"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2 hours"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 hours"
+                },
+                {
+                "correct": true,
+                "detail": "b = 13\ns = 4\n\nd = b+s = 17\n\nTime taken to go 68 km downstream\n= 68/17\n= 4 hours",
+                "value": "4 hours"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5 hours"
+                }
+               
             ],
-            "text": "A boat can travel with a speed of 13 kmph in still water. If the speed of the stream is 4 kmph, find the time taken by the boat to go 68 km downstream.",
-            "detail": "b = 13\ns = 4\n\nd = b+s = 17\n\nTime taken to go 68 km downstream\n= 68/17\n= 4 hours"
+            "text": "A boat can travel with a speed of 13 kmph in still water. If the speed of the stream is 4 kmph, find the time taken by the boat to go 68 km downstream."
+        
         },
         {
             "id": 32,
             "answerIndex": 3,
             "options": [
-                "1.2 km",
-                "1.8 km",
-                "2.4 km",
-                "3.6 km"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1.2 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1.8 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2.4 km"
+                },
+                {
+                "correct": true,
+                "detail": "b = 15\ns = 3\n\nd = 15+3 = 18 kmph\n\nt = 12 mins = 0.2 hours\n\nDistance travelled downstream in 0.2 hours\n= 18*0.2\n= 3.6 km",
+                "value": "3.6 km"
+                }
+               
             ],
-            "text": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is",
-            "detail": "b = 15\ns = 3\n\nd = 15+3 = 18 kmph\n\nt = 12 mins = 0.2 hours\n\nDistance travelled downstream in 0.2 hours\n= 18*0.2\n= 3.6 km"
+            "text": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is"
+           
         },
         {
             "id": 33,
             "answerIndex": 1,
             "options": [
-                "160 km",
-                "180 km",
-                "200 km",
-                "220 km"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "160 km"
+                },
+                {
+                "correct": true,
+                "detail": "s = 4\nb = 14\n\nd = 18\nu = 10\n\nLet the distance between A and B be x.\n\n(x/18)+((x/2)/10) = 19\n\n10x+9x = 19*180\n\nx = 180 km",
+                "value": "180 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "200 km"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "220 km"
+                }
+                
             ],
-            "text": "A boat takes 19 hours for travelling downstream from point A to point B and coming back to a point C midway between A and B. If the velocity of the stream is 4 kmph and the speed of the boat in still water is 14 kmph, what is the distance between A and B?",
-            "detail": "s = 4\nb = 14\n\nd = 18\nu = 10\n\nLet the distance between A and B be x.\n\n(x/18)+((x/2)/10) = 19\n\n10x+9x = 19*180\n\nx = 180 km"
+            "text": "A boat takes 19 hours for travelling downstream from point A to point B and coming back to a point C midway between A and B. If the velocity of the stream is 4 kmph and the speed of the boat in still water is 14 kmph, what is the distance between A and B?"
+           
         },
         {
             "id": 34,
             "answerIndex": 1,
             "options": [
-                "4 km/hr",
-                "6 km/hr",
-                "8 km/hr",
-                "Data inadequate"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4 km/hr"
+                },
+                {
+                "correct": true,
+                "detail": "16/(b+s) = 2\n16/(b-s) = 4\n\nb+s = 8\nb-s = 4\n\nSolving,\n2b = 12\nb = 6",
+                "value": "6 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Data inadequate"
+                }
+              
             ],
-            "text": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
-            "detail": "16/(b+s) = 2\n16/(b-s) = 4\n\nb+s = 8\nb-s = 4\n\nSolving,\n2b = 12\nb = 6"
+            "text": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?"
+          
         },
         {
             "id": 35,
             "answerIndex": 0,
             "options": [
-                "2.5 km/hr",
-                "4.2 km/hr",
-                "5 km/hr",
-                "10.5 km/hr"
+                {
+                "correct": true,
+                "detail": "u = 8\nd = 13\n\ns = (d-u)/2 = 2.5 kmph",
+                "value": "2.5 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.2 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10.5 km/hr"
+                }
+               
             ],
-            "text": "A man can row upstream at 8 kmph and downstream at 13 kmph. The speed of the stream is",
-            "detail": "u = 8\nd = 13\n\ns = (d-u)/2 = 2.5 kmph"
+            "text": "A man can row upstream at 8 kmph and downstream at 13 kmph. The speed of the stream is"
+            
         },
         {
             "id": 36,
             "answerIndex": 2,
             "options": [
-                "3 kmph",
-                "4.5 kmph",
-                "9 kmph",
-                "18 kmph"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.5 kmph"
+                },
+                {
+                "correct": true,
+                "detail": "b = (u+d)/2 = 9 kmph",
+                "value": "9 kmph"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "18 kmph"
+                }
+               
             ],
-            "text": "A man can row upstream at 6 kmph and downstream at 12 kmph. Find his speed in still water.",
-            "detail": "b = (u+d)/2 = 9 kmph"
+            "text": "A man can row upstream at 6 kmph and downstream at 12 kmph. Find his speed in still water."
+        
         },
         {
             "id": 37,
             "answerIndex": 1,
             "options": [
-                "3 hrs",
-                "5 hrs",
-                "6 hrs",
-                "4.5 hrs"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 hrs"
+                },
+                {
+                "correct": true,
+                "detail": "b = 12\n\nd = b+s\n\n45/(b+s) = 3\n\nb+s = 15\ns = 3\n\nu = b-s = 9\n\nTime taken to travel 45 kms upstream\n= 45/9\n= 5 hours",
+                "value": "5 hrs"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6 hrs"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4.5 hrs"
+                }
+              
             ],
-            "text": "The speed of the boat in still water in 12 kmph. It can travel downstream through 45 kms in 3 hrs. In what time would it cover the same distance upstream?",
-            "detail": "b = 12\n\nd = b+s\n\n45/(b+s) = 3\n\nb+s = 15\ns = 3\n\nu = b-s = 9\n\nTime taken to travel 45 kms upstream\n= 45/9\n= 5 hours"
+            "text": "The speed of the boat in still water in 12 kmph. It can travel downstream through 45 kms in 3 hrs. In what time would it cover the same distance upstream?"
+    
         },
         {
             "id": 38,
             "answerIndex": 0,
             "options": [
-                "23 km/hr",
-                "27 km/hr",
-                "25 km/hr",
-                "26 kmph"
+                {
+                "correct": true,
+                "detail": "u = 13/(39/60) = 20 kmph\n\ns = 3 kmph\n\nb = u+s = 23 kmph",
+                "value": "23 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "27 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "26 kmph"
+                }
+               
             ],
-            "text": "A boat goes 13 km upstream in 39 minutes. The speed of stream is 3 km/hr. The speed of boat in still water is",
-            "detail": "u = 13/(39/60) = 20 kmph\n\ns = 3 kmph\n\nb = u+s = 23 kmph"
+            "text": "A boat goes 13 km upstream in 39 minutes. The speed of stream is 3 km/hr. The speed of boat in still water is"
+          
         },
         {
             "id": 39,
             "answerIndex": 2,
             "options": [
-                "4 km/hr",
-                "2 km/hr",
-                "3 km/hr",
-                "Data Inadequate"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2 km/hr"
+                },
+                {
+                "correct": true,
+                "detail": "u = 20/5 = 4 kmph\nd = 20/2 = 10 kmph\n\nb-s = 4\nb+s = 10\n\ns = 3 kmph",
+                "value": "3 km/hr"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Data Inadequate"
+                }
+                
             ],
-            "text": "A boat running upstream covers a distance of 20 km in 5 hours while for covering the same distance downstream, it takes only 2 hours. Find the speed of the stream.",
-            "detail": "u = 20/5 = 4 kmph\nd = 20/2 = 10 kmph\n\nb-s = 4\nb+s = 10\n\ns = 3 kmph"
+            "text": "A boat running upstream covers a distance of 20 km in 5 hours while for covering the same distance downstream, it takes only 2 hours. Find the speed of the stream."
+        
         },
         {
             "id": 40,
             "answerIndex": 3,
             "options": [
-                "2",
-                "5",
-                "3",
-                "2.5"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "5"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3"
+                },
+                {
+                "correct": true,
+                "detail": "b = 10\n\n20/(b+s) = 12/(b-s)\n\n20*(10-s) = 12*(10+s)\n\n50-5s = 30+3s\n\n8s = 20\n\ns = 2.5",
+                "value": "2.5"
+                }
+              
             ],
             "text": "The speed of a boat in still water is 10 kmph. If it can travel 20 kms downstream in the same time as it can travel 12 kms upstream, what is the speed of the current in kmph?",
-            "detail": "b = 10\n\n20/(b+s) = 12/(b-s)\n\n20*(10-s) = 12*(10+s)\n\n50-5s = 30+3s\n\n8s = 20\n\ns = 2.5"
+        
         },
         {
             "id": 41,
