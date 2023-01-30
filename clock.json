@@ -1,5 +1,5 @@
-{  "Author": "Harish S",
-  "Author": "",
+{
+  "Author": "Harish S",
   "id": "aptitude-clock",
   "title": "Aptitude Clock",
   "topic": "Aptitude Clock",
@@ -12,17 +12,17 @@
         {
           "correct": false,
           "detail": "",
-          "value": "65 minuets"
+          "value": "65 minutes"
         },
         {
           "correct": true,
           "detail": "The hour hand and minute hand coincide 11 times in 12 hours (720 minutes)\n\nThey coincide every 720/11 = 65(5/11) minutes",
-          "value": "65(5/11) minutes"
+          "value": "65(5/11)minutes"
         },
         {
           "correct": false,
           "detail": "",
-          "value": "65(10/11) minutes"
+          "value": "65(10/11)minutes"
         },
         {
           "correct": false,
@@ -36,10 +36,26 @@
       "id": 2,
       "answerIndex": 0,
       "options": [
-        "25°",
-        "27°",
-        "30°",
-        "36°"
+        {
+          "correct": true,
+          "detail": "When the minute hand moves 360°, the hour hand moves 30°\n\nWhen the minute hand moves 300°, the hour hand moves \n30*300/360 = 25°",
+          "value": "25°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "27°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "30°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "36°"
+        }
       ],
       "text": "If the minute hand of a clock has moved 300°, how many degrees has the hour hand moved?"
     },
@@ -47,10 +63,26 @@
       "id": 3,
       "answerIndex": 3,
       "options": [
-        "8:40",
-        "8:20",
-        "7:40",
-        "7:20"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "8:40"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "8:20"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:40"
+        },
+        {
+          "correct": true,
+          "detail": "Since the hour hand is between 4 and 5 in the mirror, it should be between 7 and 8 in the real image.\n\nHence, the correct time is 7:20",
+          "value": "7:20"
+        }
       ],
       "text": "A clock when seen through a mirror shows 4:40. What is the correct time?"
     },
@@ -58,34 +90,80 @@
       "id": 4,
       "answerIndex": 2,
       "options": [
-        "185°",
-        "135°",
-        "125°",
-        "120°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "185°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "135°"
+        },
+        {
+          "correct": true,
+          "detail": "Angle traced by the hour hand in 60 minutes \n= 30°\nAngle traced by the hour hand in 6 hrs 10 minutes (370 mins) \n= 370*30/60 = 185°\nAngle traced by the minute hand in 60 minutes \n= 360°\nAngle traced by the minute hand in 10 minutes \n= 10*360/60 = 60°\nAngle between the hour hand and minute hand \n= 185°- 60° = 125°",
+          "value": "125°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "120°"
+        }
       ],
-      "text": "Find the angle between the hour hand and minute hand of the clock when the time is 6:10.",
-      "detail": "Angle traced by the hour hand in 60 minutes \n= 30°\nAngle traced by the hour hand in 6 hrs 10 minutes (370 mins) \n= 370*30/60 = 185°\nAngle traced by the minute hand in 60 minutes \n= 360°\nAngle traced by the minute hand in 10 minutes \n= 10*360/60 = 60°\nAngle between the hour hand and minute hand \n= 185°- 60° = 125°"
+      "text": "Find the angle between the hour hand and minute hand of the clock when the time is 6:10."
     },
     {
       "id": 5,
       "answerIndex": 3,
       "options": [
-        "50",
-        "48(9/11)",
-        "49",
-        "49(1/11)"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "50"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "48(9/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "49"
+        },
+        {
+          "correct": true,
+          "detail": "At 3'o clock, the hands of the clock are 15 minute spaces apart.\n\nWhen they lie in opposite directions, the hands of the clock are 30 minute spaces apart.\n\nThe minute hand has to gain 45 minute spaces over the hour hand to lie in opposite directions.\n\n55 minute spaces are gained in 60 minutes.\n\n45 minute spaces are gained in\n45*60/55 = 49(1/11) minutes",
+          "value": "49(1/11)"
+        }
       ],
-      "text": "At what time, in minutes, between 3'o clock and 4'o clock do the hands of the clock point in opposite directions?",
-      "detail": "At 3'o clock, the hands of the clock are 15 minute spaces apart.\n\nWhen they lie in opposite directions, the hands of the clock are 30 minute spaces apart.\n\nThe minute hand has to gain 45 minute spaces over the hour hand to lie in opposite directions.\n\n55 minute spaces are gained in 60 minutes.\n\n45 minute spaces are gained in\n45*60/55 = 49(1/11) minutes"
+      "text": "At what time, in minutes, between 3'o clock and 4'o clock do the hands of the clock point in opposite directions?"
     },
     {
       "id": 6,
       "answerIndex": 2,
       "options": [
-        "145°",
-        "150°",
-        "155°",
-        "160°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "145°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "150°"
+        },
+        {
+          "correct": true,
+          "detail": "Angle traced in 5 hrs 10 mins (310 minutes) \n= 310/2 = 155°",
+          "value": "155°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "160°"
+        }
       ],
       "text": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through"
     },
@@ -93,10 +171,26 @@
       "id": 7,
       "answerIndex": 0,
       "options": [
-        "20°",
-        "15°",
-        "18°",
-        "21°"
+        {
+          "correct": true,
+          "detail": "Angle traced by the hour hand in 8 hrs 40 minutes (520 mins) \n= 520/2 = 260°\nAngle traced by the minute hand in 40 minutes \n= 40*6 = 240°\nAngle between the hour hand and minute hand \n= 260°- 240° = 20°",
+          "value": "20°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "15°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "18°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "21°"
+        }
       ],
       "text": "The angle between the hour hand and minute hand of a clock when the time is 8:40 "
     },
@@ -104,10 +198,26 @@
       "id": 8,
       "answerIndex": 0,
       "options": [
-        "32(8/11)",
-        "31(4/11)",
-        "30(4/11)",
-        "34(8/11)"
+        {
+          "correct": true,
+          "detail": "The hour hand and minute hand coincide every 65(5/11) minutes. They coincide at 12'o clock. \n\nBetween 6 and 7, they coincide at \n6*5(5/11) = 360/11 = 32(8/11) minutes",
+          "value": "32(8/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "31(4/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "30(4/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "34(8/11)"
+        }
       ],
       "text": "At what time, in minutes, between 6'o clock and 7'o clock do the hour hand and minute hand of the clock coincide?"
     },
@@ -116,26 +226,25 @@
       "answerIndex": 3,
       "options": [
         {
-        "correct": false,
-        "detail": "",
-        "value": "4:30 pm"
+          "correct": false,
+          "detail": "",
+          "value": "4:30 pm"
         },
         {
-        "correct": false,
-        "detail": "",
-        "value": "4:40 pm"
+          "correct": false,
+          "detail": "",
+          "value": "4:40 pm"
         },
         {
-        "correct": false,
-        "detail": "",
-        "value": "4:44 pm"
+          "correct": false,
+          "detail": "",
+          "value": "4:44 pm"
         },
         {
-        "correct": true,
-        "detail": "The clock loses 2 seconds every min. Hence, it loses two minutes in an hour.\n\nIn 7 hours (10:00 am to 5:00 pm), the clock loses 14 minutes.\n\nAt 5:00 pm, the clock shows 4:46 pm.",
-        "value": "4:46 pm"
+          "correct": true,
+          "detail": "The clock loses 2 seconds every min. Hence, it loses two minutes in an hour.\n\nIn 7 hours (10:00 am to 5:00 pm), the clock loses 14 minutes.\n\nAt 5:00 pm, the clock shows 4:46 pm.",
+          "value": "4:46 pm"
         }
-        
       ],
       "text": "A clock loses 2 seconds every minute. If the clock was set to the correct time at 10 in the morning, find the time shown by the clock when the correct time is 5:00 pm."
     },
@@ -143,10 +252,26 @@
       "id": 10,
       "answerIndex": 0,
       "options": [
-        "44",
-        "48",
-        "22",
-        "24"
+        {
+          "correct": true,
+          "detail": "No. of times the hands coincide = 22\n\nNo. of times the hands lie in opposite directions = 22\n\nThey lie in a straight line 44 times.",
+          "value": "44"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "48"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "22"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "24"
+        }
       ],
       "text": "How many times in a day do the hands of a clock lie in a straight line?"
     },
@@ -154,10 +279,26 @@
       "id": 11,
       "answerIndex": 3,
       "options": [
-        "20 seconds",
-        "24 seconds",
-        "21.5 seconds",
-        "22.5 seconds"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "20 seconds"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "24 seconds"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "21.5 seconds"
+        },
+        {
+          "correct": true,
+          "detail": "The first strike takes place at the zeroth second and the time count starts after that.\n\nThe next 4 strikes take 10 seconds.\n\nTime for a strike = 10/4 = 2.5 seconds\n\nTime taken to strike 10\n= Time for 9 strikes\n= 9*2.5\n= 22.5 seconds",
+          "value": "22.5 seconds"
+        }
       ],
       "text": "A clock takes 10 seconds to strike 5. How much time will it take to strike 10?"
     },
@@ -165,10 +306,26 @@
       "id": 12,
       "answerIndex": 1,
       "options": [
-        "South-West",
-        "South-East",
-        "North-West",
-        "North-East"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "South-West"
+        },
+        {
+          "correct": true,
+          "detail": "N\nWE\nS\n\nAt 12 noon, both the hands point to the West.\n\nAt 7:30 pm, the hour hand lies to the middle of South and East i.e South-East",
+          "value": "South-East"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "North-West"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "North-East"
+        }
       ],
       "text": "At noon, the minute hand was pointing to the West. To which direction will the hour hand point at 7:30 pm if the clock stayed in the same position?"
     },
@@ -176,10 +333,26 @@
       "id": 13,
       "answerIndex": 0,
       "options": [
-        "255°",
-        "105°",
-        "285°",
-        "150°"
+        {
+          "correct": true,
+          "detail": "A reflex angle measures between 180° and 360°.\n\nAngle traced in 9 hrs 30 mins (570 minutes) \n= 570/2 = 285°\n\nAngle traced by minute hand in 30 minutes\n= 30*6 = 180°\n\nAngle between the hour hand and minute hand\n= 285°-180°\n= 105°\nReflex angle between them\n= 360°-105°\n= 255°",
+          "value": "255°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "185°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "285°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "150°"
+        }
       ],
       "text": "The reflex angle between the hands of the clock at 9:30 is"
     },
@@ -187,10 +360,26 @@
       "id": 14,
       "answerIndex": 2,
       "options": [
-        "150°",
-        "120°",
-        "100°",
-        "220°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "150°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "120°"
+        },
+        {
+          "correct": true,
+          "detail": "Angle traced in 7 hrs 20 mins (440 minutes) \n= 440/2 = 220°\n\nAngle traced by minute hand in 20 minutes\n= 20*6 = 120°\n\nAngle between the hour hand and minute hand\n= 220°-120°\n= 100°",
+          "value": "100°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "220°"
+        }
       ],
       "text": "Find the angle between the hands of the clock when the time is 20 minutes past 7."
     },
@@ -198,10 +387,26 @@
       "id": 15,
       "answerIndex": 0,
       "options": [
-        "10(10/11)",
-        "11(5/11)",
-        "5(5/11)",
-        "9(7/11)"
+        {
+          "correct": true,
+          "detail": "At 5'o clock, the hour hand is 25 minute spaces ahead of the minute hand.\n\nTo be at right angles, they should be 15 minute spaces apart.\n\nThe minute hand has to gain 10 minute spaces over the hour hand.\n\n55 minute spaces are gained in 60 minutes.\n10 minute spaces are gained in\n(60/55)*10 = 120/11\n   = 10(10/11) minutes",
+          "value": "10(10/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "11(5/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "5(5/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "9(7/11)"
+        }
       ],
       "text": "At what time, in minutes, between 5 and 6'o clock will the hands of the clock be at right angles for the first time?"
     },
@@ -209,10 +414,26 @@
       "id": 16,
       "answerIndex": 1,
       "options": [
-        "22",
-        "44",
-        "24",
-        "46"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "22"
+        },
+        {
+          "correct": true,
+          "detail": "The hands of the clock are at right angles 22 times in 12 hours.\n\nHence, they are at right angles 44 times in a day.",
+          "value": "44"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "24"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "46"
+        }
       ],
       "text": "How many times in a day are the hands of the clock at right angles?"
     },
@@ -220,22 +441,53 @@
       "id": 17,
       "answerIndex": 0,
       "options": [
-        "3:05, 3:27",
-        "3:10, 3:20",
-        "3:08, 3:24",
-        "3:05,3:25"
+        {
+          "correct": true,
+          "detail": "At 3'o clock, the hour hand is 15 minute spaces ahead of the minute hand.\n\nTo be inclined at 60°, the hands of the clock should be 60/6=10 minute spaces apart.\n\nThis is possible in two ways\n(i) Minute hand gains 5 minute spaces(15-10) over the hour hand.\n(ii) Minute hand gains 25 minute spaces(15+10) over the hour hand.\n\n55 minute spaces are gained in 60 minutes.\n5 minute spaces are gained in\n(60/55)*5 = 60/11\n = 5(5/11) minutes\n25 minute spaces are gained in\n(60/55)*25 = 300/11\n   = 27(3/11)",
+          "value": "3:05, 3:27"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "3:10, 3:20"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "3:08, 3:24"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "3:05,3:25"
+        }
       ],
-      "text": "Find the times between 3 and 4'o clock, correct to the nearest minute, when the hands of the clock at at 60° degrees.",
-      "detail": "At 3'o clock, the hour hand is 15 minute spaces ahead of the minute hand.\n\nTo be inclined at 60°, the hands of the clock should be 60/6=10 minute spaces apart.\n\nThis is possible in two ways\n(i) Minute hand gains 5 minute spaces(15-10) over the hour hand.\n(ii) Minute hand gains 25 minute spaces(15+10) over the hour hand.\n\n55 minute spaces are gained in 60 minutes.\n5 minute spaces are gained in\n(60/55)*5 = 60/11\n = 5(5/11) minutes\n25 minute spaces are gained in\n(60/55)*25 = 300/11\n   = 27(3/11)"
+      "text": "Find the times between 3 and 4'o clock, correct to the nearest minute, when the hands of the clock at 60° degrees."
     },
     {
       "id": 18,
       "answerIndex": 1,
       "options": [
-        "210°",
-        "270°",
-        "180°",
-        "300°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "210°"
+        },
+        {
+          "correct": true,
+          "detail": "Angle traced by the hour hand in an hour\n= 30°\nAngle traced in 9 hours(9:00 am-6:00 pm)\n= 270°",
+          "value": "270°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "180°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "300°"
+        }
       ],
       "text": "A watch shows 9:00 am. Through how many degrees will the hour hand rotate when the watch shows 6:00 pm on the same day?"
     },
@@ -243,10 +495,26 @@
       "id": 19,
       "answerIndex": 0,
       "options": [
-        "1:36",
-        "1:33",
-        "1:28",
-        "1:38"
+        {
+          "correct": true,
+          "detail": "At 1'o clock, the hour hand is 5 minute spaces ahead of the minute spaces.\n\nTo be 28 minute spaces apart,\nthe minute hand has to gain 33 minute spaces over the hour hand.\n\n33 minute spaces are gained in\n(60/55)*33 = 36 minutes",
+          "value": "1:36"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "1.33"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "1.28"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "1.38"
+        }
       ],
       "text": "The hour hand and minute hand are 28 minute spaces apart. If the time is between 1 and 2'o clock, find the exact time."
     },
@@ -254,10 +522,26 @@
       "id": 20,
       "answerIndex": 3,
       "options": [
-        "7:25",
-        "7:23",
-        "7:20",
-        "7:24"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:25"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:23"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:20"
+        },
+        {
+          "correct": true,
+          "detail": "To be inclined at 78°, the hands of the clock should be (78/6)=13 minute spaces apart.\n\nAt 7'o clock, the hour hand is 35 minute spaces ahead of the minute hand.\n\nThis is possible in two ways\n(i) Minute hand gains 22 minute spaces(35-13) over the hour hand.\n(ii) Minute hand gains 48 minute spaces(35+13) over the hour hand.\n\nFirst case is alone sufficient for this question.\n\n55 minute spaces are gained in 60 minutes.\n22 minute spaces are gained in\n(60/55)*22 = 24 minutes",
+          "value": "7:24"
+        }
       ],
       "text": "Between 7 and 8'o clock, at what time will the hands of the clock be inclined at 78° for the first time?"
     },
@@ -265,10 +549,26 @@
       "id": 21,
       "answerIndex": 0,
       "options": [
-        "2 pm on Tue",
-        "12 am on Mon",
-        "2 am on Tue",
-        "None of above"
+        {
+          "correct": true,
+          "detail": "A watch gains uniformly is 2 min slow at 12:00 on Sunday.\n\nOn following sunday it is 4 min 48 sec fast on 2 PM.\n\nTotal time between 12 AM and 2 PM on another sunday = (24h*7)+2h.\n\nTime gained = 4 min 48 sec + 2 min = 6 min 48 sec = 408 sec.\n\nThe clock will show correct time only when it gains 2 min.\n\n408 sec ----> in 170 hour\n120 sec ---> in x hour\n\n408/170 = 120/x\n\nx = 50 hours = 2 days 2 hours for noon on the sunday = 2 PM on Tuesday.",
+          "value": "2 pm on Tue"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "12 am on Mon"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "2 am on Tue"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "None of above"
+        }
       ],
       "text": "A watch which gains time uniformly is 2 minutes slow at noon on Sunday and is 4 min 48 sec fast at 2 pm on the following Sunday. When was it correct?"
     },
@@ -276,10 +576,26 @@
       "id": 22,
       "answerIndex": 3,
       "options": [
-        "11 seconds",
-        "8.5 seconds",
-        "6 seconds",
-        "8 seconds"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "11 seconds"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "8.5 seconds"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6 seconds"
+        },
+        {
+          "correct": true,
+          "detail": "The clocks start striking at the zeroth second.\n\nFirst strike - 0th second\n\nSeventh strike of first clock\n6*3 = 18 seconds\nFifth strike of second clock\n4*2.5 = 10 seconds\nTime interval\n8 seconds",
+          "value": "8 seconds"
+        }
       ],
       "text": "Two clocks start striking together at noon. The first clock strikes every 3 seconds and the second clock strikes every 2.5 seconds. Find the interval between the seventh strike of the first clock and the fifth strike of the second clock."
     },
@@ -287,10 +603,26 @@
       "id": 23,
       "answerIndex": 0,
       "options": [
-        "6 a.m.",
-        "5:59 a.m.",
-        "6:30 a.m.",
-        "6:09 a.m."
+        {
+          "correct": true,
+          "detail": "Time from 12 pm on the first day to 5 am on the fifth day\n= 12+(24*3)+5\n= 89 hours\nThe clock loses 16 minutes in 24 hours\n\n23 hrs 44 mins of this clock\n= 24 hrs of correct clock\n23 hrs 44 mins\n= 23+(44/60) hrs\n= 23+(11/15) hrs\n= 356/15 hrs\n356/15 hrs of this clock\n= 24 hrs of correct clock\n89 hrs of this clock\n= 24*(15/365)*89\n= 90 hrs of correct clock\nSo the correct time is 6 a.m.",
+          "value": "6 a.m."
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "5:59 a.m."
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:30 a.m."
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:09 a.m."
+        }
       ],
       "text": "A clock is set right at noon. The clock loses 16 minutes in 24 hours. What will be the true time when the clock shows 5 a.m. on the fifth day?"
     },
@@ -298,10 +630,26 @@
       "id": 24,
       "answerIndex": 1,
       "options": [
-        "24",
-        "22",
-        "44",
-        "48"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "24"
+        },
+        {
+          "correct": true,
+          "detail": "They lie in opposite directions in a straight line 11 times in 12 hours.\n\nHence, 22 times in a day.",
+          "value": "22"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "44"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": ""
+        }
       ],
       "text": "How many times in a day do the hands of the clock lie in opposite directions forming a straight line?"
     },
@@ -309,10 +657,26 @@
       "id": 25,
       "answerIndex": 2,
       "options": [
-        "6:30 pm",
-        "6:08 pm",
-        "6 pm",
-        "6:18 pm"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:30 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:08 pm"
+        },
+        {
+          "correct": true,
+          "detail": "Time from 9 a.m. to 6:15 p.m.\n= 9 hours 15 minutes\n= 555 minutes\n\n3 minutes 5 seconds of this clock\n= 3 minutes of correct clock\n\n185 seconds of this clock\n= 180 seconds of correct clock\n\n1 minute of this clock\n= (180/185) minutes of correct clock\n\n555 minutes of this clock\n= (180/185)*555\n= 540 minutes\n= 9 hours of correct clock\nCorrect time is 6 p.m.",
+          "value": "6 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:18 pm"
+        }
       ],
       "text": "A watch which gains 5 seconds every 3 minutes was set right at 9 a.m. What is the true time when the watch shows 6:15 p.m. that evening?"
     },
@@ -320,10 +684,26 @@
       "id": 26,
       "answerIndex": 1,
       "options": [
-        "3:45",
-        "4:45",
-        "6:45",
-        "7:45"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "3;45"
+        },
+        {
+          "correct": true,
+          "detail": "The hour hand will be between 4 and 5 and minute hand will point to 9. Hence, the clock in the mirror shows 4:45.",
+          "value": "4:45"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6:45"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:45"
+        }
       ],
       "text": "A clock shows 7:15. When seen through a mirror, what time does it show?"
     },
@@ -331,10 +711,26 @@
       "id": 27,
       "answerIndex": 0,
       "options": [
-        "135°",
-        "180°",
-        "215°",
-        "315°"
+        {
+          "correct": true,
+          "detail": "Angle traced by the hour hand in 10 hrs 30 mins (630 minutes) \n= 630/2 = 315°\n\nAngle traced by minute hand in 30 minutes\n= 30*6 = 180°\n\nAngle between the hour hand and minute hand\n= 315°-180°\n= 135°",
+          "value": "135°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "180°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "215°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "315°"
+        }
       ],
       "text": "At 10:30, the hour hand and minute hand form an angle of "
     },
@@ -342,10 +738,26 @@
       "id": 28,
       "answerIndex": 0,
       "options": [
-        "2:24 p.m.",
-        "2:22 p.m.",
-        "2:22(4/11) p.m.",
-        "2:12 p.m."
+        {
+          "correct": true,
+          "detail": "At 2'o clock, the hour hand is 10 minute spaces ahead of the minute hand.\n\nTo be 12 minute spaces apart, the minute hand has to gain 22 minute spaces(10+12) over the hour hand.\n\n55 minute spaces are gained in 60 minutes.\n22 minute spaces are gained in\n(60/55)*22 = 24 minutes",
+          "value": "2:24 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "2:22 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "2:22(4/11) pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "2:12 pm"
+        }
       ],
       "text": "The difference between the hour hand and minute hand of a clock is 12 minute spaces. The time is between 2 p.m. and 3 p.m. Find the exact time."
     },
@@ -353,10 +765,26 @@
       "id": 29,
       "answerIndex": 1,
       "options": [
-        "120°",
-        "144°",
-        "60°",
-        "216°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "120°"
+        },
+        {
+          "correct": true,
+          "detail": "When the hour hand moves 30°, the minute hand moves 360°\n\nWhen the hour hand moves 12°, the minute hand moves \n360*12/30 = 144°",
+          "value": "144°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "60°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "216°"
+        }
       ],
       "text": "The hour hand of a clock has moved 12°. How many degress has the minute hand moved?"
     },
@@ -364,10 +792,26 @@
       "id": 30,
       "answerIndex": 0,
       "options": [
-        "32(8/11)",
-        "31(4/11)",
-        "30(4/11)",
-        "34(8/11)"
+        {
+          "correct": true,
+          "detail": "To lie in opposite directions, the minute hand has to gain 30 minute spaces over the hour hand.\n\n\n55 minute spaces are gained in 60 minutes.\n30 minute spaces are gained in\n(60/55)*30 = 32(8/11) mins",
+          "value": "32(8/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "31(4/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "30(4/11)"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "34(8/11)"
+        }
       ],
       "text": "At what time, in minutes, between 12'o clock and 1'o clock do the hour hand and minute hand of the clock lie in opposite directions?"
     },
@@ -375,10 +819,26 @@
       "id": 31,
       "answerIndex": 0,
       "options": [
-        "8 pm",
-        "8 am",
-        "12 pm",
-        "12 am"
+        {
+          "correct": true,
+          "detail": "Let the time be x hours.\n\n(24-x) = x/5\n\n120-5x=x\n\nx=20\n\nThe time is 8 pm.",
+          "value": "8 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "8 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "12 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "12 am"
+        }
       ],
       "text": "When asked what the time is, a person answered that the amount of time left is 1/5 of the time already completed. What is the time?"
     },
@@ -386,10 +846,26 @@
       "id": 32,
       "answerIndex": 0,
       "options": [
-        "10 am",
-        "7 am",
-        "12 am",
-        "6 am"
+        {
+          "correct": true,
+          "detail": "Time passed in the clock\n= 24+24+24+24+12\n= 108 hours\n54 minutes of the fauly clock\n= 60 minutes of correct clock\n1 min of faulty clock\n= (60/54) mins of correct clock\n108 hours of faulty clock\n= 108*(60/54) hours\n= 120 hours\nThe correct time is 10 AM on Saturday.",
+          "value": "10 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "12 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "6 am"
+        }
       ],
       "text": "The famous church in the city of Kumbakonnam has a big clock tower and is said to be over 300 years old. Every Monday 10 A.M. the clock is set by Antony, doing service in the church. The Clock loses 6 mins every hour. What will be the actual time when the faulty clock shows 10 P.M. on Friday?"
     },
@@ -397,10 +873,26 @@
       "id": 33,
       "answerIndex": 1,
       "options": [
-        "10:48 pm",
-        "11 pm",
-        "10 pm",
-        "11:23 pm"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "10:48 pm"
+        },
+        {
+          "correct": true,
+          "detail": "Time from 5 am on the 1st day to 10 pm on the 4th day\n= (24*3)+17\n= 89 hours\n\nTime lost in 89 hours\n= 16*89/24\n= 59.33\n\nThe true time will approximately be 11 pm.\n",
+          "value": "11 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "10 pm"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "11:23 pm"
+        }
       ],
       "text": "A clock is set right at 5 am. The clock loses 16 minutes in 24 hours. What will be the true time when the clock indicates 10 pm on the 4th day?"
     },
@@ -408,10 +900,26 @@
       "id": 34,
       "answerIndex": 2,
       "options": [
-        "7:58",
-        "7:56",
-        "7:54",
-        "7:52"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:58"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:56"
+        },
+        {
+          "correct": true,
+          "detail": "Time lost in 12 hours\n= 12*0.5\n= 6 minutes\n\nThe watch shows 7:54 pm.",
+          "value": "7:54 "
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "7:52"
+        }
       ],
       "text": "Each hour, a watch slows down by 30 seconds. It is set to the correct time at 8 a.m. What time does the watch show at 8 p.m?"
     },
@@ -419,10 +927,26 @@
       "id": 35,
       "answerIndex": 1,
       "options": [
-        "90°",
-        "120°",
-        "150°",
-        "140°"
+        {
+          "correct": false,
+          "detail": "",
+          "value": "90°"
+        },
+        {
+          "correct": true,
+          "detail": "Angle\n= 360*4/12\n= 120°",
+          "value": "120°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "150°"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "140°"
+        }
       ],
       "text": "The acute angle between the hour hand and minute hand of a clock at 4 PM is"
     },
@@ -430,10 +954,26 @@
       "id": 36,
       "answerIndex": 0,
       "options": [
-        "10 am",
-        "11 am",
-        "10:25 am",
-        "9:45 am"
+        {
+          "correct": true,
+          "detail": "The clock gains 5 minutes every day.\n\nHence, it gains 30 minutes in 6 days.\n\nWhen it shows 10.30 am on Sunday, the true time is 10.00 am.",
+          "value": "10 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "11 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "10:45 am"
+        },
+        {
+          "correct": false,
+          "detail": "",
+          "value": "9:45 am"
+        }
       ],
       "text": "A clock gains 5 minutes in 24 hours. It was set right at 10 am on Monday. What will be the true time when the clock indicates 10:30 am on the next Sunday?"
     }
