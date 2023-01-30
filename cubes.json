@@ -1,5 +1,5 @@
 {
-    "Author": "",
+    "Author": "Sandhiya.E.K",
     "id": "aptitude-clock",
     "title": "Aptitude Clock",
     "topic": "Aptitude Clock",
@@ -9,985 +9,2297 @@
             "id": 1,
             "answerIndex": 3,
             "options": [
-                "12",
-                "16",
-                "6",
-                "8"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes at the corners of the bigger cube will be painted on 3 sides. \n\nThere are 8 corners.\n\n8 cubes are painted on 3 sides",
+                "value": "8"
+                }
             ],
-            "text": "A cube is painted red on all faces. It is then cut into 27 equal smaller cubes. How many cubes are painted on 3 faces?",
-            "detail": "The cubes at the corners of the bigger cube will be painted on 3 sides. \n\nThere are 8 corners.\n\n8 cubes are painted on 3 sides"
+            "text": "A cube is painted red on all faces. It is then cut into 27 equal smaller cubes. How many cubes are painted on 3 faces?"
+            
         },
         {
             "id": 2,
             "answerIndex": 0,
             "options": [
-                "12",
-                "8",
-                "6",
-                "10"
+                {
+                "correct": true,
+                "detail": "No. of cubes painted on only two sides\n= 12(n-2) \n= 12(3-2) \n= 12",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10"
+                }
             ],
-            "text": "How many cubes are painted on only 2 faces?",
-            "detail": "No. of cubes painted on only two sides\n= 12(n-2) \n= 12(3-2) \n= 12"
+            "text": "How many cubes are painted on only 2 faces?"
+            
         },
         {
             "id": 3,
             "answerIndex": 2,
             "options": [
-                "12",
-                "6",
-                "26",
-                "18"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": true,
+                "detail": "No. of cubes painted on atleast 1 side \n= 6(n-2)²+12(n-2)+8 \n= 26",
+                "value": "26"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "18"
+                }
             ],
-            "text": "How many cubes are painted on atleast 1 face?",
-            "detail": "No. of cubes painted on atleast 1 side \n= 6(n-2)²+12(n-2)+8 \n= 26"
+            "text": "How many cubes are painted on atleast 1 face?"
+           
         },
         {
             "id": 4,
             "answerIndex": 1,
             "options": [
-                "3",
-                "1",
-                "4",
-                "6"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3"
+                },
+                {
+                "correct": true,
+                "detail": "No. of cubes unpainted on all sides \n= (n-2)³ = 1",
+                "value": "1"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                }
             ],
-            "text": "How many cubes are unpainted on all faces?",
-            "detail": "No. of cubes unpainted on all sides \n= (n-2)³ = 1"
+            "text": "How many cubes are unpainted on all faces?"
+            
         },
         {
             "id": 5,
             "answerIndex": 0,
             "options": [
-                "1:27",
-                "1:9",
-                "1:3",
-                "3:1"
+                {
+                "correct": true,
+                "detail": "Ratio of the volume of smaller cube to larger cube \n= 1:n³ = 1:27",
+                "value": "1:27"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1:9"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1:3"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3:1"
+                }
             ],
-            "text": "Find the ratio of the volume of a smaller cube to the volume of the larger cube.",
-            "detail": "Ratio of the volume of smaller cube to larger cube \n= 1:n³ = 1:27"
+            "text": "Find the ratio of the volume of a smaller cube to the volume of the larger cube."
+           
         },
         {
             "id": 6,
             "answerIndex": 1,
             "options": [
-                "3 cm",
-                "2 cm",
-                "8 cm",
-                "6 cm"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3 cm"
+                },
+                {
+                "correct": true,
+                "detail": "Volume of a smaller cube = (12*12*12)/216 = 8cm³\n\nSide of a smaller cube = 2cm",
+                "value": "2 cm"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8 cm"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6 cm"
+                }
             ],
-            "text": "A cube of side 12cm is painted with 3 colors, red, blue and green such that the opposite faces have the same color. It is then cut into 216 equal smaller cubes. What is the side of a smaller cube?",
-            "detail": "Volume of a smaller cube = (12*12*12)/216 = 8cm³\n\nSide of a smaller cube = 2cm"
+            "text": "A cube of side 12cm is painted with 3 colors, red, blue and green such that the opposite faces have the same color. It is then cut into 216 equal smaller cubes. What is the side of a smaller cube?"
+            
         },
         {
             "id": 7,
             "answerIndex": 3,
             "options": [
-                "80",
-                "100",
-                "125",
-                "64"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "80"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "100"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "125"
+                },
+                {
+                "correct": true,
+                "detail": "216=6³n=6\n\nNo. of cubes unpainted on all sides=(n-2)³ = 64",
+                "value": "64"
+                }
             ],
-            "text": "How many cubes are unpainted on all sides?",
-            "detail": "216=6³n=6\n\nNo. of cubes unpainted on all sides=(n-2)³ = 64"
+            "text": "How many cubes are unpainted on all sides?"
+           
         },
         {
             "id": 8,
             "answerIndex": 0,
             "options": [
-                "16",
-                "20",
-                "25",
-                "36"
+                {
+                "correct": true,
+                "detail": "The cubes along the edges joining the red and blue faces, except those at the corners are painted only red and blue.\n\nThere are 4 such cubes along the 4 edges.\n\nHence, the answer is 16.",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "20"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "36"
+                }
             ],
-            "text": "How many cubes have only two faces painted red and blue?",
-            "detail": "The cubes along the edges joining the red and blue faces, except those at the corners are painted only red and blue.\n\nThere are 4 such cubes along the 4 edges.\n\nHence, the answer is 16."
+            "text": "How many cubes have only two faces painted red and blue?"
+            
         },
         {
             "id": 9,
             "answerIndex": 2,
             "options": [
-                "48",
-                "40",
-                "32",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "40"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes at the centre of the two green faces are painted only green.\n\n16 on each face. \n\nHence, 32 cubes are painted only with green",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many cubes are painted only green?",
-            "detail": "The cubes at the centre of the two green faces are painted only green.\n\n16 on each face. \n\nHence, 32 cubes are painted only with green"
+            "text": "How many cubes are painted only green?"
+            
         },
         {
             "id": 10,
             "answerIndex": 2,
             "options": [
-                "36",
-                "81",
-                "72",
-                "108"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "36"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "81"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes on the two blue faces have atleast one face painted blue.\n\n36+36=72 cubes",
+                "value": "72"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "108"
+                }
             ],
-            "text": "How many cubes have atleast one face painted with blue?",
-            "detail": "The cubes on the two blue faces have atleast one face painted blue.\n\n36+36=72 cubes"
+            "text": "How many cubes have atleast one face painted with blue?"
+            
         },
         {
             "id": 11,
             "answerIndex": 3,
             "options": [
-                "1",
-                "9",
-                "16",
-                "25"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                "detail": "Each face has n² = 25 cubes.\n\nThe 25 cubes on the pink face have atleast one face coloured pink.",
+                "value": "25"
+                }
             ],
-            "text": "A cube is coloured orange on one face , pink on the opposite face , brown on one face and silver on a face adjacent to the brown face. The other two faces are left uncoloured. It is then cut into 125 smaller cubes of equal size. How many cubes have at least one face coloured pink ?",
-            "detail": "Each face has n² = 25 cubes.\n\nThe 25 cubes on the pink face have atleast one face coloured pink."
+            "text": "A cube is coloured orange on one face , pink on the opposite face , brown on one face and silver on a face adjacent to the brown face. The other two faces are left uncoloured. It is then cut into 125 smaller cubes of equal size. How many cubes have at least one face coloured pink ?"
+            
         },
         {
             "id": 12,
             "answerIndex": 2,
             "options": [
-                "24",
-                "36",
-                "48",
-                "64"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "36"
+                },
+                {
+                "correct": true,
+                "detail": "The 27cubes at the centre of the larger cube+\n        (9+9)cubes at the center of the two uncoloured faces+\n3 cubes at the edge joining the uncoloured faces \n                        = 48",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                }
             ],
-            "text": "How many cubes have all the faces uncoloured?",
-            "detail": "The 27cubes at the centre of the larger cube+\n        (9+9)cubes at the center of the two uncoloured faces+\n3 cubes at the edge joining the uncoloured faces \n                        = 48"
+            "text": "How many cubes have all the faces uncoloured?"
+           
         },
         {
             "id": 13,
             "answerIndex": 2,
             "options": [
-                "19",
-                "20",
-                "21",
-                "23"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "19"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "20"
+                },
+                {
+                "correct": true,
+                "detail": "6 cubes at the 6 corners+\n        (5*3) cubes along the five edges \n= 21",
+                "value": "21"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "23"
+                }
             ],
-            "text": "How many cubes have at least two faces coloured?",
-            "detail": "6 cubes at the 6 corners+\n        (5*3) cubes along the five edges \n= 21"
+            "text": "How many cubes have at least two faces coloured?"
+           
         },
         {
             "id": 14,
             "answerIndex": 3,
             "options": [
-                "19",
-                "12",
-                "14",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "19"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14"
+                },
+                {
+                "correct": true,
+                "detail": "Except the cubes on the edges joining orange face with brown and silver, all other cubes on the orange face are coloured only on one face. (4*4) = 16 cubes",
+                "value": "16"
+                }
             ],
-            "text": "How many cubes are coloured orange on one face and have the remaining faces uncoloured ?",
-            "detail": "Except the cubes on the edges joining orange face with brown and silver, all other cubes on the orange face are coloured only on one face. (4*4) = 16 cubes"
+            "text": "How many cubes are coloured orange on one face and have the remaining faces uncoloured ?"
+            
         },
         {
             "id": 15,
             "answerIndex": 2,
             "options": [
-                "8",
-                "4",
-                "2",
-                "1"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes on the two corners (Orange, Blue, Silver) and (Pink, Blue, Silver) have 3 faces coloured.",
+                "value": "2"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1"
+                }
             ],
-            "text": "How many cubes have three faces coloured?",
-            "detail": "The cubes on the two corners (Orange, Blue, Silver) and (Pink, Blue, Silver) have 3 faces coloured."
+            "text": "How many cubes have three faces coloured?"
+            
         },
         {
             "id": 16,
             "answerIndex": 3,
             "options": [
-                "16",
-                "8",
-                "4",
-                "0"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "No cubes are painted on all faces.\n",
+                "value": "0"
+                }
             ],
-            "text": "A cube is painted green on two adjacent faces, yellow on the two faces opposite to the green faces and red on the remaining faces. It is then cut into 64 smaller cubes of equal size. How many cubes are painted on all faces?",
-            "detail": "No cubes are painted on all faces.\n"
+            "text": "A cube is painted green on two adjacent faces, yellow on the two faces opposite to the green faces and red on the remaining faces. It is then cut into 64 smaller cubes of equal size. How many cubes are painted on all faces?"
+           
         },
         {
             "id": 17,
             "answerIndex": 2,
             "options": [
-                "16",
-                "8",
-                "4",
-                "0"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes at the center of the edges joining the 2 yellow faces and the 2 green faces are painted only on two faces with yellow and green respectively.\n\nThere are 2 cubes at the middle of each edge.\n\n2*2 = 4 cubes",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                }
             ],
-            "text": "How many cubes are painted on two faces only and with the same colour?",
-            "detail": "The cubes at the center of the edges joining the 2 yellow faces and the 2 green faces are painted only on two faces with yellow and green respectively.\n\nThere are 2 cubes at the middle of each edge.\n\n2*2 = 4 cubes"
+            "text": "How many cubes are painted on two faces only and with the same colour?"
+
         },
         {
             "id": 18,
             "answerIndex": 1,
             "options": [
-                "4",
-                "8",
-                "16",
-                "32"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes at the center of each yellow face are painted yellow on one face only.\n\nThere are 4 cubes at the center of each face.\n\n4*2 = 8",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                }
             ],
-            "text": "How many cubes are painted yellow on one face only?",
-            "detail": "The cubes at the center of each yellow face are painted yellow on one face only.\n\nThere are 4 cubes at the center of each face.\n\n4*2 = 8"
+            "text": "How many cubes are painted yellow on one face only?"
+            
         },
         {
             "id": 19,
             "answerIndex": 2,
             "options": [
-                "16",
-                "12",
-                "8",
-                "6"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": true,
+                "detail": "The cubes at the 8 vertices are painted on 3 sides.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                }
             ],
-            "text": "How many cubes have three faces painted?",
-            "detail": "The cubes at the 8 vertices are painted on 3 sides."
+            "text": "How many cubes have three faces painted?"
+            
         },
         {
             "id": 20,
             "answerIndex": 0,
             "options": [
-                "10",
-                "12",
-                "14",
-                "16"
+                {
+                "correct": true,
+                "detail": "The cubes along the edges joining the green and red faces(14)\n- The cubes at the vertex connecting the yellow face(4)\n= 10 cubes",
+                "value": "10"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many cubes are painted with only red and green?",
-            "detail": "The cubes along the edges joining the green and red faces(14)\n- The cubes at the vertex connecting the yellow face(4)\n= 10 cubes"
+            "text": "How many cubes are painted with only red and green?"
+            
         },
         {
             "id": 21,
             "answerIndex": 1,
             "options": [
-                "125",
-                "150",
-                "294",
-                "98"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "125"
+                },
+                {
+                "correct": true,
+                "detail": "No. of cubes painted on only 1 face\n= 6(n-2)²\n= 150",
+                "value": "150"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "294"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "98"
+                }
             ],
-            "text": "A 7cm*7cm*7cm cube is painted on all its side. If it is sliced into 343 equal cubes, how many smaller cubes will have exactly one of their sides painted? ",
-            "detail": "No. of cubes painted on only 1 face\n= 6(n-2)²\n= 150"
+            "text": "A 7cm*7cm*7cm cube is painted on all its side. If it is sliced into 343 equal cubes, how many smaller cubes will have exactly one of their sides painted? "
+            
         },
         {
             "id": 22,
             "answerIndex": 3,
             "options": [
-                "8",
-                "49",
-                "60",
-                "68"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "49"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "60"
+                },
+                {
+                "correct": true,
+                "detail": "12(n-2)+8\n= 68",
+                "value": "68"
+                }
             ],
-            "text": "How many cubes have atleast two faces painted?",
-            "detail": "12(n-2)+8\n= 68"
+            "text": "How many cubes have atleast two faces painted?"
+            
         },
         {
             "id": 23,
             "answerIndex": 0,
             "options": [
-                "125",
-                "150",
-                "216",
-                "196"
+                {
+                "correct": true,
+                "detail": "(n-2)³ = 125",
+                "value": "125"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "150"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "216"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "196"
+                }
             ],
-            "text": "How many cubes are uncoloured on all faces?",
-            "detail": "(n-2)³ = 125"
+            "text": "How many cubes are uncoloured on all faces?"
+            
         },
         {
             "id": 24,
             "answerIndex": 2,
             "options": [
-                "68",
-                "70",
-                "60",
-                "25"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "68"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "70"
+                },
+                {
+                "correct": true,
+                "detail": "12(n-2) = 60",
+                "value": "60"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "25"
+                }
             ],
-            "text": "How many cubes are painted only on 2 faces?",
-            "detail": "12(n-2) = 60"
+            "text": "How many cubes are painted only on 2 faces?"
+            
         },
         {
             "id": 25,
             "answerIndex": 0,
             "options": [
-                "275",
-                "218",
-                "216",
-                "210"
+                {
+                "correct": true,
+                "detail": "No. of cubes painted on atmost 1 face\n= No. of cubes unpainted on all faces+\nNo. of cubes painted on only 1 face\n= (n-2)³+6(n-2)²\n= 125+150\n= 275",
+                "value": "275"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "218"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "216"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "210"
+                }
             ],
-            "text": "How many cubes are coloured on atmost 1 face?",
-            "detail": "No. of cubes painted on atmost 1 face\n= No. of cubes unpainted on all faces+\nNo. of cubes painted on only 1 face\n= (n-2)³+6(n-2)²\n= 125+150\n= 275"
+            "text": "How many cubes are coloured on atmost 1 face?"
+           
         },
         {
             "id": 26,
             "answerIndex": 2,
             "options": [
-                "33",
-                "9",
-                "27",
-                "30"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "33"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9"
+                },
+                {
+                "correct": true,
+                 "detail": "No. of cubes\n= Volume of larger cube/Volume of smaller cube\n= (3*3*3)/(1*1*1)\n= 27",
+                "value": "27"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "30"
+                }
             ],
-            "text": "A cube of 3cm*3cm*3cm is kept in the corner of a room and painted in three different colours, each face in one colour. The cube is then cut into equal cubes of side 1 cm. How many smaller cubes are formed?",
-            "detail": "No. of cubes\n= Volume of larger cube/Volume of smaller cube\n= (3*3*3)/(1*1*1)\n= 27"
+            "text": "A cube of 3cm*3cm*3cm is kept in the corner of a room and painted in three different colours, each face in one colour. The cube is then cut into equal cubes of side 1 cm. How many smaller cubes are formed?"
+           
         },
         {
             "id": 27,
             "answerIndex": 0,
             "options": [
-                "12",
-                "11",
-                "16",
-                "15"
+                {
+                "correct": true,
+                "detail": "The cube has been painted on the three visible faces. The three faces are adjacent.\n\nNo. of cubes painted on 1 face\n= (3*2*2) cubes on the 3 visible faces\n= 4*3\n= 12",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "11"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "15"
+                }
             ],
-            "text": "How many cubes have exactly one face painted?",
-            "detail": "The cube has been painted on the three visible faces. The three faces are adjacent.\n\nNo. of cubes painted on 1 face\n= (3*2*2) cubes on the 3 visible faces\n= 4*3\n= 12"
+            "text": "How many cubes have exactly one face painted?"
+            
         },
         {
             "id": 28,
             "answerIndex": 3,
             "options": [
-                "3",
-                "8",
-                "2",
-                "1"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "3"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                },
+                {
+                "correct": true,
+                 "detail": "The cube at the corner connecting the 3 visible faces is painted on 3 faces.",
+                "value": "1"
+                }
             ],
-            "text": "How many cubes have three faces painted?",
-            "detail": "The cube at the corner connecting the 3 visible faces is painted on 3 faces."
+            "text": "How many cubes have three faces painted?"
+           
         },
         {
             "id": 29,
             "answerIndex": 2,
             "options": [
-                "8",
-                "6",
-                "7",
-                "9"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": true,
+                 "detail": "The cubes along the edges connecting the visible faces are painted on atleast 2 faces\n\n3*2 cubes along the 3 edges + 1 corner cube = 7",
+                "value": "7"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9"
+                }
             ],
-            "text": "How many cubes are painted on atleast two faces?",
-            "detail": "The cubes along the edges connecting the visible faces are painted on atleast 2 faces\n\n3*2 cubes along the 3 edges + 1 corner cube = 7"
+            "text": "How many cubes are painted on atleast two faces?"
+           
         },
         {
             "id": 30,
             "answerIndex": 0,
             "options": [
-                "8",
-                "7",
-                "1",
-                "9"
+                {
+                "correct": true,
+                "detail": "The cube at the center of the larger cube,\nthe 3 cube at the center of the 3 invisible faces,\nthe 3 cube at the center of the 3 edges connecting the invisible faces and\nthe cube at the corner joining the invisible faces are unpainted on all sides. \n\nFor cubes painted on 3 adjacent faces,\nNo. of cubes unpainted on all sides = (n-1)³\nHere, n=3\nSo, the answer is 8.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "7"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9"
+                }
             ],
-            "text": "How many cubes are unpainted on all faces?",
-            "detail": "The cube at the center of the larger cube,\nthe 3 cube at the center of the 3 invisible faces,\nthe 3 cube at the center of the 3 edges connecting the invisible faces and\nthe cube at the corner joining the invisible faces are unpainted on all sides. \n\nFor cubes painted on 3 adjacent faces,\nNo. of cubes unpainted on all sides = (n-1)³\nHere, n=3\nSo, the answer is 8."
+            "text": "How many cubes are unpainted on all faces?"
+            
         },
         {
             "id": 31,
             "answerIndex": 0,
             "options": [
-                "8",
-                "10",
-                "12",
-                "16"
+                {
+                "correct": true,
+                 "detail": "The 4 cubes in the edge connecting yellow and green and the 4 cubes in the edge connecting purple and green.\n\n4+4 = 8",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "10"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "A cube is coloured yellow on one face , purple on the opposite face, blue on one face and green on a face adjacent to the blue face. The other two faces are left uncoloured. It is then cut into 125 smaller cubes of equal size.\n\nAnswer the following questions based on the above statements:\n\nHow many cubes are coloured green on one face, yellow or purple on another face and have four uncoloured faces?",
-            "detail": "The 4 cubes in the edge connecting yellow and green and the 4 cubes in the edge connecting purple and green.\n\n4+4 = 8"
+            "text": "A cube is coloured yellow on one face , purple on the opposite face, blue on one face and green on a face adjacent to the blue face. The other two faces are left uncoloured. It is then cut into 125 smaller cubes of equal size.\n\nAnswer the following questions based on the above statements:\n\nHow many cubes are coloured green on one face, yellow or purple on another face and have four uncoloured faces?"
+           
         },
         {
             "id": 32,
             "answerIndex": 3,
             "options": [
-                "8",
-                "12",
-                "14",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14"
+                },
+                {
+                "correct": true,
+                "detail": "9 cubes in the center of the yellow face+\n7 cubes along the edges connecting the yellow face to the 2 uncolored faces\n= 16",
+                "value": "16"
+                }
             ],
-            "text": "How many cubes are coloured yellow on one face and have the remaining faces uncoloured?",
-            "detail": "9 cubes in the center of the yellow face+\n7 cubes along the edges connecting the yellow face to the 2 uncolored faces\n= 16"
+            "text": "How many cubes are coloured yellow on one face and have the remaining faces uncoloured?"
+            
         },
         {
             "id": 33,
             "answerIndex": 3,
             "options": [
-                "1",
-                "9",
-                "16",
-                "25"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "1"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "9"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                 "detail": "The 25 cubes in the purple face have atleast one face purple.",
+                "value": "25"
+                }
             ],
-            "text": "How many cubes have at least one face coloured purple?",
-            "detail": "The 25 cubes in the purple face have atleast one face purple."
+            "text": "How many cubes have at least one face coloured purple?"
+           
         },
         {
             "id": 34,
             "answerIndex": 2,
             "options": [
-                "19",
-                "20",
-                "21",
-                "23"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "19"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "20"
+                },
+                {
+                "correct": true,
+                "detail": "6 corner cubes +\n(5*3) cubes along the edges connecting the colored faces\n= 21",
+                "value": "21"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "23"
+                }
             ],
-            "text": "How many cubes have at least two faces coloured?",
-            "detail": "6 corner cubes +\n(5*3) cubes along the edges connecting the colored faces\n= 21"
+            "text": "How many cubes have at least two faces coloured?"
+            
         },
         {
             "id": 35,
             "answerIndex": 2,
             "options": [
-                "24",
-                "36",
-                "48",
-                "64"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "36"
+                },
+                {
+                "correct": true,
+                 "detail": "27 inner cubes+\n18 cubes in the center of the two uncolored faces+\n3 cubes along the edge connecting the two uncolored faces\n= 48",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                }
             ],
-            "text": "How many cubes have all the faces uncoloured?",
-            "detail": "27 inner cubes+\n18 cubes in the center of the two uncolored faces+\n3 cubes along the edge connecting the two uncolored faces\n= 48"
+            "text": "How many cubes have all the faces uncoloured?"
+           
         },
         {
             "id": 36,
             "answerIndex": 2,
             "options": [
-                "32",
-                "64",
-                "0",
-                "12"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                },
+                {
+                "correct": true,
+                "detail": "No cube will have 4 colored faces.",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                }
             ],
-            "text": "A cube is cut into 8 small equal cubes. All the faces of the eight small cubes are painted with green color. Then each cube is cut into 64 small equal cubes.\n\nHow many small cubes will have 4 colored faces and two non-colored faces?",
-            "detail": "No cube will have 4 colored faces."
+            "text": "A cube is cut into 8 small equal cubes. All the faces of the eight small cubes are painted with green color. Then each cube is cut into 64 small equal cubes.\n\nHow many small cubes will have 4 colored faces and two non-colored faces?"
+            
         },
         {
             "id": 37,
             "answerIndex": 0,
             "options": [
-                "192",
-                "256",
-                "128",
-                "320"
+                {
+                "correct": true,
+                "detail": "In each cube, the 2 cubes in the center of the 12 edges will have only 2 colored faces.\n\nNo. of such cubes\n= 8*12*2\n= 192",
+                "value": "192"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "256"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "320"
+                }
             ],
-            "text": "How many small cubes will have 2 colored faces and rest of the four faces having no color?",
-            "detail": "In each cube, the 2 cubes in the center of the 12 edges will have only 2 colored faces.\n\nNo. of such cubes\n= 8*12*2\n= 192"
+            "text": "How many small cubes will have 2 colored faces and rest of the four faces having no color?"
+            
         },
         {
             "id": 38,
             "answerIndex": 2,
             "options": [
-                "128",
-                "0",
-                "192",
-                "64"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": true,
+                 "detail": "In each cube, the 4 cubes in the center of each of the six faces have only one face colored.\n\nNo. of such faces\n= 8*6*4\n= 192",
+                "value": "192"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                }
             ],
-            "text": "How many small cubes will be formed having only one face colored?",
-            "detail": "In each cube, the 4 cubes in the center of each of the six faces have only one face colored.\n\nNo. of such faces\n= 8*6*4\n= 192"
+            "text": "How many small cubes will be formed having only one face colored?"
+           
         },
         {
             "id": 39,
             "answerIndex": 0,
             "options": [
-                "64",
-                "32",
-                "128",
-                "16"
+                {
+                "correct": true,
+                 "detail": "The 8 cubes in the center of each cube will have no face colored.\n\nNo. of such cubes\n= 8*8\n= 64",
+                "value": "64"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many small cubes will be formed having no face colored?",
-            "detail": "The 8 cubes in the center of each cube will have no face colored.\n\nNo. of such cubes\n= 8*8\n= 64"
+            "text": "How many small cubes will be formed having no face colored?"
+           
         },
         {
             "id": 40,
             "answerIndex": 3,
             "options": [
-                "12",
-                "48",
-                "24",
-                "64"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": true,
+                 "detail": "The 8 corner cubes in each cube will have three faces colored.\n\nNo. of such cubes\n= 8*8\n= 64",
+                "value": "64"
+                }
             ],
-            "text": "How many small cubes will be there whose three faces are colored?",
-            "detail": "The 8 corner cubes in each cube will have three faces colored.\n\nNo. of such cubes\n= 8*8\n= 64"
+            "text": "How many small cubes will be there whose three faces are colored?"
+           
         },
         {
             "id": 41,
             "answerIndex": 2,
             "options": [
-                "24",
-                "96",
-                "48",
-                "0"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "96"
+                },
+                {
+                "correct": true,
+                 "detail": "In each cube, the two faces in the center of the 3 edges connecting the blue faces have two faces colored blue and the rest uncolored.\n\nNo. of such cubes\n= 8*2*3\n= 48",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                }
             ],
-            "text": "All the faces of a cube are painted with red color. Then it is cut into 8 small equal cubes. The remaining faces of the smaller cubes are painted with blue color. Each is then cut into 64 small equal cubes.\n\nHow many small cubes will have blue color on two faces and rest of the four faces having no color?",
-            "detail": "In each cube, the two faces in the center of the 3 edges connecting the blue faces have two faces colored blue and the rest uncolored.\n\nNo. of such cubes\n= 8*2*3\n= 48"
+            "text": "All the faces of a cube are painted with red color. Then it is cut into 8 small equal cubes. The remaining faces of the smaller cubes are painted with blue color. Each is then cut into 64 small equal cubes.\n\nHow many small cubes will have blue color on two faces and rest of the four faces having no color?"
+           
         },
         {
             "id": 42,
             "answerIndex": 0,
             "options": [
-                "0",
-                "32",
-                "16",
-                "8"
+                {
+                "correct": true,
+                 "detail": "No cube will have 4 faces colored.",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                }
             ],
-            "text": "How many small cubes will have blue color on two faces, red color on another two faces and rest of the two faces having no color?",
-            "detail": "No cube will have 4 faces colored."
+            "text": "How many small cubes will have blue color on two faces, red color on another two faces and rest of the two faces having no color?"
+           
         },
         {
             "id": 43,
             "answerIndex": 2,
             "options": [
-                "96",
-                "32",
-                "48",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "96"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": true,
+                "detail": "In each cube, the two cubes in the center of the 3 edges connecting the red faces will have two faced red and the rest uncolored.\n\nNo. of such cubes\n= 8*3*2\n= 48",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes will have red color on two faces and rest of the four faces having no color?",
-            "detail": "In each cube, the two cubes in the center of the 3 edges connecting the red faces will have two faced red and the rest uncolored.\n\nNo. of such cubes\n= 8*3*2\n= 48"
+            "text": "How many small cubes will have red color on two faces and rest of the four faces having no color?"
+            
         },
         {
             "id": 44,
             "answerIndex": 3,
             "options": [
-                "0",
-                "12",
-                "4",
-                "8"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "In each of the 8 cubes, the corner cube which connects the 3 red faces will 3 faces red.\n\nNo. of such cubes\n= 8*1\n= 8",
+                "value": "8"
+                }
             ],
-            "text": "How many small cubes will have red color on three faces and rest of the three faces having no color?",
-            "detail": "In each of the 8 cubes, the corner cube which connects the 3 red faces will 3 faces red.\n\nNo. of such cubes\n= 8*1\n= 8"
+            "text": "How many small cubes will have red color on three faces and rest of the three faces having no color?"
+            
         },
         {
             "id": 45,
             "answerIndex": 2,
             "options": [
-                "4",
-                "12",
-                "8",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": true,
+                 "detail": "In each of the 8 cubes, the corner cube which connects the 3 blue faces alone is colored blue on 3 faces.\n\nNo. of such cubes\n= 8*1\n= 8",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many small cubes will have blue color on three faces and rest of the three faces having no color?",
-            "detail": "In each of the 8 cubes, the corner cube which connects the 3 blue faces alone is colored blue on 3 faces.\n\nNo. of such cubes\n= 8*1\n= 8"
+            "text": "How many small cubes will have blue color on three faces and rest of the three faces having no color?"
+           
         },
         {
             "id": 46,
             "answerIndex": 2,
             "options": [
-                "256",
-                "128",
-                "216",
-                "108"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "256"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                },
+                {
+                "correct": true,
+                 "detail": "In each cube, the no. of smaller cubes that will remain is 3³ = 27.\n\nNo. of such cubes\n= 8*27\n= 216",
+                "value": "216"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "108"
+                }
             ],
-            "text": "How many small cubes will remain if the cubes having red colored at least on one face are removed?",
-            "detail": "In each cube, the no. of smaller cubes that will remain is 3³ = 27.\n\nNo. of such cubes\n= 8*27\n= 216"
+            "text": "How many small cubes will remain if the cubes having red colored at least on one face are removed?"
+           
         },
         {
             "id": 47,
             "answerIndex": 2,
             "options": [
-                "96",
-                "108",
-                "144",
-                "216"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "96"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "108"
+                },
+                {
+                "correct": true,
+                 "detail": "In each cube, 6 corner cubes and 2 cubes in the center of 6 edges will have red and blue colors on atleast one face.\n\nNo. of such cubes\n= 8*(6+(2*6))\n= 8*18\n= 144",
+                "value": "144"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "216"
+                }
             ],
-            "text": "How many small cubes having red and blue colors on at least one face of the cube will be formed?",
-            "detail": "In each cube, 6 corner cubes and 2 cubes in the center of 6 edges will have red and blue colors on atleast one face.\n\nNo. of such cubes\n= 8*(6+(2*6))\n= 8*18\n= 144"
+            "text": "How many small cubes having red and blue colors on at least one face of the cube will be formed?"
+           
         },
         {
             "id": 48,
             "answerIndex": 0,
             "options": [
-                "24",
-                "32",
-                "40",
-                "16"
+                {
+                "correct": true,
+                 "detail": "In each of the 8 cubes, there are 3 corner cubes which have two faces red and one face blue.\n\nNo. of such cubes\n= 8*3\n= 24",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "40"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many small cubes having red color on two faces and blue color on one face of the cube will be formed?",
-            "detail": "In each of the 8 cubes, there are 3 corner cubes which have two faces red and one face blue.\n\nNo. of such cubes\n= 8*3\n= 24"
+            "text": "How many small cubes having red color on two faces and blue color on one face of the cube will be formed?"
+           
         },
         {
             "id": 49,
             "answerIndex": 3,
             "options": [
-                "4",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                 "detail": "The 4 cubes in the center of each face have only one face colored.\n\n6*4 = 24",
+                "value": "24"
+                }
             ],
-            "text": "All the faces of cubes are painted with red colour. The cubes is cut into 64 equal small cubes.\n\nHow many small cubes have only one face coloured?",
-            "detail": "The 4 cubes in the center of each face have only one face colored.\n\n6*4 = 24"
+            "text": "All the faces of cubes are painted with red colour. The cubes is cut into 64 equal small cubes.\n\nHow many small cubes have only one face coloured?"
+           
         },
         {
             "id": 50,
             "answerIndex": 1,
             "options": [
-                "24",
-                "8",
-                "16",
-                "0"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": true,
+                "detail": "The 8 smaller cubes at the center of the cube have no faces colored.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                }
             ],
-            "text": "How many small cubes have no faces coloured?",
-            "detail": "The 8 smaller cubes at the center of the cube have no faces colored."
+            "text": "How many small cubes have no faces coloured?"
+            
         },
         {
             "id": 51,
             "answerIndex": 1,
             "options": [
-                "4",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                 "detail": "The 8 corner cubes have three faces colored.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes are there whose three faces are coloured?",
-            "detail": "The 8 corner cubes have three faces colored."
+            "text": "How many small cubes are there whose three faces are coloured?"
+           
         },
         {
             "id": 52,
             "answerIndex": 3,
             "options": [
-                "0",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                "detail": "The 2 cubes in the center of the 12 edges have two adjacent faces colored red.",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes are there whose two adjacent faces are coloured red?",
-            "detail": "The 2 cubes in the center of the 12 edges have two adjacent faces colored red."
+            "text": "How many small cubes are there whose two adjacent faces are coloured red?"
+            
         },
         {
             "id": 53,
             "answerIndex": 2,
             "options": [
-                "28",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "28"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": true,
+                "detail": "The 2 cubes in the center of the 8 edges connecting a green face and a red or black face.\n\nNo. of such cubes\n= 2*8\n= 16",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "All the opposite faces of a big cube are coloured with red, black and green colours. After that is cut into 64 small equal cubes.\n\nHow many small cubes are there which are colored on two faces and one is green and other one is either black or red?",
-            "detail": "The 2 cubes in the center of the 8 edges connecting a green face and a red or black face.\n\nNo. of such cubes\n= 2*8\n= 16"
+            "text": "All the opposite faces of a big cube are coloured with red, black and green colours. After that is cut into 64 small equal cubes.\n\nHow many small cubes are there which are colored on two faces and one is green and other one is either black or red?"
+            
         },
         {
             "id": 54,
             "answerIndex": 2,
             "options": [
-                "0",
-                "4",
-                "8",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                 "detail": "The 8 cubes at the center.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many small cubes are there whose no faces are coloured?",
-            "detail": "The 8 cubes at the center."
+            "text": "How many small cubes are there whose no faces are coloured?"
+           
         },
         {
             "id": 55,
             "answerIndex": 1,
             "options": [
-                "4",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "8 corner cubes.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes are there whose 3 faces are coloured?",
-            "detail": "8 corner cubes."
+            "text": "How many small cubes are there whose 3 faces are coloured?"
+            
         },
         {
             "id": 56,
             "answerIndex": 3,
             "options": [
-                "32",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                "detail": "The 4 cubes in the center of the 6 faces.\n\n4*6 = 32",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes are there whose only one face is coloured?",
-            "detail": "The 4 cubes in the center of the 6 faces.\n\n4*6 = 32"
+            "text": "How many small cubes are there whose only one face is coloured?"
+            
         },
         {
             "id": 57,
             "answerIndex": 1,
             "options": [
-                "48",
-                "56",
-                "28",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "48"
+                },
+                {
+                "correct": true,
+                 "detail": "8 cubes are colored on 3 faces.\n\n(64-8) = 56 faces are colored on at the most 3 faces.",
+                "value": "56"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "28"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes are there whose at the most two faces are coloured?",
-            "detail": "8 cubes are colored on 3 faces.\n\n(64-8) = 56 faces are colored on at the most 3 faces."
+            "text": "How many small cubes are there whose at the most two faces are coloured?"
+           
         },
         {
             "id": 58,
             "answerIndex": 1,
             "options": [
-                "4",
-                "8",
-                "16",
-                "2"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "The single cube at the center of the 8 edges connecting the brown face and a pink or orange face.\n\n8*1 = 8",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                }
             ],
-            "text": "All the opposite faces of a big cube are coloured with pink, orange and brown colours. After that, it is cut into 27 small equal cubes.\n\nHow many small cubes are there where one face is brown and other one is either orange or pink?",
-            "detail": "The single cube at the center of the 8 edges connecting the brown face and a pink or orange face.\n\n8*1 = 8"
+            "text": "All the opposite faces of a big cube are coloured with pink, orange and brown colours. After that, it is cut into 27 small equal cubes.\n\nHow many small cubes are there where one face is brown and other one is either orange or pink?"
+            
         },
         {
             "id": 59,
             "answerIndex": 1,
             "options": [
-                "0",
-                "1",
-                "4",
-                "8"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": true,
+                 "detail": "The single cube at the center.",
+                "value": "1"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                }
             ],
-            "text": "How many small cubes are there whose no faces are coloured?",
-            "detail": "The single cube at the center."
+            "text": "How many small cubes are there whose no faces are coloured?"
+           
         },
         {
             "id": 60,
             "answerIndex": 1,
             "options": [
-                "4",
-                "8",
-                "16",
-                "2"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": true,
+                "detail": "8 corner cubes.",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                }
             ],
-            "text": "How many small cubes are there whose 3 faces are coloured ?",
-            "detail": "8 corner cubes."
+            "text": "How many small cubes are there whose 3 faces are coloured ?"
+            
         },
         {
             "id": 61,
             "answerIndex": 0,
-            "options": [
-                "6",
-                "8",
-                "12",
-                "4"
+            "options":[
+                {
+                "correct": true,
+                 "detail": "Cubes at the center of each of the 6 faces.\n\n6*1 = 6",
+                "value": "6"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                }
             ],
-            "text": "How many small cubes are there whose only one face is coloured?",
-            "detail": "Cubes at the center of each of the 6 faces.\n\n6*1 = 6"
+            "text": "How many small cubes are there whose only one face is coloured?"
+           
         },
         {
             "id": 62,
             "answerIndex": 3,
             "options": [
-                "20",
-                "16",
-                "14",
-                "19"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "20"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "14"
+                },
+                {
+                "correct": true,
+                 "detail": "Leaving out the 8 corner cubes,\n(27-8)=19 cubes are colored at the most on two faces.",
+                "value": "19"
+                }
             ],
-            "text": "How many small cubes are there whose at the most two faces are coloured?",
-            "detail": "Leaving out the 8 corner cubes,\n(27-8)=19 cubes are colored at the most on two faces."
+            "text": "How many small cubes are there whose at the most two faces are coloured?"
+           
         },
         {
             "id": 63,
             "answerIndex": 0,
             "options": [
-                "54",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": true,
+                 "detail": "The 9 cubes at the center of the 6 faces.\n\n6*9 = 54",
+                "value": "54"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "All the faces of a cube are painted with green colour. Then it is cut into 125 small equal cubes.\n\nHow many small cubes will be formed having only one face coloured?",
-            "detail": "The 9 cubes at the center of the 6 faces.\n\n6*9 = 54"
+            "text": "All the faces of a cube are painted with green colour. Then it is cut into 125 small equal cubes.\n\nHow many small cubes will be formed having only one face coloured?"
+           
         },
         {
             "id": 64,
             "answerIndex": 0,
             "options": [
-                "27",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": true,
+                 "detail": "The 27 cubes at the center.",
+                "value": "27"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many small cubes will be formed having no face coloured?",
-            "detail": "The 27 cubes at the center."
+            "text": "How many small cubes will be formed having no face coloured?"
+           
         },
         {
             "id": 65,
             "answerIndex": 1,
             "options": [
-                "White",
-                "Black",
-                "Brown",
-                "None of these"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "White"
+                },
+                {
+                "correct": true,
+                "detail": "Black is opposite to red which is at the bottom.",
+                "value": "Black"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Brown"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "None of these"
+                }
             ],
-            "text": "All the six faces of a cube of a cube are coloured with six different colours - black, brown, green, red, white and blue.\n\nRed face is opposite to the black face.\nGreen face is between red and black faces.\nBlue face is adjacent to white face.\nBrown face is adjacent to blue face.\nRed face is in the bottom.\n\nThe upper face is _________",
-            "detail": "Black is opposite to red which is at the bottom."
+            "text": "All the six faces of a cube of a cube are coloured with six different colours - black, brown, green, red, white and blue.\n\nRed face is opposite to the black face.\nGreen face is between red and black faces.\nBlue face is adjacent to white face.\nBrown face is adjacent to blue face.\nRed face is in the bottom.\n\nThe upper face is _________"
+            
         },
         {
             "id": 66,
             "answerIndex": 1,
             "options": [
-                "Blue",
-                "White",
-                "Green",
-                "Red"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Blue"
+                },
+                {
+                "correct": true,
+                "detail": "Blue is opposite to white.",
+                "value": "White"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Green"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Red"
+                }
             ],
-            "text": "The face opposite to brown is _________",
-            "detail": "Blue is opposite to white."
+            "text": "The face opposite to brown is _________"
+            
         },
         {
             "id": 67,
             "answerIndex": 0,
             "options": [
-                "Black, white, brown, red",
-                "Blue, black, red, white",
-                "Red, black, blue, white",
-                "None of these"
+                {
+                "correct": true,
+                "detail": "Black, Brown, Red, White",
+                "value": "Black,White,brown,red"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Blue, black, red, white"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value":"Red, black, blue, white"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value":"None of these" 
+                }
             ],
-            "text": "Which of the following is adjacent to green ?",
-            "detail": "Black, Brown, Red, White"
+            "text": "Which of the following is adjacent to green ?"
+            
         },
         {
             "id": 68,
             "answerIndex": 2,
             "options": [
-                "Red",
-                "White",
-                "Blue",
-                "Brown"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Red"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value":"White"
+                },
+                {
+                "correct": true,
+                 "detail": "Blue is opposite to Green.",
+                "value":"Blue"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value":"Brown" 
+                }
             ],
-            "text": "Which face is opposite to green?",
-            "detail": "Blue is opposite to Green."
+            "text": "Which face is opposite to green?"
+           
         },
         {
             "id": 69,
             "answerIndex": 3,
             "options": [
-                "0",
-                "32",
-                "64",
-                "128"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                },
+                {
+                "correct": true,
+                 "detail": "All the 128 cubes have at least two red faces.",
+                "value": "128"
+                }
             ],
-            "text": "There are 128 cubes with me which are coloured according to two schemes.\n\n64 cubes each having two red adjacent faces and one yellow and other blue on their opposite faces while green on the rest.\n64 cubes each having two adjacent blue faces and one red and other green on their opposite faces, while red on the rest. They are then mixed up.\n\nHow many cubes have at least two coloured red faces each?",
-            "detail": "All the 128 cubes have at least two red faces."
+            "text": "There are 128 cubes with me which are coloured according to two schemes.\n\n64 cubes each having two red adjacent faces and one yellow and other blue on their opposite faces while green on the rest.\n64 cubes each having two adjacent blue faces and one red and other green on their opposite faces, while red on the rest. They are then mixed up.\n\nHow many cubes have at least two coloured red faces each?"
+           
         },
         {
             "id": 70,
             "answerIndex": 2,
             "options": [
-                "0",
-                "64",
-                "320",
-                "128"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                },
+                {
+                "correct": true,
+                 "detail": "No. of red faces in the first 64 cubes\n= 128\nNo. of red faces in the second 64 cubes\n= 192\n\n128+192 = 320",
+                "value": "320"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                }
             ],
-            "text": "What is the total number of red faces?",
-            "detail": "No. of red faces in the first 64 cubes\n= 128\nNo. of red faces in the second 64 cubes\n= 192\n\n128+192 = 320"
+            "text": "What is the total number of red faces?"
+           
         },
         {
             "id": 71,
             "answerIndex": 0,
             "options": [
-                "64",
-                "32",
-                "0",
-                "128"
+                {
+                "correct": true,
+                 "detail": "The 64 cubes in the second cube have two adjacent blue faces.",
+                "value": "64"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                }
             ],
-            "text": "How many cubes have two adjacent blue faces each?",
-            "detail": "The 64 cubes in the second cube have two adjacent blue faces."
+            "text": "How many cubes have two adjacent blue faces each?"
+           
         },
         {
             "id": 72,
             "answerIndex": 3,
             "options": [
-                "128",
-                "32",
-                "64",
-                "0"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "128"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "32"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                },
+                {
+                "correct": true,
+                 "detail": "No cubes have only one red face. All the cubes have at least two red faces.",
+                "value": "0"
+                }
             ],
-            "text": "How many cubes have only one red face each?",
-            "detail": "No cubes have only one red face. All the cubes have at least two red faces."
+            "text": "How many cubes have only one red face each?"
+           
         },
         {
             "id": 73,
             "answerIndex": 1,
             "options": [
-                "Red and Yellow",
-                "Blue and Green",
-                "Red and Green",
-                "Red and Blue"
+                {
+                "correct": false,
+                "detail": "",
+                "value":"Red and Yellow"
+                },
+                {
+                "correct": true,
+                 "detail": "In the first 64 cubes, there are two green cubes.\n\nIn the second 64 cubes, there are two blue cubes.",
+                "value":"Blue and Green"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Red and Green"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "Red and Blue" 
+                }
             ],
-            "text": "Which two colours have the same number of faces?",
-            "detail": "In the first 64 cubes, there are two green cubes.\n\nIn the second 64 cubes, there are two blue cubes."
+            "text": "Which two colours have the same number of faces?"
+           
         },
         {
             "id": 74,
             "answerIndex": 1,
             "options": [
-                "24",
-                "48",
-                "56",
-                "60"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": true,
+                "detail": "64-(4*4) = 48",
+                "value": "48"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "56"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "60"
+                }
             ],
-            "text": "A cube is cut into 64 smaller and equal-sized cubes. Then a column of four cubes is removed from each of the four corners. All theexposed faces of the rest of the solid (except the face touching the table) are coloured green.\n\nHow many small cubes are there in the solid after the removal of the columns?",
-            "detail": "64-(4*4) = 48"
+            "text": "A cube is cut into 64 smaller and equal-sized cubes. Then a column of four cubes is removed from each of the four corners. All theexposed faces of the rest of the solid (except the face touching the table) are coloured green.\n\nHow many small cubes are there in the solid after the removal of the columns?"
+            
         },
         {
             "id": 75,
             "answerIndex": 2,
             "options": [
-                "4",
-                "8",
-                "12",
-                "16"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": true,
+                 "detail": "The 8 cubes in the center.",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                }
             ],
-            "text": "How many cubes do not have any coloured face?",
-            "detail": "The 8 cubes in the center."
+            "text": "How many cubes do not have any coloured face?"
+           
         },
         {
             "id": 76,
             "answerIndex": 0,
             "options": [
-                "4",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": true,
+                 "detail": "4 cubes in the center of the top face." ,
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                }
             ],
-            "text": "How many cubes have only one green face each?",
-            "detail": "4 cubes in the center of the top face."
+            "text": "How many cubes have only one green face each?"
+           
         },
         {
             "id": 77,
             "answerIndex": 3,
             "options": [
-                "4",
-                "8",
-                "16",
-                "24"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "16"
+                },
+                {
+                "correct": true,
+                 "detail": "4 cubes in the center of the 4 faces (top and bottom are left out)\n+ 2 cubes in the center of the 4 edges of the bottom face\n= 16+8\n= 24",
+                "value": "24"
+                }
             ],
-            "text": "How many cubes have two coloured faces each?",
-            "detail": "4 cubes in the center of the 4 faces (top and bottom are left out)\n+ 2 cubes in the center of the 4 edges of the bottom face\n= 16+8\n= 24"
+            "text": "How many cubes have two coloured faces each?"
+           
         },
         {
             "id": 78,
             "answerIndex": 0,
             "options": [
-                "0",
-                "2",
-                "4",
-                "8"
+                {
+                "correct": true,
+                 "detail": "No cubes have more than 3 colored faces.",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "2"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "8"
+                }
             ],
-            "text": "How many cubes havemore than 3coloured faces each?",
-            "detail": "No cubes have more than 3 colored faces."
+            "text": "How many cubes havemore than 3coloured faces each?"
+           
         },
         {
             "id": 79,
             "answerIndex": 3,
             "options": [
-                "0",
-                "4",
-                "6",
-                "8"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "4"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "6"
+                },
+                {
+                "correct": true,
+                 "detail": "The 8 corner cubes have 3 yellow faces.",
+                "value": "8"
+                }
             ],
-            "text": "A cube of side 6 cm is coloured blue with a 1 cm wide yellow strip along all the sides on all the faces. The cube is cut into 216 smaller cubes of equal size.\n\nHow many cubes have three yellow faces each?",
-            "detail": "The 8 corner cubes have 3 yellow faces."
+            "text": "A cube of side 6 cm is coloured blue with a 1 cm wide yellow strip along all the sides on all the faces. The cube is cut into 216 smaller cubes of equal size.\n\nHow many cubes have three yellow faces each?"
+           
         },
         {
             "id": 80,
             "answerIndex": 0,
             "options": [
-                "0",
-                "12",
-                "24",
-                "72"
+                {
+                "correct": true,
+                "detail": "No cube has one face blue and one face yellow.",
+                "value": "0"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "12"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "24"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "72"
+                }
             ],
-            "text": "How many cubes have one face blue and an adjacent face yellow?",
-            "detail": "No cube has one face blue and one face yellow."
+            "text": "How many cubes have one face blue and an adjacent face yellow?"
+            
         },
         {
             "id": 81,
             "answerIndex": 3,
             "options": [
-                "64",
-                "72",
-                "96",
-                "152"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "64"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "72"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "96"
+                },
+                {
+                "correct": true,
+                 "detail": "64 cubes at the center are uncolored on all faces.\n\n216-64 = 152 cubes have at least one face colored.",
+                "value": "152"
+                }
             ],
-            "text": "How many cubes have at least one face coloured?",
-            "detail": "64 cubes at the center are uncolored on all faces.\n\n216-64 = 152 cubes have at least one face colored."
+            "text": "How many cubes have at least one face coloured?"
+           
         },
         {
             "id": 82,
             "answerIndex": 2,
             "options": [
-                "96",
-                "72",
-                "56",
-                "48"
+                {
+                "correct": false,
+                "detail": "",
+                "value": "96"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "72"
+                },
+                {
+                "correct": true,
+                 "detail": "152 cubes have at least one face colored.\n\n6*16 = 96 cubes have one face colored.\n\n152-96 = 156 cubes have at least two faces colored.",
+                "value": "56"
+                },
+                {
+                "correct": false,
+                "detail": "",
+                "value": "48"
+                }
             ],
-            "text": "How many cubes have at least two yellow faces each?",
-            "detail": "152 cubes have at least one face colored.\n\n6*16 = 96 cubes have one face colored.\n\n152-96 = 156 cubes have at least two faces colored."
+            "text": "How many cubes have at least two yellow faces each?"
+           
         }
     ]
 }
