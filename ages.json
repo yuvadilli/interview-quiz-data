@@ -3,7 +3,7 @@
     "description": "For most of the questions in this topic, two or more linear equations will be obtained. Solve those equations to get the answer.\n\nExample:\n\n10 years ago, a father was four times as old as his son. 10 years hence, he will be twice as old his son. Find the son's present age.\n\nSolution:\n\nLet the father's present age be F and the son's age be S.\n\n10 years ago:\n(F-10)=4(S-10)\nF-10 = 4S-40\nF=4S-30\n10 years hence:\n(F+10)=2(S+10)\nF+10=2S+20\nF-2S=10\nReplacing F with 4S-30,\n(4S-30)-2S=10\n2S=40\nS=20\nSon's present age=20 years",
     "id": "aptitude-ages",
     "title": "Aptitude Ages",
-    "topic": "Ages",
+    "topic": "aptitude",
     "questions": [
         {
             "id": 1,
@@ -524,52 +524,51 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "25"
+                    "correct": false,
+                    "detail": "",
+                    "value": "25"
                 },
                 {
-                "correct": true,
-                "detail": "A-C=B/2\n\nA-B=C/6\n\nB+C=32\n\nSolving the three equations,\nA=22\n\n",
-                "value": "22"
+                    "correct": true,
+                    "detail": "A-C=B/2\n\nA-B=C/6\n\nB+C=32\n\nSolving the three equations,\nA=22\n\n",
+                    "value": "22"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "20"
+                    "correct": false,
+                    "detail": "",
+                    "value": "20"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "27"
+                    "correct": false,
+                    "detail": "",
+                    "value": "27"
                 }
             ],
             "text": "The difference between the ages of A and C is half the age of B. The difference between the ages of A and B is one-sixth of the age of C. If the sum of the ages of B and C is 32, find the age of A."
-            
         },
         {
             "id": 21,
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "12"
+                    "correct": false,
+                    "detail": "",
+                    "value": "12"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "6"
+                    "correct": false,
+                    "detail": "",
+                    "value": "6"
                 },
                 {
-                "correct":true,
-                "detail": "Let their present ages be 3x,5x and 7x.\n\nSum of their ages before 5 years\n= 3x-5+5x-5+7x-5\n= 15x-15 = 60\nSolving,\nx=5\nAge of the youngest\n= 3x = 15",
-                "value": "15"
+                    "correct": true,
+                    "detail": "Let their present ages be 3x,5x and 7x.\n\nSum of their ages before 5 years\n= 3x-5+5x-5+7x-5\n= 15x-15 = 60\nSolving,\nx=5\nAge of the youngest\n= 3x = 15",
+                    "value": "15"
                 }
             ],
             "text": "The present ages of three people in a family are in the ratio 3:5:7. If the sum of their ages before 5 years was 60, find the age of the youngest."
@@ -579,24 +578,24 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "11"
+                    "correct": false,
+                    "detail": "",
+                    "value": "11"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "14"
+                    "correct": false,
+                    "detail": "",
+                    "value": "14"
                 },
                 {
-                "correct": true,
-                "detail": "Mother's present age = 3x\nDaughter's present age = x\n\n3x*x = 363\n\n3x² = 363\n\nx² = 121\n\nx = 11\n\nDaughter's age after 4 years = 15\n",
-                "value": "15"
+                    "correct": true,
+                    "detail": "Mother's present age = 3x\nDaughter's present age = x\n\n3x*x = 363\n\n3x² = 363\n\nx² = 121\n\nx = 11\n\nDaughter's age after 4 years = 15\n",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
                 }
             ],
             "text": "The ratio of the ages of a mother and a daughter are in the ratio 3:1. The product of their ages is 363. Find the daughter's age after 4 years."
@@ -605,53 +604,53 @@
             "id": 23,
             "answerIndex": 0,
             "options": [
-               {
-               "correct": true,
-               "detail": "Let the son's present age be x years.\n\nFather's age\n= x+2.5x\n= 3.5x\n(3.5x-5) = 6(x-5)\n\n3.5x-5=6x-30\n\n2.5x=25\n\nx=10\n\nFather's present age = 35",
-               "value": "35"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "40"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "38 "
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "31"
-               }
+                {
+                    "correct": true,
+                    "detail": "Let the son's present age be x years.\n\nFather's age\n= x+2.5x\n= 3.5x\n(3.5x-5) = 6(x-5)\n\n3.5x-5=6x-30\n\n2.5x=25\n\nx=10\n\nFather's present age = 35",
+                    "value": "35"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "40"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "38 "
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "31"
+                }
             ],
             "text": "A father's age is two and a half times more than his son's age. 5 years ago, he was six times the age of his son. Find the father's present age."
         },
         {
             "id": 24,
             "answerIndex": 2,
-           "option": [
-            {
-            "correct": false,
-            "detail": "",
-            "value": "25"
-            },
-            {
-            "correct": false,
-            "detail": "",
-            "value": "33"
-            },
-            {
-            "correct": true,
-            "detail": "Father's present age\n= 60-6\n= 54\nLet the son's present age be x years.\n\nThe father was x years old when the son was born(before x years).\n\n54-x = x\n\nx = 27",
-            "value": "27"
-            },
-            {
-            "correct": false,
-            "detail": "",
-            "value": "30"
-            }
+            "option": [
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "25"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "33"
+                },
+                {
+                    "correct": true,
+                    "detail": "Father's present age\n= 60-6\n= 54\nLet the son's present age be x years.\n\nThe father was x years old when the son was born(before x years).\n\n54-x = x\n\nx = 27",
+                    "value": "27"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "30"
+                }
             ],
             "text": "A boy said to his friends, \"When I was born, my father was as old as I am now\". If his father's age will be 60 after 6 years, find the son's present age."
         },
@@ -659,26 +658,26 @@
             "id": 25,
             "answerIndex": 0,
             "options": [
-               {
-               "correct": true,
-               "detail": "Pooja's present age=4x\nDeepa's present age=5x\n\n(4x-4):(5x-4) = 8:11\n\n44x-44=40x-32\n\n4x=12\n\nx=3\n\n4x=12",
-               "value": "12"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "15"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "14"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "9"
-               }
+                {
+                    "correct": true,
+                    "detail": "Pooja's present age=4x\nDeepa's present age=5x\n\n(4x-4):(5x-4) = 8:11\n\n44x-44=40x-32\n\n4x=12\n\nx=3\n\n4x=12",
+                    "value": "12"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "14"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "9"
+                }
             ],
             "text": "The ages of Pooja and Deepa are in the ratio 4:5. 4 years ago, their ages were in the ratio 8:11. Find Pooja's present age."
         },
@@ -686,52 +685,52 @@
             "id": 26,
             "answerIndex": 2,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "20"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "10"
-               },
-               {
-               "correct": true,
-               "detail": "B=8+S\n(B-2)=2(S-2)\nB-2=2S-4\n8+S-2=2S-4\nS=10\nB=18",
-               "value": "18"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "16"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "20"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
+                },
+                {
+                    "correct": true,
+                    "detail": "B=8+S\n(B-2)=2(S-2)\nB-2=2S-4\n8+S-2=2S-4\nS=10\nB=18",
+                    "value": "18"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "16"
+                }
             ],
             "text": "A boy is 8 years older than his sister. Two years ago, he was twice his sister's age. Find his present age."
         },
-        {  
+        {
             "id": 27,
             "answerIndex": 0,
             "options": [
                 {
-                "correct": true,
-                "detail": "L+N=2(L-N)\nL+N=2L-2N\n3N=L\nN/L = 1/3\nN:L=1:3",
-                "value": "1:3"
+                    "correct": true,
+                    "detail": "L+N=2(L-N)\nL+N=2L-2N\n3N=L\nN/L = 1/3\nN:L=1:3",
+                    "value": "1:3"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "3:1"
+                    "correct": false,
+                    "detail": "",
+                    "value": "3:1"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "1:2"
+                    "correct": false,
+                    "detail": "",
+                    "value": "1:2"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "2:1"
+                    "correct": false,
+                    "detail": "",
+                    "value": "2:1"
                 }
             ],
             "text": "The sum of the ages of Lily and Nancy is twice the difference of their ages. Find the ratio of Nancy's age to Lily's age."
@@ -740,26 +739,26 @@
             "id": 28,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "12"
-               },
-               {
-               "correct": true,
-               "detail": "Let my present age be X.\n\n(X-5)+(M-5)=(F-5)\nX+M=F+5\nX=F-M+5\n\nF-M=6\nX=6+5=11",
-               "value": "11"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "10"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "6"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "12"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let my present age be X.\n\n(X-5)+(M-5)=(F-5)\nX+M=F+5\nX=F-M+5\n\nF-M=6\nX=6+5=11",
+                    "value": "11"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "6"
+                }
             ],
             "text": "Five years ago, the sum of my age and my mother's age was equal to my father's age. If my father is 6 years elder than my mother, find my present age."
         },
@@ -768,51 +767,51 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "15"
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
                 },
                 {
-                "correct": true,
-                "detail": "F=2T\n(T+10)=(2/3)*(F+10)\n3T+30=2F+20\n2F-3T=10\n2*(2T)-3T=10\nT=10\nF=2T=20",
-                "value": "20"
+                    "correct": true,
+                    "detail": "F=2T\n(T+10)=(2/3)*(F+10)\n3T+30=2F+20\n2F-3T=10\n2*(2T)-3T=10\nT=10\nF=2T=20",
+                    "value": "20"
                 }
             ],
             "text": "Flora is twice Tara's age. After 10 years, Tara will be two-third of Flora's age. Find Flora's present age."
-        }, 
+        },
         {
             "id": 30,
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
                 },
                 {
-                "correct": true,
-                "detail": "N=A+9\n\n(A-2)=(1/2)*(N-2)\n2A-4=N-2\n2A-4 = A+9-2\nA = 11",
-                "value": "11"
+                    "correct": true,
+                    "detail": "N=A+9\n\n(A-2)=(1/2)*(N-2)\n2A-4=N-2\n2A-4 = A+9-2\nA = 11",
+                    "value": "11"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "15"
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
                 }
             ],
             "text": "Nina is 9 years older than Angel. Two years ago, Angel's age was half that of Nina's. Find Angel's present age."
@@ -833,53 +832,53 @@
             "id": 32,
             "answerIndex": 3,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "48"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "55"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "49"
-               },
-               {
-               "correct": true,
-               "detail": "Let the age of R in 1994 be x and that of his grandma be 2x.\n\nYear of R's birth\n1994-x\nYear of grandma's birth\n1994-2x\n1994-x+1994-2x=3844\n\n3x = 3988 - 3844\n     = 144\nx = 48\n\nAge of R in 1999 = x+5 = 53",
-               "value": "53"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "48"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "55"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "49"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let the age of R in 1994 be x and that of his grandma be 2x.\n\nYear of R's birth\n1994-x\nYear of grandma's birth\n1994-2x\n1994-x+1994-2x=3844\n\n3x = 3988 - 3844\n     = 144\nx = 48\n\nAge of R in 1999 = x+5 = 53",
+                    "value": "53"
+                }
             ],
             "text": "At the end of 1994, R was half as old as his grandmother. The sum of the years in which they were born is 3844. How old was R at the end of 1999?"
         },
-        {   
+        {
             "id": 33,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "12"
-               },
-               {
-               "correct": true,
-               "detail": "Let the present ages of A, B and C be 3x, 5x and 8x respectively.\n\n(3x-8)+(5x-8)+(8x-8)\n= 40\n16x-24=40\n\n2x-3=5\n\nx=8/2 = 4\n\nB's present age=5x=20",
-               "value": "20"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "24"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "40"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "12"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let the present ages of A, B and C be 3x, 5x and 8x respectively.\n\n(3x-8)+(5x-8)+(8x-8)\n= 40\n16x-24=40\n\n2x-3=5\n\nx=8/2 = 4\n\nB's present age=5x=20",
+                    "value": "20"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "24"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "40"
+                }
             ],
             "text": "The present ages of A,B and C are in the ratio 3:5:8. Eight years ago, the sum of their ages was 40. Find B's present age."
         },
@@ -887,26 +886,26 @@
             "id": 34,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "32"
-               },
-               {
-               "correct": true,
-               "detail": "Let my present age be x.\nBrother's age = x+5\nMy sister is five years elder than my brother.\nSister's age = x+10\nMy father was 30 years of age when my sister was born.\nFather's age\n= x+10+30\n= x+40\nMy mother was 32 years of age when I was born.\nMother's age\n= x+32\nFather's age when my brother was born\n= x+40-(x+5)\n= 35",
-               "value": "35"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "37"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "40"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "32"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let my present age be x.\nBrother's age = x+5\nMy sister is five years elder than my brother.\nSister's age = x+10\nMy father was 30 years of age when my sister was born.\nFather's age\n= x+10+30\n= x+40\nMy mother was 32 years of age when I was born.\nMother's age\n= x+32\nFather's age when my brother was born\n= x+40-(x+5)\n= 35",
+                    "value": "35"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "37"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "40"
+                }
             ],
             "text": "My brother is 5 years elder to me. My father was 30 years of age when my sister was born while my mother was 32 years of age when I was born. If my sister was 5 years of age when my brother was born, then what was the age my father when my brother was born?"
         },
@@ -915,24 +914,24 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": true,
-                "detail": "Let Ajay's age be x.\n\nHis father's age\n= x+32\nHis sister's age\n= x-3\nHis mother's age\n= x-3+29\n= x+26\nDifference between the ages of his parents\n= (x+32)-(x+26)\n= 6",
-                "value": "6"
+                    "correct": true,
+                    "detail": "Let Ajay's age be x.\n\nHis father's age\n= x+32\nHis sister's age\n= x-3\nHis mother's age\n= x-3+29\n= x+26\nDifference between the ages of his parents\n= (x+32)-(x+26)\n= 6",
+                    "value": "6"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "7"
+                    "correct": false,
+                    "detail": "",
+                    "value": "7"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "5"
+                    "correct": false,
+                    "detail": "",
+                    "value": "5"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "4"
+                    "correct": false,
+                    "detail": "",
+                    "value": "4"
                 }
             ],
             "text": "Ajay's father was 32 years of age when he was born while his mother was 29 years old when his sister three years younger to him was born. What is the difference between the ages of his parents?"
@@ -941,26 +940,26 @@
             "id": 36,
             "answerIndex": 0,
             "options": [
-               {
-               "correct": true,
-               "detail": "P-Q = 14      -----(I)\n\n(P-6) = 3(Q-6)\nP-3Q = -12   -----(II)\n\nSolving (I) and (II),\nQ = 13",
-               "value": "13"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "15"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "16"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "18"
-               }
+                {
+                    "correct": true,
+                    "detail": "P-Q = 14      -----(I)\n\n(P-6) = 3(Q-6)\nP-3Q = -12   -----(II)\n\nSolving (I) and (II),\nQ = 13",
+                    "value": "13"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "16"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
+                }
             ],
             "text": "The ages of two person P and Q differ by 14 years. 6 years ago, P was thrice as old as Q. Find the present age of Q."
         },
@@ -969,24 +968,24 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "5"
+                    "correct": false,
+                    "detail": "",
+                    "value": "5"
                 },
                 {
-                "correct": true,
-                "detail": "X+Y = 10+(Y+Z)\n\nX-Z=10",
-                "value": "10"
+                    "correct": true,
+                    "detail": "X+Y = 10+(Y+Z)\n\nX-Z=10",
+                    "value": "10"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "15"
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "20"
+                    "correct": false,
+                    "detail": "",
+                    "value": "20"
                 }
             ],
             "text": "The total age of X and Y is 10 years more than the total age of Y and Z. Find the difference between the ages of X and Z."
@@ -996,24 +995,24 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": true,
-                "detail": "x=3z\nx=y+z+2\ny-z=3\n\nSolving the three equations,\nx=15",
-                "value": "15"
+                    "correct": true,
+                    "detail": "x=3z\nx=y+z+2\ny-z=3\n\nSolving the three equations,\nx=15",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "22"
+                    "correct": false,
+                    "detail": "",
+                    "value": "22"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
                 }
             ],
             "text": "A grand father has 3 grand children. Age difference of the two younger children is 3. The age of the eldest child is 3 times the age of the youngest child and also two years more than the sum of the ages of the other two children. What is the age of the eldest child?"
@@ -1023,24 +1022,24 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "5:2"
+                    "correct": false,
+                    "detail": "",
+                    "value": "5:2"
                 },
                 {
-                "correct": true,
-                "detail": "(F-5) = 5(S-5)\n(F+2) = 3(S+2)\n\nSolving,\nS=12\nF=40\n\nF:S = 10:3",
-                "value": "10:3"
+                    "correct": true,
+                    "detail": "(F-5) = 5(S-5)\n(F+2) = 3(S+2)\n\nSolving,\nS=12\nF=40\n\nF:S = 10:3",
+                    "value": "10:3"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "8:3"
+                    "correct": false,
+                    "detail": "",
+                    "value": "8:3"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "9:4"
+                    "correct": false,
+                    "detail": "",
+                    "value": "9:4"
                 }
             ],
             "text": "Father's age was five times his son's age 5 years ago and will be three times the son's age after 2 yrs. What is the ratio of their present ages?"
@@ -1049,27 +1048,26 @@
             "id": 40,
             "answerIndex": 0,
             "options": [
-               
-               {
-               "correct": true,
-               "detail": "Let the ages of the man and his wife be 4x and 3x.\n\n(4x+4):(3x+4) = 9:7\n\n7(4x+4) = 9(3x+4)\n\nx = 8\n\nm = 32\nw=24\n\nLets assume they were married y years ago.\n\n(32-y):(24-y) = 7:5\n\ny = 4",
-               "value": "4"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "5"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "6"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "8"
-               }
+                {
+                    "correct": true,
+                    "detail": "Let the ages of the man and his wife be 4x and 3x.\n\n(4x+4):(3x+4) = 9:7\n\n7(4x+4) = 9(3x+4)\n\nx = 8\n\nm = 32\nw=24\n\nLets assume they were married y years ago.\n\n(32-y):(24-y) = 7:5\n\ny = 4",
+                    "value": "4"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "5"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "6"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "8"
+                }
             ],
             "text": "The ratio of the age of a man & his wife is 4:3. After 4 years, this ratio will be 9:7. If at the time of marriage, the ratio was 7:5, then how many years ago were they married?"
         },
@@ -1078,25 +1076,25 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "16 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "16 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "28 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "28 years"
                 },
                 {
-                "correct": true,
-                "detail": "S = R-7\nS:R = 7:9\n\n9S = 7R\n9(R-7) = 7R\n\n2R = 63\n\nR = 31.5\nS = 24.5",
-                "value": "24.5 years"
-                } 
+                    "correct": true,
+                    "detail": "S = R-7\nS:R = 7:9\n\n9S = 7R\n9(R-7) = 7R\n\n2R = 63\n\nR = 31.5\nS = 24.5",
+                    "value": "24.5 years"
+                }
             ],
             "text": "Shankar is younger than Raju by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Shankar?"
         },
@@ -1104,26 +1102,26 @@
             "id": 42,
             "answerIndex": 3,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "4:3"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "12:11"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "7:4"
-               },
-               {
-               "correct": true,
-               "detail": "Let the ages of Meena and Neena be 4x and 3x respectively.\nM:N  =4:3\nM+N = 28\n\n4x+3x = 28\nx = 4\n\nM = 16\nN = 12\n\n(M+8):(N+8) = 24:20 = 6:5",
-               "value": "6:5"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "4:3"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "12:11"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "7:4"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let the ages of Meena and Neena be 4x and 3x respectively.\nM:N  =4:3\nM+N = 28\n\n4x+3x = 28\nx = 4\n\nM = 16\nN = 12\n\n(M+8):(N+8) = 24:20 = 6:5",
+                    "value": "6:5"
+                }
             ],
             "text": "The ratio of the ages of Meena and Neena is 4:3. The sum of their ages is 28 years. The ratio of their ages after 8 years will be"
         },
@@ -1132,26 +1130,25 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": true,
-                "detail": "Let the ages of Pramod and Akash be 3x and 5x.\n\n3x+5x=80\n8x = 80\nx = 10\n\n3x = 30\n5x = 50\n\nRatio of their ages after 10 years\n= (3x+10):(5x+10)\n= 40:60\n= 2:3",
-                "value": "2:3"
+                    "correct": true,
+                    "detail": "Let the ages of Pramod and Akash be 3x and 5x.\n\n3x+5x=80\n8x = 80\nx = 10\n\n3x = 30\n5x = 50\n\nRatio of their ages after 10 years\n= (3x+10):(5x+10)\n= 40:60\n= 2:3",
+                    "value": "2:3"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "1:2"
+                    "correct": false,
+                    "detail": "",
+                    "value": "1:2"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "3:2"
+                    "correct": false,
+                    "detail": "",
+                    "value": "3:2"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "3:5"
+                    "correct": false,
+                    "detail": "",
+                    "value": "3:5"
                 }
-               
             ],
             "text": "The ratio of the age of Pramod and the age of Akash is 3:5 and sum of their ages is 80 years. The ratio of their ages after 10 years will be"
         },
@@ -1160,24 +1157,24 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "1 year"
+                    "correct": false,
+                    "detail": "",
+                    "value": "1 year"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "2 year"
+                    "correct": false,
+                    "detail": "",
+                    "value": "2 year"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "25 year"
+                    "correct": false,
+                    "detail": "",
+                    "value": "25 year"
                 },
                 {
-                "correct": true,
-                "detail": "R - Q = Q - T\n\n(R + T) = 2Q\n\nNow given that, (R + T) = 50\n\n2Q = 50\nQ = 25\n\nWithout knowing the value of R or T, we can't find R-Q. Hence, Data Inadequate.",
-                "value": "Data inadequate"
+                    "correct": true,
+                    "detail": "R - Q = Q - T\n\n(R + T) = 2Q\n\nNow given that, (R + T) = 50\n\n2Q = 50\nQ = 25\n\nWithout knowing the value of R or T, we can't find R-Q. Hence, Data Inadequate.",
+                    "value": "Data inadequate"
                 }
             ],
             "text": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, find the difference between the ages of R and Q."
@@ -1187,24 +1184,24 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "20"
+                    "correct": false,
+                    "detail": "",
+                    "value": "20"
                 },
                 {
-                "correct": true,
-                "detail": "A - J = J - P\n2J = AÂ + P\nAÂ + P = 48\n2J = 48\nJ = 24",
-                "value": "24"
+                    "correct": true,
+                    "detail": "A - J = J - P\n2J = AÂ + P\nAÂ + P = 48\n2J = 48\nJ = 24",
+                    "value": "24"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "30"
+                    "correct": false,
+                    "detail": "",
+                    "value": "30"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "None of the above"
+                    "correct": false,
+                    "detail": "",
+                    "value": "None of the above"
                 }
             ],
             "text": "Jayant is as much younger to Akil as he is older to Pranav. If the sum of the ages of Akil and Pranav is 48 years, what is the age of Jayant?"
@@ -1213,26 +1210,26 @@
             "id": 46,
             "answerIndex": 2,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "25 years,10 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "39 years,6 years"
-               },
-               {
-               "correct": true,
-               "detail": "A+B = 45\n(A-5)(B-5) = 4(A-5)\n\nB-5 = 4\nB = 9\nA = 36",
-               "value": "36 years,9 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "None of these"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "25 years,10 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "39 years,6 years"
+                },
+                {
+                    "correct": true,
+                    "detail": "A+B = 45\n(A-5)(B-5) = 4(A-5)\n\nB-5 = 4\nB = 9\nA = 36",
+                    "value": "36 years,9 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "None of these"
+                }
             ],
             "text": "The sum of the ages of A and B is 45 years. Five years ago, the product of their ages was four times the age of A at that time. The present ages of A and B, respectively are"
         },
@@ -1241,24 +1238,24 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "12 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "12 years"
                 },
                 {
-                "correct": true,
-                "detail": "J = 26-6 = 20\n\nJ:N = 4:3\n\nN = 15",
-                "value": "15 years"
+                    "correct": true,
+                    "detail": "J = 26-6 = 20\n\nJ:N = 4:3\n\nN = 15",
+                    "value": "15 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "1912 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "1912 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "21 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "21 years"
                 }
             ],
             "text": "Ratio of Jehin's age to Nitin's age is equal to 4:3. Jehin will be 26 years old after 6 years. How old is Nitin now?"
@@ -1268,24 +1265,24 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "9:2"
+                    "correct": false,
+                    "detail": "",
+                    "value": "9:2"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "12:5"
+                    "correct": false,
+                    "detail": "",
+                    "value": "12:5"
                 },
                 {
-                "correct": true,
-                "detail": "M-1 = 4(D-1)\n4D-M = 3\n\nM+6 = 2(D+6) + 9\nM-2D = 15\n\nSolving,\n2D = 18\nD = 9\nM = 33\n\nM:D = 11:3",
-                "value":" 11:3"
+                    "correct": true,
+                    "detail": "M-1 = 4(D-1)\n4D-M = 3\n\nM+6 = 2(D+6) + 9\nM-2D = 15\n\nSolving,\n2D = 18\nD = 9\nM = 33\n\nM:D = 11:3",
+                    "value": " 11:3"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "13:4"
+                    "correct": false,
+                    "detail": "",
+                    "value": "13:4"
                 }
             ],
             "text": "One year ago, a mother was four times as old as her daughter. Six years hence, the age of the mother will exceed twice the age of her daughter by 9 years. The ratio of the present ages of the mother and her daughter is"
@@ -1294,26 +1291,26 @@
             "id": 49,
             "answerIndex": 3,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "18"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "25"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "15"
-               },
-               {
-               "correct": true,
-               "detail": "S+10 = 40\nS = 30\n\nS-10 = 2(A-10)\n\nA = 20",
-               "value": "20"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "25"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "15"
+                },
+                {
+                    "correct": true,
+                    "detail": "S+10 = 40\nS = 30\n\nS-10 = 2(A-10)\n\nA = 20",
+                    "value": "20"
+                }
             ],
             "text": "Sachin was twice as old as Ajay, 10 years back. How old is Ajay today, if Sachin will be 40 years old, 10 years hence?"
         },
@@ -1321,26 +1318,26 @@
             "id": 50,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "18 years"
-               },
-               {
-               "correct": true,
-               "detail": "V-6 = 3(R-6)\nV+6 = (5/3)*(R+6)\n\nV = 3R-12\n3V = 5R+12\n\nsolving",
-               "value": "12 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "24 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "15 years"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "18 years"
+                },
+                {
+                    "correct": true,
+                    "detail": "V-6 = 3(R-6)\nV+6 = (5/3)*(R+6)\n\nV = 3R-12\n3V = 5R+12\n\nsolving",
+                    "value": "12 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "24 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "15 years"
+                }
             ],
             "text": "Vipin was thrice as old as Ruchi 6 years back. Vipin will be 5/3 times as old as Ruchi 6 years hence. How old is Ruchi today?"
         },
@@ -1349,24 +1346,24 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "96"
+                    "correct": false,
+                    "detail": "",
+                    "value": "96"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "48"
+                    "correct": false,
+                    "detail": "",
+                    "value": "48"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "84"
+                    "correct": false,
+                    "detail": "",
+                    "value": "84"
                 },
                 {
-                "correct": true,
-                "detail": "Age of Anup\n= 5-2 = 3 years\n\nLet the present age of Gulzar be x years.\n\n(x-6)/18 = 3 \n\nx-6 = 54\n\nx = 60",
-                "value": "60"
+                    "correct": true,
+                    "detail": "Age of Anup\n= 5-2 = 3 years\n\nLet the present age of Gulzar be x years.\n\n(x-6)/18 = 3 \n\nx-6 = 54\n\nx = 60",
+                    "value": "60"
                 }
             ],
             "text": "If 6 years are subtracted from the present age of Gulzar and the remainder is divided by 18, then the present age of his grandson Anup is obtained. If Anup is 2 years younger to Mahesh whose age is 5 years, then what is the present age of Gulzar?"
@@ -1376,24 +1373,24 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "9"
+                    "correct": false,
+                    "detail": "",
+                    "value": "9"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
                 },
                 {
-                "correct": true,
-                "detail": "Let the present ages of James and Robert be 3x and 5x respectively.\n\n(3x+9)/(5x+9) = 3/4\n4*(3x+ 9) = 3 (5x+ 9)\n\nSolving, x = 3\n\nRobert's age = 5x = 15 years.",
-                "value": "15"
+                    "correct": true,
+                    "detail": "Let the present ages of James and Robert be 3x and 5x respectively.\n\n(3x+9)/(5x+9) = 3/4\n4*(3x+ 9) = 3 (5x+ 9)\n\nSolving, x = 3\n\nRobert's age = 5x = 15 years.",
+                    "value": "15"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "24"
+                    "correct": false,
+                    "detail": "",
+                    "value": "24"
                 }
             ],
             "text": "The ages of James and Robert are in the ratio of 3 : 5. After 9 years, the ratio of their ages will becomes 3 :4. The present age of Robert is"
@@ -1402,26 +1399,26 @@
             "id": 53,
             "answerIndex": 2,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "40"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "20"
-               },
-               {
-               "correct": true,
-               "detail": "Ten years ago,\nRatio of ages of X, Y and Z = 1:2:3\n\nLet the ages of X, Y and Z, ten years ago be k, 2k and 3k.\n\nSum of their present ages = 90\n\nk+10 +2k+10 +3k+10 = 90\n\n6k = 60\n\nk = 10\n\nPresent age of Y = 2k+10 = 30",
-               "value": "30"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "18"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "40"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "20"
+                },
+                {
+                    "correct": true,
+                    "detail": "Ten years ago,\nRatio of ages of X, Y and Z = 1:2:3\n\nLet the ages of X, Y and Z, ten years ago be k, 2k and 3k.\n\nSum of their present ages = 90\n\nk+10 +2k+10 +3k+10 = 90\n\n6k = 60\n\nk = 10\n\nPresent age of Y = 2k+10 = 30",
+                    "value": "30"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "18"
+                }
             ],
             "text": "The total of the ages of X, Y and Z at present is 90 years. Ten years ago, the ratio of their ages was 1: 2: 3. What is the age of Y at present?"
         },
@@ -1430,24 +1427,24 @@
             "answerIndex": 3,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "8:29"
+                    "correct": false,
+                    "detail": "",
+                    "value": "8:29"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18:59"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18:59"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "19:39"
+                    "correct": false,
+                    "detail": "",
+                    "value": "19:39"
                 },
                 {
-                "correct": true,
-                "detail": "U-8 = 5(L-8)\nU+2 = 3(L+2)\n\n5L-40+8 = 3L+6-2\n2L = 36\nL = 18\nU = 58\n\nL:U = 9:29",
-                "value": "9:29"
+                    "correct": true,
+                    "detail": "U-8 = 5(L-8)\nU+2 = 3(L+2)\n\n5L-40+8 = 3L+6-2\n2L = 36\nL = 18\nU = 58\n\nL:U = 9:29",
+                    "value": "9:29"
                 }
             ],
             "text": "Leela's uncle was 5 times older than her, 8 years ago. He would be 3 times of her age, 2 years from now. Find the present ratio of the ages of Leela and her uncle?"
@@ -1457,53 +1454,52 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "6 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "6 years"
                 },
                 {
-                "correct": true,
-                "detail": "P = 2(R-2)\nP - R = 2\n\nSolving,\nR = 6\nP = 8",
-                "value": "8 years"
+                    "correct": true,
+                    "detail": "P = 2(R-2)\nP - R = 2\n\nSolving,\nR = 6\nP = 8",
+                    "value": "8 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "12 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "12 years"
                 }
             ],
             "text": "Pushpa is twice as old as Rita was two years ago. If the difference between their ages is 2 years, how old is Pushpa today?"
-           
         },
-            {
+        {
             "id": 56,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "35"
-               },
-               {
-               "correct": true,
-               "detail": "Let Arvind's age be x years\nThen his father's age = 4 x years\n(4x-5)=7(x-5) or 3x = 30 or x = 10\nHence Arvind's father's age is 40 years",
-               "value": "40"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "70"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "84"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "35"
+                },
+                {
+                    "correct": true,
+                    "detail": "Let Arvind's age be x years\nThen his father's age = 4 x years\n(4x-5)=7(x-5) or 3x = 30 or x = 10\nHence Arvind's father's age is 40 years",
+                    "value": "40"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "70"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "84"
+                }
             ],
             "text": "The age of Vinod's father is 4 times his age. If 5 years ago, father's age was 7 times the age of his son at the time, what is Vinod's father's present age?"
         },
@@ -1511,26 +1507,26 @@
             "id": 57,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "5 years"
-               },
-               {
-               "correct": true,
-               "detail": "Average age of 10 students\n= 20\nSum of the ages of the 10 students\n= 10*20 = 200\nLet the age of the new student be x.\nThe new average = 20-1 = 19\n\n200+x = 19*11\n\nx = 9",
-               "value": "9 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "7 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "11 years"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "5 years"
+                },
+                {
+                    "correct": true,
+                    "detail": "Average age of 10 students\n= 20\nSum of the ages of the 10 students\n= 10*20 = 200\nLet the age of the new student be x.\nThe new average = 20-1 = 19\n\n200+x = 19*11\n\nx = 9",
+                    "value": "9 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "7 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "11 years"
+                }
             ],
             "text": "The average age of 10 students is 20 years. If the age of one more student is included, the average decreases by 1. What is the age of the new student?"
         },
@@ -1539,24 +1535,24 @@
             "answerIndex": 2,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "9 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "9 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "36 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "36 years"
                 },
                 {
-                "correct": true,
-                "detail": "Let the present age of Vikas be x years\nThen, 17-5 =Â 1/3 * (x-5)\nor x-5=36 or x = 41",
-                "value": "41 years"
+                    "correct": true,
+                    "detail": "Let the present age of Vikas be x years\nThen, 17-5 =Â 1/3 * (x-5)\nor x-5=36 or x = 41",
+                    "value": "41 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "51 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "51 years"
                 }
             ],
             "text": "Five years ago, Vinay's age was one-third of the age of Vikas and now Vinay's age is 17 years. What is the present age of Vikas?"
@@ -1565,26 +1561,26 @@
             "id": 59,
             "answerIndex": 1,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "only P"
-               },
-               {
-               "correct": true,
-               "detail": "Given\nA+B+C = 96\n\nP:\nA = C+6\n\nQ:\nB+C = 56\n\nBoth the statements P and Q are needed to find the age of B.",
-               "value": "Both P and Q"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "Q"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "None of these"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "only P"
+                },
+                {
+                    "correct": true,
+                    "detail": "Given\nA+B+C = 96\n\nP:\nA = C+6\n\nQ:\nB+C = 56\n\nBoth the statements P and Q are needed to find the age of B.",
+                    "value": "Both P and Q"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "Q"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "None of these"
+                }
             ],
             "text": "The sum of the ages of A, B and C is 96 years. To find the age of B, which of the following information given in the statements P and Q is/are sufficient?\n\nP  : A is 6 years older than C.\nQ : The sum of the ages of B and C is 56 years."
         },
@@ -1592,26 +1588,26 @@
             "id": 60,
             "answerIndex": 2,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "27 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "32 years"
-               },
-               {
-               "correct": true,
-               "detail": "P = 3A\nP+12 = 2(A+12)\nP-2A = 12\n\nA = 12\nP = 36",
-               "value": "36 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "40 years"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "27 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "32 years"
+                },
+                {
+                    "correct": true,
+                    "detail": "P = 3A\nP+12 = 2(A+12)\nP-2A = 12\n\nA = 12\nP = 36",
+                    "value": "36 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "40 years"
+                }
             ],
             "text": "The age of Pradeep is 3 times that of Arun. In 12 years, the age of Pradeep will be double the age of Arun. Find the present age of Pradeep."
         },
@@ -1619,26 +1615,26 @@
             "id": 61,
             "answerIndex": 2,
             "options": [
-               {
-               "correct": false,
-               "detail": "",
-               "value": "19 years"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "29"
-               },
-               {
-               "correct": true,
-               "detail": "A+10 = 2(B-10)\nA = 9+B\n\nA-2B = -30\nA-B = 9\n\nB = 39",
-               "value": "39"
-               },
-               {
-               "correct": false,
-               "detail": "",
-               "value": "49"
-               }
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "19 years"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "29"
+                },
+                {
+                    "correct": true,
+                    "detail": "A+10 = 2(B-10)\nA = 9+B\n\nA-2B = -30\nA-B = 9\n\nB = 39",
+                    "value": "39"
+                },
+                {
+                    "correct": false,
+                    "detail": "",
+                    "value": "49"
+                }
             ],
             "text": "In 10 years, A will be twice as old as B was 10 years ago. If A is now 9 years older than B, the present age of B is"
         },
@@ -1647,24 +1643,24 @@
             "answerIndex": 1,
             "options": [
                 {
-                "correct": false,
-                "detail": "",
-                "value": "5 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "5 years"
                 },
                 {
-                "correct": true,
-                "detail": "Let the ages of Mr.Anup and his son be 4x and x.\n\n4x+4+x+4 = 43\n\n5x = 35\n\nx = 7",
-                "value": "7 years"
+                    "correct": true,
+                    "detail": "Let the ages of Mr.Anup and his son be 4x and x.\n\n4x+4+x+4 = 43\n\n5x = 35\n\nx = 7",
+                    "value": "7 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "8 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "8 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "10 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "10 years"
                 }
             ],
             "text": "Mr.Anup is 4 times as old as his son. Four years hence, the sum of their ages will be 43 years. The present age of his son is"
@@ -1674,24 +1670,24 @@
             "answerIndex": 0,
             "options": [
                 {
-                "correct": true,
-                "detail": "Let the present ages of son and father be x years and (56-x) years respectively.\n\n(56-x+4)=3(x+4)\n\n4x =48\n\nx = 12\n\nThe ages of the son and father are 12 years and 44 years.",
-                "value": "12 years,44 years"
+                    "correct": true,
+                    "detail": "Let the present ages of son and father be x years and (56-x) years respectively.\n\n(56-x+4)=3(x+4)\n\n4x =48\n\nx = 12\n\nThe ages of the son and father are 12 years and 44 years.",
+                    "value": "12 years,44 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "16 years,42 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "16 years,42 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "16 years,48 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "16 years,48 years"
                 },
                 {
-                "correct": false,
-                "detail": "",
-                "value": "18 years,36 years"
+                    "correct": false,
+                    "detail": "",
+                    "value": "18 years,36 years"
                 }
             ],
             "text": "The sum of the ages of Manav and his father is 56 years. After 4 years, the age of the father will be three times Manav's age. Their ages respectively are"
