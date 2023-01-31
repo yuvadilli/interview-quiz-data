@@ -10,22 +10,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the ages of A and B be 2x and 3x respectively.\n\n3x=2x+3\nA=2x=6 \nB=3x=9\n\nAge of A after 2 years is 8.",
                     "value": "8"
                 }
@@ -37,22 +37,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "14"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the ages of A and B be 2x and 3x respectively.\n\n3x=2x+3\nA=2x=6 \nB=3x=9\n\nAge of A after 2 years is 8.",
                     "value": "6"
                 }
@@ -65,22 +65,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the age of the parents be x and x+6.\nLet the age of the siblings be y and y+4.\n\nx+6-y=33\n(x+x+6+y+y+4)/4 = 20\n\nSolving the equations,  y=4",
                     "value": "4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2"
                 }
@@ -92,22 +92,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "R=L+5\nL=B+4\nR+L+B=61\nSolving the three equations, L=20",
                     "value": "20"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "16"
                 }
@@ -119,22 +119,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "27"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "30"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "M+S=F\nF+3=6(S+3)\nM/S = 10\nSolving these equations, F = 33",
                     "value": "33"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36"
                 }
@@ -146,22 +146,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "R+R+F=47\nF-R=29\nSolving the two equations, R=6",
                     "value": "6"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "9"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "11"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "14"
                 }
@@ -173,22 +173,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "58"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let my age be x and my mother's age be y.\ny-13 = 3(x-13)\ny-2 = 2(x-2)\nSolving the two equations, y=46",
                     "value": "46"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "28"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24"
                 }
@@ -200,22 +200,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "x,y and z are square numbers.\n(x+5)+(y+5)+(z+5)=41\nx+y+z=26\nBy trial and error method, their ages are 1, 9 and 16.\n\nThe age of his eldest daughter after 2 years is 18.",
                     "value": "18"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "16"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "11"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "9"
                 }
@@ -227,22 +227,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "N=3S\nF=2N+40\nF+N+S=1240\nSolving these, N=360",
                     "value": "360"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "240"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "120"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "480"
                 }
@@ -254,22 +254,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "42"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "F=3S\nF+15=2(S+15)\nSolving the two equations, F=45",
                     "value": "45"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "48"
                 }
@@ -281,22 +281,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "42 years"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "48 years"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "70 years"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the man's age be x years and his son's age be y years.\n\n(x/6)+(x/12)+(x/7)+5+y+4=x\nx=2y\nSolving, x=84",
                     "value": "84 years"
                 }
@@ -308,22 +308,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "P"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "Q"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "R"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "R+S>2Q\nQ<(R+S)/2\nSince R<Q,  S>Q\n\nR<Q<S<P",
                     "value": "S"
                 }
@@ -335,22 +335,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "9"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let his sister's present age be x.\n\nShyam's present age = 2x\n\n2x-3 = 3(x-3)\n\nx = 6",
                     "value": "6"
                 }
@@ -362,22 +362,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let his present age be x.\n\nx+1 = 2(x-10)\n\nSolving, x = 21",
                     "value": "21 years"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "23 years"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "22 years"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25 years"
                 }
@@ -389,22 +389,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "V=8+N\n(V/N)=(5/3)\nSolving the two equations, \nN =12",
                     "value": "12"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20"
                 }
@@ -416,22 +416,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let Raj's age be x and Ram's age be y.\nx-y=7\nx-5=2(y-5)\nSolving the two linear equations, \ny=12,y+4=16",
                     "value": "16"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "21"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25"
                 }
@@ -443,22 +443,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "",
                     "value": "25"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "A=S+3\nS=M+5\nA+S+M=73\nS+3+S+S-5=73\nS=25",
                     "value": "28"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "30"
                 }
@@ -470,22 +470,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "(K-5)/5 = (D-5)/7\n(K+D)/2 = 29\n\nSolving, K=25, D=33\n\nK+5=30",
                     "value": "30"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "38"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "35"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25"
                 }
@@ -497,22 +497,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "18"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "19"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the ages of the three brothers be x,y and z.\n\n(x+y)/2 = 21\nx+y=42\n\n(x+y+z)/3=19\n\nx+y+z=57\n\n42+z=57\n\nz=15",
                     "value": "15"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "21"
                 }

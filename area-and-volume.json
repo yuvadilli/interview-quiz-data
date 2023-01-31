@@ -10,22 +10,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of blocks needed = (50*50*50)/(1*5*10) = 2500",
                     "value": "2500"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "500"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "50"
                 }
@@ -37,22 +37,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "A wooden cube constructed from these blocks will have a side of minimum 8cm.\n\nNo. of blocks needed = (8*8*8)/(2*4*8) = 8",
                     "value": "8"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "16"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "32"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "64"
                 }
@@ -64,22 +64,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Total volume of the three cubes \n= 3³+4³+5³ = 216m³\nSide of the new cube = 6m",
                     "value": "6"
                 }
@@ -91,22 +91,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "108"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "54"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the smaller cubes \n= a³ = 8m³\nNumber of cubes = 216/8 = 27",
                     "value": "27"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 }
@@ -118,22 +118,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "150"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "50"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of cubes needed \n= Volume of the cuboid/Volume of a cube\n= (10*15*5)/(5*5*5) = 6\n",
                     "value": "6"
                 }
@@ -145,22 +145,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the smaller cube \n= 16*9*12 : 64 \n= 27m³\nSide of the smaller cube = 3m",
                     "value": "3"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 }
@@ -172,22 +172,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20 m³"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the cylinder \n= πr²h = 550m³\nVolume of the cuboid \n= 550/11 = 50 m³",
                     "value": "50 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100 m³"
                 }
@@ -199,22 +199,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of revolutions \n= Distance travelled/Circumference \n= 39600/πd \n= 600",
                     "value": "600"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "300"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "150"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "115"
                 }
@@ -226,22 +226,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "50 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the cube = Volume of the sheet\n\n5³ = 0.2*a²\n\na = 25 cm",
                     "value": "25 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20 cm"
                 }
@@ -253,22 +253,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "0.88 hrs"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Circumference of the track \n= 2*π*70 m \n= 440m\nTime to complete 20 rounds \n= 20*440/5000 \n= 1.76 hrs",
                     "value": "1.76 hrs"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "50.4 hrs"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "61.6 hrs"
                 }
@@ -280,22 +280,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12.5 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25 cm²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Diagonal of the square = Diameter of the circle\n\n√2 a = 2r = 10cm\n\na² = 50 cm²",
                     "value": "50 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100 cm²"
                 }
@@ -307,22 +307,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "7.5m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "2*12*8 = (2*12h) + (2*8h)\n\nh = 4.8m",
                     "value": "4.8m"
                 }
@@ -334,22 +334,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Diameter of the circle = Side of the square\n\n2r = a\n\nArea = πa²/4",
                     "value": "πa²/4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "πa²/2"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "πa²/8"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "πa²"
                 }
@@ -361,22 +361,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "30 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36 cm²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "2x=b\n\n3x=l\n\n2b+2l=30\n\nx=3\n\nA=b*l\n\nA=54cm²",
                     "value": "54 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "180 cm²"
                 }
@@ -388,22 +388,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "480 liters"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "240 liters"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "240000 liters"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the tank \n= 12*10*4\n= 480 cubic metres\n\nConverting cubic metre to liters,\nCapacity of the tank\n= 480*1000 \n= 480,000 liters\n",
                     "value": "480000 liters"
                 }
@@ -415,22 +415,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the length of its edge be a m.\n\nVolume of a cube \n= a³ cubic units\nSurface area \n= 6a² square units\na³ = 6a²\n\na = 6 units",
                     "value": "6 units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36 units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12 units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10 units"
                 }
@@ -442,22 +442,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "64 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Area of a hexagon \n= (3√3/2)a² = 96√3\n\na² = 96*2/3 = 64\n\na = 8 cm\n\nPerimeter of a hexagon\n= 6a\n= 48 cm",
                     "value": "48 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "96 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36 cm"
                 }
@@ -469,22 +469,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "170m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "136m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15m²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "√(l²+b²) = 17\n\nl²+b² = 289\n\nl² = 289-64 = 225\n\nl = 15m\n\nArea = 15*8 = 120 m²",
                     "value": "120m²"
                 }
@@ -496,22 +496,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6 minutes"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "30 minutes"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Side of the field \n= √20000\n= 100√2 m\nDiagonal of the field\n=  √2a\n= 200 m\nTime taken to cross 200 m\n= 0.2/4\n= 0.05 hrs\n= 3 minutes",
                     "value": "3 minutes"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5 minutes"
                 }
@@ -523,22 +523,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3:1"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Surface area of a 3 cm cube\n= 6*3²\n= 54 cm²\nSurface area of a 1 cm cube\n= 6*1²\n= 6 cm²\nNo. of smaller cubes formed\n= Volume of larger cube/Volume of smaller cube\n= 3³/1³\n= 27\nRatio\n= 54/(27*6)\n= 1:3",
                     "value": "1:3"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1:9"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "27:1"
                 }
@@ -550,22 +550,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "13m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Diagonal of the rectangle\n= √(l²+b²) = 13\nl²+b² = 169\nlb = 60\n\n(60/b)²+b² = 169\n\n(b^4)-169(b^2)+3600 = 0\n\nb² = 144 or 25\nb = 12 or 5\n\nBreadth is the shortest side, hence b = 5m\n\nLength = 12m",
                     "value": "12m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10m"
                 }
@@ -577,22 +577,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "New radius \n= (r+x) units\nNew circumference\n= 2π(r+x) units\nOriginal circumference\n= 2πr units\nThe circumference increases by 2πx units.",
                     "value": "2πx units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2πr units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2π(r+x) units"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2π units"
                 }
@@ -604,22 +604,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "The cow can graze the circular area in the middle of the field with radius equal to the length of the rope.\n\nArea which can be grazed by the cow\n= πr²\n= 616 sq.ft\nArea grazed in a day\n= 50 sq.ft\nTime taken to graze 616 sq.ft\n= 616/50\n= 12.13 days",
                     "value": "12"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24"
                 }
@@ -631,22 +631,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6.25%"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the metal block\n= lbh cubic units\n= 2*4*5.5\n= 44 cm³\nVolume of the cylinder\n= πr²h cubic units\n= (22/7)*(4*4)*7 cm³\n= 352 cm³\n% of space occupied by the block\n= (44/352)*100\n= 12.5%",
                     "value": "12.5%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "22%"
                 }
@@ -658,22 +658,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "lb+x(l+b)+x²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "lb+x(l+b)"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Area of the rectangle\n= (l+x)(b+x)\n= lb+x(l+b)+x²\nIncrease in area\n= x(l+b)+x²",
                     "value": "x(l+b)+x²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4x"
                 }
@@ -685,22 +685,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "74 cm³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "218 cm³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "400 cm³"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the first cube\n= 5³\n= 125 cm³\nVolume of the second  cube\n= 7³\n= 343 cm³\nVolume of the new cube\n= 125+343\n= 468 cm³",
                     "value": "468 cm³"
                 }
@@ -712,22 +712,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "150%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "600%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "500%"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Surface area of a 5 cm cube\n= 6*5²\n= 150 cm²\nSurface area of a 1 cm cube\n= 6*1²\n= 6 cm²\nNo. of smaller cubes formed\n= Volume of larger cube/Volume of smaller cube\n= 5³/1³\n= 125\nSum of surface areas of smaller cubes\n= 125*6\n= 750 m²\nIncrease in surface area\n= 600 m²\n% increase\n= (600/150)*100\n= 400%",
                     "value": "400%"
                 }
@@ -739,22 +739,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "13m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Diagonal of the rectangle\n= √(l²+b²) = 13\nl²+b² = 169\nlb = 60\n\n(60/b)²+b² = 169\n\n(b^4)-169(b^2)+3600 = 0\n\nb² = 144 or 25\nb = 12 or 5\n\nBreadth is the shortest side, hence b = 5m\n\nLength = 12m ",
                     "value": "12m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10m"
                 }
@@ -766,22 +766,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Height of the cylinder = Length of the paper\nCircumference of its base = Breadth of the paper\n2πr = b\n\nDiameter \nd = 2r = b/π\nd:b = 1:π",
                     "value": "1:π"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2:π"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "π:1"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "π:2"
                 }
@@ -793,22 +793,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "450 m x 300 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "150 m x 100 m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Raj's speed = 24 kmph\n\nIn 60 mins, he covers 24 km.\nIn 4 mins, he covers\n24000/15 = 1600 m\nPerimeter of the park\n= 1600 m\nl:b = 3:2\n\n2(l+b)=1600\n2*(3x+2x)=1600\nx=160\n\nl=480m, b=320m",
                     "value": "480 m x 320 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100 m x 100 m"
                 }
@@ -820,22 +820,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "45 feet"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "63 feet"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "275 feet"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the revolutions made by the front wheel be x and that of the back wheel be x-10\n\nx*7 = (x-10)*9\n\n7x = 9x-90\n\nx=45\n\nDistance = 45*7 = 315 feet",
                     "value": "315 feet"
                 }
@@ -847,22 +847,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24 feet"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "22 feet"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the radius of the pool be r feet.\n\nArea of the pool\n= πr²\nArea of the concrete wall\n= π(r+4)² - πr²\n= 8πr+16π\n\n(8πr+16π) = (11/25)*πr²\n\n200r+400=11r²\n\n11r²-200r-400=0\n\nSolving,\nr=20",
                     "value": "20 feet"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "14 feet"
                 }
@@ -874,22 +874,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the length, breadth and height be 3x, 2x and x.\n\nArea of the 4 walls\n= 2h(l+b)\n= 2x*5x\n= 10x²\n\nNew length, breadth and height\n= 6x, x, (x/2)\n\nNew area\n= 2*(x/2)*(7x)\n= 7x²\n\nDecrease in area\n= 3x²\n% decrease\n= (3x²/10x²)*100\n= 30%",
                     "value": "30%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "18.75"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "13.6%"
                 }
@@ -901,22 +901,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5.5"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume of the bar\n= lbh\n= 60 cm³\nIf the volume is reduced by 19%,\nnew volume\n= 81% of 60\n= 48.6\nLet the length and breadth be reduced to x%.\n\n((x/100*6)*(x/100)*5)*2 = 48.6\n\n6x² = 48600\nx² = 8100\nx = 90\n\nNew width = 90% of 5 = 4.5",
                     "value": "4.5"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "7.5"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6.5"
                 }
@@ -928,22 +928,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6K"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8K"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12K"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "lw = K\n\n2l*4w = 8lw\n\n8lw-lw = 7lw = 7K\n\n",
                     "value": "7K"
                 }
@@ -955,22 +955,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": " Perimeter of the square\n= 4x+8\nPerimeter of the triangle\n= 6x\n\n4x+8=6x\nx=4",
                     "value": "4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6"
                 }
@@ -982,22 +982,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "16%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "44%"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the radius of the circle be r units and the area be πr² square units.\n\nNew radius = 0.8r\n\nNew area\n= 0.64 πr²\n\nDecrease in area\n= 0.36 πr²\n36% decrease.",
                     "value": "36%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "40%"
                 }
@@ -1009,22 +1009,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "x²/9"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the two sides of the rectangular yard be l feet and b feet.\n\nx feet of fencing covers three sides.\n\nx = 2l + b\nb = x-2l\n\nArea of the yard\n= lb square feet\n= l(x-2l)\n= lx - 2l²\nTo get the maximum possible value for the area,\nd(area)/dl = 0\nx - 4l = 0\nl = x/4\nThe maximum value for area occurs when l = x/4\n\nb = x-2l = x/2\n\nArea\n= (x/4)(x/2)\n= x²/8",
                     "value": "x²/8"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "x²/4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "x²"
                 }
@@ -1036,22 +1036,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "120"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "240"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of cubes needed\n= 10*9*5\n= 450",
                     "value": "450"
                 }
@@ -1063,22 +1063,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "100%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "200%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "700%"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "v = (4/3) πr³\n\nR = 2r\n\nV = 8*(4/3)πr³\n\nThe volume increses by 800%.",
                     "value": "800%"
                 }
@@ -1090,22 +1090,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "The area gets doubled since the two triangles are identical.\n\nHence, the area is increased by 100%.",
                     "value": "100%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "150%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "300%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "120%"
                 }
@@ -1117,22 +1117,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2424 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2446 cm²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "V = (4/3)πr³ = (88/21)*14³\n\nr = 14\n\nCSA of a sphere\n= 4πr²\n= 2464 cm²",
                     "value": "2464 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2484 cm²"
                 }
@@ -1144,22 +1144,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "V = (1/3)πr²h\n\nIf the height is doubled, the volume is also doubled. Hence, the volume increases by 100%.",
                     "value": "100%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "200%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "300%"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "400%"
                 }
@@ -1171,22 +1171,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "Rs.1050"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "Rs.1400"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the length, breadth and height of the room be l, b and h units.\n\nArea of the 4 walls\n= 2h(l+b)\nIf the length, breadth and height are 3l, 3b and 3h,\n\nArea of the 4 walls\n= 18h(l+b)\n\nCost = 350*9 = Rs.3150",
                     "value": "Rs.3150"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "Rs.4200"
                 }
@@ -1198,22 +1198,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "πr² = 154\nr = 7\nh = 14\n\nl = √(r²+h²) = 7√5\n\nCSA = πrl = 154√5 cm²",
                     "value": "(154×√5) cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "11 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "(154×√7) cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "5324 cm²"
                 }
@@ -1225,22 +1225,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "1/3 πr²h = πr²H\n\nh = 3H = 15 cm",
                     "value": "15 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "18 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "24 cm"
                 }
@@ -1252,22 +1252,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "20 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Total displacement of water\n= 50*4\n= 200\n\n40*20*h = 200\nh = 1/4 m = 25 cm",
                     "value": "25 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "35 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "50 cm"
                 }
@@ -1279,22 +1279,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2 h"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4 h"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Let the height of the cylinder be H.\n\n1/3 πr²h + πr²H = 3*(1/3 πr²h)\n\nh/3 + H = h\n\nH = 2h/3",
                     "value": "2h/3"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "h"
                 }
@@ -1306,22 +1306,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 5"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Ratio\n=(6*1*1 / 6*5*5)\n= 1:25",
                     "value": "1 : 25"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 125"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 625"
                 }
@@ -1333,22 +1333,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "84"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Volume needed\n= 2*3.5*0.12\n= 0.84",
                     "value": "0.84"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8.4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "0.084"
                 }
@@ -1360,22 +1360,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "196 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "784 cm²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "a³ = 2744\n\na = 14\n\n6² = 1176 cm²",
                     "value": "1176 cm²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "588 cm²"
                 }
@@ -1387,22 +1387,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "9800000"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of boxes\n= (800*700*600)/(8*7*6)\n= 1000000",
                     "value": "1000000"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "7500000"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1200000"
                 }
@@ -1414,22 +1414,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10/√3 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "6a² = 600\na = 10\n\nd = √3 a = 10√3 cm",
                     "value": "10√3 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10/√2 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10√2 cm"
                 }
@@ -1441,22 +1441,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "720"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "900"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "2lb = 2h(l+b)\n\n15*12 = h*27\n\nh = 20/3\n\nlbh = 1200",
                     "value": "1200"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1800"
                 }
@@ -1468,22 +1468,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of cubes\n= 18³/3³\n= 216",
                     "value": "216"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "218"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "432"
                 }
@@ -1495,22 +1495,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "56 kg"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Weight of the beam\n= 9*0.4*0.2*50\n= 36",
                     "value": "36 kg"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "48 kg"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "27 kg"
                 }
@@ -1522,22 +1522,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "32 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "36 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "40 m³"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "r = d/2 = 1\n\nVolume of earth\n= πr²h\n= 44 m³",
                     "value": "44 m³"
                 }
@@ -1549,22 +1549,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 16"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4 : 1"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "r1:r2 = 4:1\n\nSurface area is proportional to the square of the radius.\n\nA1: A2 = 16:1",
                     "value": "16 : 1"
                 }
@@ -1576,22 +1576,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4:π"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Side of the cube = Diameter of the sphere\n\na = 2r\n\na³ : (4/3)πr³\n= 8r³ : (4/3)πr³\n= 6:π",
                     "value": "6:π"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4:3π"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2:π"
                 }
@@ -1603,22 +1603,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2√2 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Diagonal of the box\n= √(l²+b²+h²)\n= √104\n= 2√26 cm",
                     "value": "2√26 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2√14 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "10√2 cm"
                 }
@@ -1630,22 +1630,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 : 2"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Surface area of a sphere is proportional to the square of its radius.\n\nRatio of surface areas\n= 1:4",
                     "value": "1 : 4"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 :√2"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3 : 8"
                 }
@@ -1657,22 +1657,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "2 metres"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "vDiagonal of the cube\n= √3 a\n= 3 m",
                     "value": "3 metres"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4 metres"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3√3metres"
                 }
@@ -1684,22 +1684,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1 time"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3 times"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "6 times"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "πr²h = π(1/3r)²H\n\nH = 9h",
                     "value": "9 times"
                 }
@@ -1711,22 +1711,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1300 m³"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "6a² = 726\n\na = 11\n\nVolume = a³ = 1331",
                     "value": "1331 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1452 m³"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1542 m³"
                 }
@@ -1738,22 +1738,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "is doubled"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "increases 6 times"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "increases 4 times"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "V = a³\n\nIf the edge is doubled, volume becomes 8 times.",
                     "value": "increases 8 times"
                 }
@@ -1765,22 +1765,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "120 litres"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "12000 litres"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "1200 litres"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "8*6*2.5\n= 120 m³\n= 120000 liters",
                     "value": "120000 litres"
                 }
@@ -1792,22 +1792,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "30 m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Dialonal of the room\n= √(l²+b²+h²)\n= √1800\n= 30√2 m",
                     "value": "30√2 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "15√2 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "60 m"
                 }
@@ -1819,22 +1819,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "4πR² = 2π6*12\n\nR = 6 cm",
                     "value": "6 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "8 cm"
                 }
@@ -1846,22 +1846,22 @@
             "answerIndex": 0,
             "options": [
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Area is proportional to the square of the diagonals.\n\nRatio = 4:25",
                     "value": "4:25"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "4:15"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3:25"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "3:15"
                 }
@@ -1873,22 +1873,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "22 cm"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "4a1 = 40\n4a2 = 32\n\na1 = 10\na2 = 8\n\na² = a1² - a2² = 36\na = 6\n\n4a = 24",
                     "value": "24 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "26 cm"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "28 cm"
                 }
@@ -1900,22 +1900,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "18 m"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "l = 1.15 b\n\nlb = 460\n1.15 b² = 460\nb² = 400\nb = 20",
                     "value": "20 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "22 m"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "25 m"
                 }
@@ -1927,22 +1927,22 @@
             "answerIndex": 2,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "152600 m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "153500 m²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Perimeter of the park\n= Distance covered by the man in 8 minutes\n= 8*12000/60\n= 1600\n2(l+b) = 1600\nl+b = 800\nl:b = 3:2\n\nSolving,\nl = 480\nb = 320\n\nArea = lb = 153600",
                     "value": "153600 m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "153800 m²"
                 }
@@ -1954,22 +1954,22 @@
             "answerIndex": 1,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "42 m²"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "Area of the wet surface\n= 2h(l+b) + lb\n= 2*1.25(4+6)+6*4\n= 49 m²",
                     "value": "49 m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "52 m²"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "64 m²"
                 }
@@ -1981,22 +1981,22 @@
             "answerIndex": 3,
             "options": [
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "800"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "125"
                 },
                 {
-                    "correct": "false",
+                    "correct": false,
                     "detail": "",
                     "value": "400"
                 },
                 {
-                    "correct": "true",
+                    "correct": true,
                     "detail": "No. of balls\n= (100*100*100)/(5*5*5)\n= 8000",
                     "value": "8000"
                 }
